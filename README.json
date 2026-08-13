@@ -1,0 +1,2697 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔝CarHackingTools",
+          "description": "Collection of Common Car Hacking Tools a scripts collection to help jump start car research and hacking.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2023-05-07T12:35:42Z",
+            "owner": "jgamblin",
+            "repo": "CarHackingTools",
+            "stars": 971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔝Caring Caribou",
+          "description": "A friendly car security exploration tool for the CAN bus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-12T23:35:05Z",
+            "owner": "CaringCaribou",
+            "repo": "caringcaribou",
+            "stars": 941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔝CANalyzat0r",
+          "description": "Security analysis toolkit for proprietary car protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-21T11:06:07Z",
+            "owner": "schutzwerk",
+            "repo": "CANalyzat0r",
+            "stars": 793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔝CAN_Reverse_Engineering",
+          "description": "Automated Payload Reverse Engineering Pipeline for the Controller Area Network (CAN) protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-27T22:40:25Z",
+            "owner": "brent-stone",
+            "repo": "CAN_Reverse_Engineering",
+            "stars": 452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔝CANToolz",
+          "description": "Black-box CAN network analysis framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-07T13:18:09Z",
+            "owner": "CANToolz",
+            "repo": "CANToolz",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔝carhacking",
+          "description": "Car hacking scripts and docs collection.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-01-12T19:23:51Z",
+            "owner": "daedalus",
+            "repo": "carhacking",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "parse_can_logs",
+          "description": "Parse CAN logs and visualize data streams on plot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-28T15:11:33Z",
+            "owner": "v-ivanyshyn",
+            "repo": "parse_can_logs",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reversegear",
+          "description": "Offline Reverse Engineering Tools for Automotive Networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-08T02:54:54Z",
+            "owner": "linklayer",
+            "repo": "reversegear",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReCAN",
+          "description": "Reverse engineering of Controller Area Networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-05-03T08:45:44Z",
+            "owner": "Cyberdefence-Lab-Murcia",
+            "repo": "ReCAN",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "Hacking and Reverse Engineering tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ELM327-emulator",
+          "description": "ELM327 Emulator for testing software interfacing OBDII via ELM327 adapter supporting multi-ECU simulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-22T06:28:16Z",
+            "owner": "Ircama",
+            "repo": "ELM327-emulator",
+            "stars": 668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ECU-simulator",
+          "description": "Tool that simulates some vehicle diagnostic services. It can be used to test OBD-II dongles or tester tools that support the UDS (ISO 14229) and ISO-TP (ISO 15765-2) protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-06-02T06:58:16Z",
+            "owner": "lbenthins",
+            "repo": "ecu-simulator",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "canerrsim",
+          "description": "CAN bus error frame simulator and monitor for testing error conditions using SocketCAN.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-02T14:25:29Z",
+            "owner": "zeljkoavramovic",
+            "repo": "canerrsim",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Test equipment and simulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Protocols"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DDT4All",
+          "description": "Tool to create your own ECU parameters screens and connect to a CAN network with a cheap ELM327 interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T14:42:25Z",
+            "owner": "cedricp",
+            "repo": "ddt4all",
+            "stars": 1801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyvit",
+          "description": "Python Vehicle Interface Toolkit (archived).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-12-03T21:51:27Z",
+            "owner": "linklayer",
+            "repo": "pyvit",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "freediag",
+          "description": "Free diagnostic software for OBD-II compliant motor vehicles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-09-09T18:33:55Z",
+            "owner": "fenugrec",
+            "repo": "freediag",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OBDium",
+          "description": "Vehicle diagnostics app for live OBD-II data, fault code analysis, and offline VIN decoding over ELM327 adapters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-21T21:43:53Z",
+            "owner": "provrb",
+            "repo": "obdium",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OBD2-Scantool",
+          "description": "A python scantool to read OBD2 info from cars.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-17T13:59:46Z",
+            "owner": "AustinMurphy",
+            "repo": "OBD2-Scantool",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ELM327SLCAN",
+          "description": "ELM327 based vehicle's CAN bus sniffer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-01-26T18:23:09Z",
+            "owner": "qnx425",
+            "repo": "ELM327SLCAN",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arduino-OBD2-Async",
+          "description": "Arduino OBD library with asynchronous data requesting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-08-09T12:57:40Z",
+            "owner": "v-ivanyshyn",
+            "repo": "Arduino-OBD2-Async",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAN-Shark",
+          "description": "Working with OBD PIDs from Arduino + MCP2515 shield.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-12-17T03:13:59Z",
+            "owner": "quantyle",
+            "repo": "CAN-Shark",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "OBD-II tools"
+    },
+    {
+      "description": "ISO 14229 Standard",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "uds-c",
+          "description": "Unified Diagnostics Service (UDS) and OBD-II C Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-08-16T20:03:43Z",
+            "owner": "openxc",
+            "repo": "uds-c",
+            "stars": 821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-UDSonCAN",
+          "description": "Python implementation of UDS ISO-14229 standard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T14:10:58Z",
+            "owner": "pylessard",
+            "repo": "python-udsoncan",
+            "stars": 718
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iso14229",
+          "description": "C implementation of UDS ISO-14229 server and client for embedded systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-04T16:37:28Z",
+            "owner": "driftregion",
+            "repo": "iso14229",
+            "stars": 352
+          }
+        }
+      ],
+      "title": "UDS"
+    },
+    {
+      "description": "ISO 15765-2 Standard",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "isotp-c",
+          "description": "An implementation of the ISO-TP (ISO15765-2) CAN protocol in C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-08-16T20:06:39Z",
+            "owner": "openxc",
+            "repo": "isotp-c",
+            "stars": 355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-can-IsoTP",
+          "description": "Python implementation of the ISO-TP (ISO15765-2) CAN protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-26T19:08:31Z",
+            "owner": "pylessard",
+            "repo": "python-can-isotp",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CanTp",
+          "description": "Implementation of the CanTp module (ISO 15765-2), according to AUTOSAR specification v4.4.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-13T17:02:38Z",
+            "owner": "Sauci",
+            "repo": "CanTp",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aioisotp",
+          "description": "ISO-TP implemenation for asyncio Python.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-04-13T10:42:08Z",
+            "owner": "christiansandberg",
+            "repo": "aioisotp",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "ISO-TP"
+    },
+    {
+      "description": "SAE J1939 Standard",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open-SAE-J1939",
+          "description": "SAE J1939 protocol free to use for embedded systems or PC with CAN-bus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-25T16:24:28Z",
+            "owner": "DanielMartensson",
+            "repo": "Open-SAE-J1939",
+            "stars": 636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "J1939-Framework",
+          "description": "Framework to work with J1939 Frames used in CAN bus in bus, car and trucks industries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-02-18T12:08:43Z",
+            "owner": "famez",
+            "repo": "J1939-Framework",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-can-j1939",
+          "description": "Package provides SAE J1939 support for Python developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-04T20:25:25Z",
+            "owner": "juergenH87",
+            "repo": "python-can-j1939",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pretty-J1939",
+          "description": "Python libs and scripts for pretty-printing J1939 logs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T15:28:09Z",
+            "owner": "nmfta-repo",
+            "repo": "pretty_j1939",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TruckDevil",
+          "description": "A tool and framework for interacting with and assessing ECUs that use J1939 for communications on the CANBUS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-04T18:41:49Z",
+            "owner": "LittleBlondeDevil",
+            "repo": "TruckDevil",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "test-can-j1939",
+          "description": "How to use CAN J1939 on linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-01-17T15:53:04Z",
+            "owner": "kurt-vd",
+            "repo": "test-can-j1939",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-j1939",
+          "description": "SAE J1939 support dependent on python-can package. Provides codec and filtering by PGN but not full SPN decoding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-15T21:18:47Z",
+            "owner": "milhead2",
+            "repo": "python-j1939",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libj1939",
+          "description": "Library to work with J1939 Frames (intended to be used in microcontrollers).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-01-28T07:50:43Z",
+            "owner": "paoloteti",
+            "repo": "libj1939",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "J1939-CANBUS",
+          "description": "Supported Engines CAT, Perkins, Wartsalla, MTU, VOLVO.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-03-31T06:22:42Z",
+            "owner": "taha842",
+            "repo": "J1939-CANBUS",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "can-utils with J1939 support",
+          "description": "Fork of can-utils with a few additional tools for J1939.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-06-24T12:44:58Z",
+            "owner": "kurt-vd",
+            "repo": "can-utils",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "embr::j1939",
+          "description": "Lean, portable J1939 library for embedded MCUs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-22T16:38:31Z",
+            "owner": "malachi-iot",
+            "repo": "j1939",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "J1939 Tools"
+    },
+    {
+      "description": "SAE J2534 Standard",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SharpWrap2534",
+          "description": "The Ultimate J2534 Wrapper Suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-07T23:46:30Z",
+            "owner": "MEAT-Inc",
+            "repo": "SharpWrap2534",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gocanflasher",
+          "description": "Trionic 5/7/8 CANbus flasher with J2534 support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-11-18T21:43:07Z",
+            "owner": "roffe",
+            "repo": "gocanflasher",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "j2534-tcp",
+          "description": "Virtual J2534 driver over TCP/IP.",
+          "children": []
+        }
+      ],
+      "title": "J2534 Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Utils"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BUSMASTER",
+          "description": "An Open Source Software tool to simulate, analyze and test data bus systems such as CAN.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-07-11T01:32:11Z",
+            "owner": "rbei-etas",
+            "repo": "busmaster",
+            "stars": 1070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANiBUS",
+          "description": "CAN Device Vehicle Research Server (OpenGarages.org).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2013-09-30T19:59:49Z",
+            "owner": "Hive13",
+            "repo": "CANiBUS",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANopenTerm",
+          "description": "Tool for developing, testing and analyzing CANopen CC & CAN CC networks and devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-06T11:54:07Z",
+            "owner": "CANopenTerm",
+            "repo": "CANopenTerm",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "signalbroker-server",
+          "description": "Tool to read and write CAN/LIN/flexray and other buses using gRPC which allows usage of preferred language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2020-09-03T09:09:43Z",
+            "owner": "AleksandarFilipov",
+            "repo": "signalbroker-server",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔝cantools",
+          "description": "Collection of CLI tools for the CAN bus network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-11-23T10:50:28Z",
+            "owner": "mwkpe",
+            "repo": "cantools",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Common"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔝Linux CAN Utils",
+          "description": "Linux-CAN / SocketCAN user space useful utils.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-12T13:48:35Z",
+            "owner": "linux-can",
+            "repo": "can-utils",
+            "stars": 2901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "J1939",
+          "description": "Linux kernel support (kernel >= 5.4) also see can-j1939 kernel module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-12T13:48:35Z",
+            "owner": "linux-can",
+            "repo": "can-utils",
+            "stars": 2901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "can-isotp",
+          "description": "Linux Kernel Module for ISO 15765-2:2016 CAN transport protocol (part of the Linux kernel >= 5.10).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-10-24T17:21:03Z",
+            "owner": "hartkopp",
+            "repo": "can-isotp",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elmcan",
+          "description": "Linux SocketCAN kernel driver for ELM327 based devices (kernel >= 6.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-05T06:54:16Z",
+            "owner": "norly",
+            "repo": "elmcan",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gs_usb",
+          "description": "Linux/Windows CAN driver based on WCID for Geschwister Schneider USB/CAN devices and candleLight USB CAN interfaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-25T16:14:17Z",
+            "owner": "ryedwards",
+            "repo": "gs_usb",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Linux related"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PlotJuggler",
+          "description": "The Powerful Time Series Visualization Tool (With panda hardware, cabana and plotjuggler, you can quickly RE the entire car in a few days).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T11:53:21Z",
+            "owner": "PlotJuggler",
+            "repo": "PlotJuggler",
+            "stars": 6109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SavvyCAN",
+          "description": "Cross-platform Qt based GUI analysis tool. Supports SocketCAN compatible interfaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-15T01:09:49Z",
+            "owner": "collin80",
+            "repo": "SavvyCAN",
+            "stars": 1763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANdevStudio from GENIVI",
+          "description": "CAN simulation software using a drag-and-drop style GUI with interconnected functional blocks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-07-21T11:36:50Z",
+            "owner": "GENIVI",
+            "repo": "CANdevStudio",
+            "stars": 1138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ICSim",
+          "description": "Instrument Cluster Simulator for SocketCAN by OpenGarages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-09-18T17:19:35Z",
+            "owner": "zombieCraig",
+            "repo": "ICSim",
+            "stars": 971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EcuBus-Pro",
+          "description": "A powerful automotive ECU development tool. UDS, CAN-TP, DOIP, LIN , Script(TS) like CAPL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T10:57:58Z",
+            "owner": "ecubus",
+            "repo": "EcuBus-Pro",
+            "stars": 840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TSMaster",
+          "description": "Powerful open environment for automotive bus monitoring, simulation, testing, diagnostics, calibration and so on (Closed source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-07T09:05:35Z",
+            "owner": "TOSUN-Shanghai",
+            "repo": "TSMaster",
+            "stars": 422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANgaroo",
+          "description": "Qt-based CAN bus analyzer software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-10-27T02:51:32Z",
+            "owner": "HubertD",
+            "repo": "cangaroo",
+            "stars": 419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kayak",
+          "description": "Java-based CAN traffic GUI analysis tool (archived).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2020-10-13T09:53:53Z",
+            "owner": "dschanoeh",
+            "repo": "Kayak",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANviz",
+          "description": "Browser-based CAN bus analyzer with J1939 and CANopen CiA 301/402 passive decode. Installs via pip, no native app required. Works with almost any CAN harware including low cost ones.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T19:50:02Z",
+            "owner": "Chanchaldhiman",
+            "repo": "CANviz",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANBUS-Analyzer",
+          "description": "Development tool/companion software for graphs, displays and analyzes both known and unknown CANBUS packets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-05T11:07:55Z",
+            "owner": "amund7",
+            "repo": "CANBUS-Analyzer",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANtact-app",
+          "description": "Desktop application for CANtact hardware interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-04-13T17:12:06Z",
+            "owner": "linklayer",
+            "repo": "cantact-app",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seeed-USB-CAN-Analyzer",
+          "description": "Closed source binary for noname Chinese USB-CAN adapter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-03T05:38:36Z",
+            "owner": "SeeedDocument",
+            "repo": "USB-CAN-Analyzer",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAN++",
+          "description": "Windows program for receiving and transmitting CAN bus messages. After import of CAN data base files ( or ) CAN signals are shown in symbolic form. In addition they can be shown as graphics (wave forms).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-28T14:40:35Z",
+            "owner": "TDahlmann",
+            "repo": "canpp",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAN-Monitor-qt",
+          "description": "Universal CAN bus monitoring program.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-07-20T14:17:09Z",
+            "owner": "tixiv",
+            "repo": "CAN-Monitor-qt",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANcool",
+          "description": "CAN bus Analyser and Simulation Software with CAN-FD support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2025-05-11T22:36:18Z",
+            "owner": "MHS-Elektronik",
+            "repo": "CANcool",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANLogger",
+          "description": "CAN bus logger and analyzer tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-05-28T18:45:16Z",
+            "owner": "olegel",
+            "repo": "CANLogger",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlotJuggler::CAN-dbs",
+          "description": "Plugin to visualize CAN .dbs (or .dbc?) files in PlotJuggler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-25T05:35:14Z",
+            "owner": "PlotJuggler",
+            "repo": "plotjuggler-CAN-dbs",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wxCAN-Sniffer",
+          "description": "CAN bus sniffer (PC side) with animation and chart.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-20T15:04:10Z",
+            "owner": "KruFFT",
+            "repo": "wxCAN-Sniffer",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plotter and Scanner from SmartGauges",
+          "description": "Scanning and visualizing tool for automotive systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-28T16:48:39Z",
+            "owner": "smartgauges",
+            "repo": "obd2-bt-stm32",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAN-X",
+          "description": "C# CAN bus analyzer software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-15T02:44:20Z",
+            "owner": "karlyamashita",
+            "repo": "CAN-X",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openCanSuite",
+          "description": "Set of tools for analyzing, simulating and visualizing a CAN system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-04-05T17:55:00Z",
+            "owner": "sebi2k1",
+            "repo": "openCanSuite",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANAL-View",
+          "description": "Qt GUI for TouCAN USB to CAN bus converter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-06-05T17:24:59Z",
+            "owner": "rusoku",
+            "repo": "CANAL-View",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSourceLogger",
+          "description": "Data acquisition software that can collect measurement, analyze CAN-messages and send SAE-J1939 messages to other ECUs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-06-19T22:41:22Z",
+            "owner": "DanielMartensson",
+            "repo": "OpenSourceLogger",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SLSS-CANAnalyser",
+          "description": "SLSS CANAnalyser is Windows CAN-Bus-Analysis-Software to show, record and evaluate CAN-Bus signals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-02-11T08:44:51Z",
+            "owner": "SeppHansen",
+            "repo": "SLSS-CANAnalyser",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Novo Bus Analyzer",
+          "description": "Fork of BUSMASTER (BUSMASTER is an Open Source Software tool to simulate, analyze and test data bus systems such as CAN).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-03-21T21:15:06Z",
+            "owner": "reymor",
+            "repo": "novobusanalyzer",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bootCAN",
+          "description": "Allows monitoring, tracing, and plotting of messages, as well as .SYM decoding and message transmitting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-27T22:09:44Z",
+            "owner": "friessssss",
+            "repo": "bootCAN",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "GUI Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "canair",
+          "description": "CLI/TUI for reverse engineering CAN/UDS diagnostics over-the-air using a WiCAN or a generic ELM327 dongle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T18:37:21Z",
+            "owner": "philipkocanda",
+            "repo": "canair",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "socanui",
+          "description": "SocketCAN User Interface for the Terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-03-10T13:56:23Z",
+            "owner": "miwagner",
+            "repo": "socanui",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "canscope",
+          "description": "CAN bus inspection and reverse-engineering tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-25T15:24:47Z",
+            "owner": "OlegShishlyannikov",
+            "repo": "canscope",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "TUI Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cannelloni",
+          "description": "SocketCAN over Ethernet tunnel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-02T13:42:03Z",
+            "owner": "mguentner",
+            "repo": "cannelloni",
+            "stars": 468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "canny",
+          "description": "Simple CAN-over-IP gateway.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-04-08T05:26:41Z",
+            "owner": "m10k",
+            "repo": "canny",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tincan",
+          "description": "Visualization of CAN bus traffic via UDP interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-18T07:40:41Z",
+            "owner": "mwkpe",
+            "repo": "tincan",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pican",
+          "description": "TCP CAN reader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-06-05T16:00:43Z",
+            "owner": "ovravna",
+            "repo": "pican",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "CAN-over-IP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "c0f",
+          "description": "CAN bus fingerprinting tool is designed to analyze CAN bus traffic and fingerprint the Maker and Model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2015-09-29T15:35:34Z",
+            "owner": "zombieCraig",
+            "repo": "c0f",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seeed-USB-CAN-Linux",
+          "description": "CLI Linux Support for noname Chinese USB-CAN adapter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-01T07:45:59Z",
+            "owner": "alexmohr",
+            "repo": "usb-can",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Candle.NET",
+          "description": ".NET wrapper for the Candle API for candlelight CAN bus gateways/analysers (e.g. CANable, CANtact, etc).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-08-06T23:01:01Z",
+            "owner": "elliotwoods",
+            "repo": "Candle.NET",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "canqv",
+          "description": "Quick CAN frame inspection using CAN_RAW.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-07-16T07:46:15Z",
+            "owner": "kurt-vd",
+            "repo": "canqv",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "canSerializer",
+          "description": "Lib for serializing and deserializing CAN frames for transmission over a non CAN transport layer (Can be used to transport CAN frames over UART, SPI, etc).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-08-11T01:09:26Z",
+            "owner": "zainahm3d",
+            "repo": "canSerializer",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opendlv-device-can-replay",
+          "description": "OpenDLV Microservice to replay captured CAN frames to a CAN interface.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-03-11T09:53:12Z",
+            "owner": "chalmers-revere",
+            "repo": "opendlv-device-can-replay",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Other Utils"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iso15765-canbus",
+          "description": "Implementation of ISO15765-2 in C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-22T12:18:36Z",
+            "owner": "devcoons",
+            "repo": "iso15765-canbus",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaCAN",
+          "description": "A Java binding library for SocketCAN with support for RAW, BCM and ISO-TP sockets using epoll-based event-driven IO.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-09T16:03:59Z",
+            "owner": "pschichtel",
+            "repo": "JavaCAN",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CanKit",
+          "description": "Cross-platform C#/.NET CAN communication library with a unified API across multiple CAN adapters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-06T20:23:56Z",
+            "owner": "pkuyo",
+            "repo": "CanKit",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-socketcan",
+          "description": "Golang library for SocketCAN.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-04-03T14:50:09Z",
+            "owner": "linklayer",
+            "repo": "go-socketcan",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libwecan",
+          "description": "Header only lib to encode and decode CAN signal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-02-11T09:57:47Z",
+            "owner": "ifupauline",
+            "repo": "libwecan",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VCAN",
+          "description": "A tiny virtual CAN and CAN-FD bus library in C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-04-28T20:33:45Z",
+            "owner": "TheMatjaz",
+            "repo": "VCAN",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANvenient",
+          "description": "An abstraction layer for multiple CAN APIs on Windows and Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-03T16:58:54Z",
+            "owner": "CANopenTerm",
+            "repo": "CANvenient",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IMCTFD",
+          "description": "Improved Microchip CAN Teensy FlexData Library MCP2517FD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-11-26T17:16:28Z",
+            "owner": "tonton81",
+            "repo": "IMCTFD",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CAN-Examples",
+          "description": "Example C code for CAN Sockets on Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-09-18T10:22:44Z",
+            "owner": "craigpeacock",
+            "repo": "CAN-Examples",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "socketcan-demo",
+          "description": "Set of example programs which highlight how to make use of SocketCAN on Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-09-23T01:36:33Z",
+            "owner": "zhanglongqi",
+            "repo": "socketcan-demo",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Examples"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CAN Database"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Formats (DBC, KCD)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔝cantools by Erik Moqvist",
+          "description": "CAN tools in python for DBC, KCD, SYM, ARXML 4 and CDD file parsing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T06:30:24Z",
+            "owner": "cantools",
+            "repo": "cantools",
+            "stars": 2266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "canmatrix",
+          "description": "Converting CAN Database Formats .arxml .dbc .dbf .kcd.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T12:02:52Z",
+            "owner": "ebroecker",
+            "repo": "canmatrix",
+            "stars": 1086
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANBabel",
+          "description": "Translator for several CAN description formats (supports KCD r/w and DBC read).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-04-13T12:16:30Z",
+            "owner": "julietkilo",
+            "repo": "CANBabel",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cantools by Andreas Heitmann",
+          "description": "A set of libraries and command line tools for handling ASC, BLF, CLG, VSB, MDF, and DBC files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-14T19:15:13Z",
+            "owner": "aheit",
+            "repo": "cantools",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CanDB",
+          "description": "Generate CAN dbc file with OEM defined CAN matrix (xls).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-20T18:07:39Z",
+            "owner": "skysky97",
+            "repo": "Candb",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "Converters and Parsers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dbcppp",
+          "description": "C/C++ DBC file parser/tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-07-09T13:11:51Z",
+            "owner": "xR3b0rn",
+            "repo": "dbcppp",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANdb from GENIVI",
+          "description": "Library for parsing DBC - CAN bus database description formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-06-25T08:53:17Z",
+            "owner": "GENIVI",
+            "repo": "CANdb",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "can_decoder",
+          "description": "API module for decoding raw CAN bus data to physical values using a DBC CAN database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-14T18:38:52Z",
+            "owner": "CSS-Electronics",
+            "repo": "can_decoder",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pydbc",
+          "description": "Process vehicle network descriptions (CAN .dbc files).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-07T12:04:29Z",
+            "owner": "christoph2",
+            "repo": "pydbc",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vector CANdb++ DBC file parser",
+          "description": "Modified version of the dbc file parser of eerimoq.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-13T00:27:45Z",
+            "owner": "kdschlosser",
+            "repo": "vector_dbc",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dbc-parser",
+          "description": "A Flex/Bison/Lemon parser/scanner for DBC files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-05-09T06:54:42Z",
+            "owner": "msalau",
+            "repo": "dbc-parser",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAN_BUS_DBC_VIEWER",
+          "description": "GUI based CAN bus dbc viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-27T16:05:34Z",
+            "owner": "akshaych92",
+            "repo": "CAN_BUS_DBC_VIEWER",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dbcview",
+          "description": "DBC visualization tool - plots a graph of sending and receiving nodes linked by messages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-14T07:02:46Z",
+            "owner": "driftregion",
+            "repo": "dbcview",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VectorDbcChecker",
+          "description": "Vector DBC Checker a Python GUI application for checking DBC files for messages duplication, missed network nodes, signals overlap in message, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-04T06:25:31Z",
+            "owner": "golyshkin",
+            "repo": "VectorDbcChecker",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pydbc",
+          "description": "AST generator for dbc format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-16T12:45:35Z",
+            "owner": "Sauci",
+            "repo": "pydbc",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dbc_reader",
+          "description": "Virtual can bus reader from dbc file (python).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2018-07-10T20:28:09Z",
+            "owner": "autti",
+            "repo": "dbc_reader",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "DBC only"
+    },
+    {
+      "description": "All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.",
+      "items": [],
+      "title": "Hardware"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FlexCAN",
+          "description": "Arduino library for CAN on Teensy 3.1, 3.2, 3.5, and 3.6.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-07-23T00:27:33Z",
+            "owner": "collin80",
+            "repo": "FlexCAN_Library",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperCAN",
+          "description": "An open source USB to CAN-FD protocol firmware (ATSAME51).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-25T13:46:58Z",
+            "owner": "jgressmann",
+            "repo": "supercan",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiCCANTE",
+          "description": "Open-source CAN hacking tool based on Raspberry Pi Pico (1|2|W) - Up to 3x CAN interfaces, includes ELM327 emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-26T00:26:12Z",
+            "owner": "Alia5",
+            "repo": "PiCCANTE",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "USB_CAN-FD on ATSAME51",
+          "description": "This is an Open Source Hardware USB to CAN-FD Interface (ATSAME51J).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-28T15:07:22Z",
+            "owner": "RudolphRiedel",
+            "repo": "USB_CAN-FD",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANBootloader",
+          "description": "GUI + CAN booloader protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-11-10T13:58:56Z",
+            "owner": "596142041",
+            "repo": "CANBootloader-Qt",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-OBD2-datalogger",
+          "description": "NXP Kinetis E datalogger that saves live engine data to SD card (Visualization is done with HTML5 and JavaScript).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-02-25T20:54:16Z",
+            "owner": "arturlangner",
+            "repo": "Open-OBD2-datalogger",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ELM327",
+          "description": "Open-source ELM327 OBD adapter based on LPC1517JDB48.",
+          "children": []
+        }
+      ],
+      "title": "ARM"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔝panda",
+          "description": "It supports 3x CAN, 2x LIN, and 1x GMLAN (and it has J2534 over USB on host side). It uses an STM32F413 (Using a panda with cabana provides the best RE and development suites for CANBUS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T15:42:32Z",
+            "owner": "commaai",
+            "repo": "panda",
+            "stars": 1692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔝pcan_pro_x",
+          "description": "PEAK PCAN PRO/PRO FD firmware for STM32F4 based boards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-03-11T08:58:54Z",
+            "owner": "moonglow",
+            "repo": "pcan_pro_x",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arduino-STM32-CAN",
+          "description": "Can communication example for Arduino Core STM32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-10T05:08:28Z",
+            "owner": "nopnop2002",
+            "repo": "Arduino-STM32-CAN",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eXoCAN",
+          "description": "CAN Library for the STM32F103 aka Blue Pill.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-11-30T10:27:12Z",
+            "owner": "exothink",
+            "repo": "eXoCAN",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stm32-slcan",
+          "description": "SLCAN compatible firmware for BluePill based on STM32f103C8T6.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-03-02T10:16:00Z",
+            "owner": "walmis",
+            "repo": "stm32-slcan",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cantact-pro-hw",
+          "description": "Hardware for the CANtact Pro, use cantact-pro-fw as firmware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-08-20T19:35:58Z",
+            "owner": "linklayer",
+            "repo": "cantact-pro-hw",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vector_can",
+          "description": "Vector VN1610 protocol implementation for cheap STM32F407/405 hardware (Two CAN channel).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-28T15:00:34Z",
+            "owner": "moonglow",
+            "repo": "vector_can",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BudgetCANv2",
+          "description": "FW for use on STM32 microcontroller to implement FDCAN and USB using the STM32 HAL. Tested on BudgetCANv2-HW.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-13T18:18:42Z",
+            "owner": "ryedwards",
+            "repo": "budgetcan-fw",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAN_OMEGA",
+          "description": "Ultimate CAN Bus hardware for Car hacking based on STM32F411. Full Featured firmware & software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-02-13T12:29:31Z",
+            "owner": "zjlywjh001",
+            "repo": "CAN_OMEGA",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stm32-CAN-bus-example-HAL-API",
+          "description": "A simple example of CAN bus communications between two STM32 microcontrollers using the updated HAL API functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-01-11T21:56:44Z",
+            "owner": "timsonater",
+            "repo": "stm32-CAN-bus-example-HAL-API",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAN-BUS-Man-In-The-Middle",
+          "description": "Dual CAN MitM-device based on STM32F105.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-03-21T19:02:56Z",
+            "owner": "damienmaguire",
+            "repo": "CAN-BUS-Man-In-The-Middle",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zubax_babel",
+          "description": "High performance CAN-USB/CAN-UART adapter + UAVCAN devboard (STM32F37x).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-08-29T10:45:20Z",
+            "owner": "Zubax",
+            "repo": "canface_cf1",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAN-USB-dongle-fw",
+          "description": "A slcan firmware for the CVRA CAN to USB dongle (STM32F302).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-03-23T21:59:29Z",
+            "owner": "cvra",
+            "repo": "CAN-USB-dongle-fw",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hadoucan-fw on STM32H750",
+          "description": "Firmware for SM-1301 USB-CAN FD adapter based on.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-12T18:53:52Z",
+            "owner": "suburbanmarine",
+            "repo": "hadoucan-fw",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ethernet-CAN converter",
+          "description": "Based on STM32F407.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-04-22T08:30:06Z",
+            "owner": "MikhailBerezhanov",
+            "repo": "CNCU-01",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAN-to-USB-lawicel-for-stm32",
+          "description": "CAN to USB adapter using Lawicel/Canhacker protocol based on STM32F103.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-06-18T20:13:19Z",
+            "owner": "kolyandex",
+            "repo": "CAN-to-USB-lawicel-for-stm32",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CanDybugFW",
+          "description": "Embedded firmware of the CanDybug, a CAN bus traffic analyzer which uses a custom protocol over a USB serial port emulation (STM32F302/STM32F042).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-11-18T07:14:57Z",
+            "owner": "benedekkupper",
+            "repo": "CanDybugFW",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANnon",
+          "description": "A versatile CAN bootloader for the STM32 and friends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-11-18T20:56:49Z",
+            "owner": "mxcd",
+            "repo": "CANnon",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAN-Bus-Arduino_Core_STM32",
+          "description": "Lowlevel CanBUS Example for Arduino Core STM32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-01-10T20:17:11Z",
+            "owner": "seeers",
+            "repo": "CAN-Bus-Arduino_Core_STM32",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔝STM32duino_CAN_Library",
+          "description": "CanBus library for STM32F103 running on STM32duino.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-06-07T19:28:08Z",
+            "owner": "adamczykpiotr",
+            "repo": "STM32duino_CAN_Library",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "STM32-CAN-Busadapter",
+          "description": "CAN adapter on MCU stm32f303cb.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-01-01T06:33:59Z",
+            "owner": "IvanDev2018",
+            "repo": "STM32-CAN-Busadapter",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAN-RS485-adapter",
+          "description": "CAN-RS485 Adapter (STM32F103).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-07-03T09:26:49Z",
+            "owner": "YuriyLogvin",
+            "repo": "CAN-RS485-adapter",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANBUS_UART",
+          "description": "CANBUS to UART for STM32F1 (BluePill and Nucleo boards).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-03-07T10:27:08Z",
+            "owner": "Oktay97",
+            "repo": "Canbus_Uart",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANCAN",
+          "description": "CAN recorder based on STM32F407ZGTx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-03-03T13:46:09Z",
+            "owner": "DDolphin",
+            "repo": "CANCAN",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "STM32"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "candleLight_fw",
+          "description": "Compatible firmware for candleLight, cantact, canable, CANAlyze, VulCAN.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-17T17:52:55Z",
+            "owner": "candle-usb",
+            "repo": "candleLight_fw",
+            "stars": 932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pcan_cantact",
+          "description": "XCAN firmware for CANtact ( CANable ) or any other similar boards based on STM32F042.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-07-28T14:58:27Z",
+            "owner": "moonglow",
+            "repo": "pcan_cantact",
+            "stars": 432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cantact-hw",
+          "description": "Hardware design files for the CANtact tool, use cantact-fw as firmware source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "KiCad",
+            "last_commit": "2021-11-08T23:21:41Z",
+            "owner": "linklayer",
+            "repo": "cantact-hw",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "candleLight",
+          "description": "KiCAD project of usb-can adapter based on STM32F0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "KiCad",
+            "last_commit": "2022-07-28T16:15:19Z",
+            "owner": "HubertD",
+            "repo": "candleLight",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANAlyze",
+          "description": "An open source, native CAN interface for Linux that can be built entirely using open source tools, use canalyze-fw as firmware source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-11-14T02:55:35Z",
+            "owner": "kkuchera",
+            "repo": "canalyze-fw",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cantact",
+          "description": "Drivers and Command Line Interface for CANtact tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-26T19:38:35Z",
+            "owner": "linklayer",
+            "repo": "cantact",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kvaser_cantact",
+          "description": "Xvaser LL v2 firmware for CANtact/CANable or any other similar boards based on STM32F042.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-03-09T17:59:48Z",
+            "owner": "moonglow",
+            "repo": "kvaser_cantact",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "USB2CAN",
+          "description": "Compact and isolated USB-to-CAN Adapter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Eagle",
+            "last_commit": "2019-10-29T15:51:28Z",
+            "owner": "roboterclubaachen",
+            "repo": "usb2can",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OBD2CAN",
+          "description": "Bridge between any OBD2 compliant vehicle and the CAN bus interface (firmware is targeted for the STM32F072, and uses ChibiOS as a RTOS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-12-12T20:02:15Z",
+            "owner": "autosportlabs",
+            "repo": "OBD2CAN",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANsniffer on STM32F042",
+          "description": "CANbus sniffer less complicated than existing commercial products.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-11-09T23:49:30Z",
+            "owner": "majbthrd",
+            "repo": "CANsniffer",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cantact FW",
+          "description": "Cantact FirmWare by x893.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-11-21T19:01:28Z",
+            "owner": "x893",
+            "repo": "cantact-fw",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ELM329",
+          "description": "Open-source ELM329 OBD adapter based on STM32F042.",
+          "children": []
+        }
+      ],
+      "title": "STM32F0x2 based HW"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔝arduino-canhacker",
+          "description": "CanHacker (lawicel) CAN adapter on Arduino + MCP2515.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-19T15:52:26Z",
+            "owner": "autowp",
+            "repo": "arduino-canhacker",
+            "stars": 476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arduino-canbus-monitor",
+          "description": "Can bus monitoring tool based on arduino and can bus shield. Implements CAN ASCII/SLCAN protocol compatible with Lawicel CAN232/CANUSB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-22T10:47:42Z",
+            "owner": "latonita",
+            "repo": "arduino-canbus-monitor",
+            "stars": 335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "W203-canbus",
+          "description": "Arduino project for W211/W219 W203/W209 Mercedes (bluetooth audio control and more).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-08-07T08:49:33Z",
+            "owner": "rnd-ash",
+            "repo": "W203-canbus",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "open-usb-can from Fabio Baltieri",
+          "description": "CAN-to-USB dongle based on ATMega32U and MCP2515.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2024-08-28T16:16:20Z",
+            "owner": "fabiobaltieri",
+            "repo": "open-usb-can",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arduino-psa-comfort-can-adapter",
+          "description": "Arduino sketch to operate new PSA (Peugeot, Citroen, DS, Opel) comfort devices (CAN2010) on old BSI CAN-BUS (CAN2004).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-07-09T09:00:49Z",
+            "owner": "ludwig-v",
+            "repo": "arduino-psa-comfort-can-adapter",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANBus-Triple",
+          "description": "The car hacking platform based on AVR and MCP2515 works with this firmware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Eagle",
+            "last_commit": "2017-06-21T01:38:03Z",
+            "owner": "CANBus-Triple",
+            "repo": "CANBus-Triple-Hardware",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arduino-CAN-bus-SD-logger",
+          "description": "Arduino script to log CAN bus information to SD card. Mainly focused on J1939.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2020-06-12T13:19:58Z",
+            "owner": "DieselDuz42",
+            "repo": "Arduino-CAN-bus-SD-logger",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "carfuino",
+          "description": "Arduino based Automotive performance computer with Megasquirt integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-08-20T20:29:09Z",
+            "owner": "srenner",
+            "repo": "carfuino",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "epasuino",
+          "description": "Arduino based Speed sensitive electric power steering for automobiles Speed sensitive electric power steering for automobiles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-02-19T21:00:19Z",
+            "owner": "srenner",
+            "repo": "epasuino",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Arduino"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ESP-IDF-CANBus-Monitor",
+          "description": "Monitor Canbus traffic ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-09T00:01:44Z",
+            "owner": "nopnop2002",
+            "repo": "esp-idf-CANBus-Monitor",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PSASteeringWheelAdapter",
+          "description": "ESP32 based steering wheel adapter for Peugeot and Citroen cars.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-02-29T13:49:49Z",
+            "owner": "morcibacsi",
+            "repo": "PSASteeringWheelAdapter",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "connected-car",
+          "description": "Connecting a Nissan e-NV200 (or Leaf) to MQTT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-04-25T15:16:35Z",
+            "owner": "marmotton",
+            "repo": "connected-car",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Espressif Systems (ESP8266, ESP32)"
+    },
+    {
+      "description": "SBC - Single Board Computers.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rpi-can-logger",
+          "description": "Project to log CAN bus data from a PiCAN2 and a GPS module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-14T01:05:28Z",
+            "owner": "JonnoFTW",
+            "repo": "rpi-can-logger",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CANoPi",
+          "description": "CAN interface for Raspberry Pi Zero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Eagle",
+            "last_commit": "2017-08-26T12:24:19Z",
+            "owner": "SushiBits",
+            "repo": "CANoPi",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "beaglebone_black_socketcan",
+          "description": "How to get access to the CAN bus on a BeagleBone Black via socketcan interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-03-19T22:53:13Z",
+            "owner": "BlueAndi",
+            "repo": "beaglebone_black_socketcan",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "SBC"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Microchip CAN BUS Analyzer on PIC18F2550/PIC18F2680 Driver",
+          "description": "Linux kernel driver for Microchip CAN BUS Analyzer Tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-07-13T15:19:37Z",
+            "owner": "rkollataj",
+            "repo": "mcba_usb",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elm327_clone",
+          "description": "ELM327 firmware for pic18f25k80 chip from china clone OBD2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-01-11T00:59:50Z",
+            "owner": "darkspr1te",
+            "repo": "elm327_clone",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microchip CAN BUS Analyzer on PIC18F2550/PIC18F2680 Firmware",
+          "description": "Microchip CAN BUS Analyzer firmware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2016-10-14T10:26:38Z",
+            "owner": "rkollataj",
+            "repo": "mcba_firmware",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BB-to-STM32",
+          "description": "LED sync between BeagleBone Black and STM32F4 Discovery Board.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-02-03T00:21:46Z",
+            "owner": "mvollrath",
+            "repo": "canbus_bbone_stm32",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Others HW"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Please follow this",
+          "description": "root-repo for lastest updates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-07T22:14:43Z",
+            "owner": "iDoka",
+            "repo": "awesome-canbus",
+            "stars": 3384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The another awesome list :arrow_forward: CAN ID collections",
+          "description": "arrow_backward: also might be useful.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T13:39:28Z",
+            "owner": "iDoka",
+            "repo": "awesome-automotive-can-id",
+            "stars": 974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Also might be useful this curated list",
+          "description": "of awesome tools and resources for LIN bus reverse engineering, LIN hardware development and debugging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-06T06:49:15Z",
+            "owner": "iDoka",
+            "repo": "awesome-linbus",
+            "stars": 245
+          }
+        }
+      ],
+      "title": "Footnotes"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:27.800Z",
+    "original_repository": "iDoka/awesome-canbus",
+    "original_repository_sha": "77c59133db2fcdd4e4f891a55e440629e0178b8e",
+    "enhanced_repository": "enhansome/enhansome-canbus",
+    "enhanced_repository_description": null,
+    "title": "Awesome CAN Bus with stars"
+  }
+}
