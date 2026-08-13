@@ -1,11 +1,11 @@
 # Awesome CAN Bus with stars
 
-[![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/stargazers/) ⭐ 3,384 | 🐛 4 | 📅 2026-08-07
-[![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/network/) ⭐ 3,384 | 🐛 4 | 📅 2026-08-07
-[![GitHub watchers](https://badgen.net/github/watchers/iDoka/awesome-canbus/)](https://GitHub.com/iDoka/awesome-canbus/watchers/) ⭐ 3,384 | 🐛 4 | 📅 2026-08-07
-[![GitHub contributors](https://badgen.net/github/contributors/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/graphs/contributors/) ⭐ 3,384 | 🐛 4 | 📅 2026-08-07
-[![GitHub pull-requests merged](https://badgen.net/github/merged-prs/iDoka/awesome-canbus)](https://github.com/iDoka/awesome-canbus/pulls?q=is%3Amerged) ⭐ 3,384 | 🐛 4 | 📅 2026-08-07
-[![GitHub latest commit](https://badgen.net/github/last-commit/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/commit/) ⭐ 3,384 | 🐛 4 | 📅 2026-08-07
+[![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/stargazers/) ⭐ 3,385 | 🐛 4 | 📅 2026-08-07
+[![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/network/) ⭐ 3,385 | 🐛 4 | 📅 2026-08-07
+[![GitHub watchers](https://badgen.net/github/watchers/iDoka/awesome-canbus/)](https://GitHub.com/iDoka/awesome-canbus/watchers/) ⭐ 3,385 | 🐛 4 | 📅 2026-08-07
+[![GitHub contributors](https://badgen.net/github/contributors/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/graphs/contributors/) ⭐ 3,385 | 🐛 4 | 📅 2026-08-07
+[![GitHub pull-requests merged](https://badgen.net/github/merged-prs/iDoka/awesome-canbus)](https://github.com/iDoka/awesome-canbus/pulls?q=is%3Amerged) ⭐ 3,385 | 🐛 4 | 📅 2026-08-07
+[![GitHub latest commit](https://badgen.net/github/last-commit/iDoka/awesome-canbus)](https://GitHub.com/iDoka/awesome-canbus/commit/) ⭐ 3,385 | 🐛 4 | 📅 2026-08-07
 
 <p align="center"><img src="https://github.com/iDoka/awesome-canbus/raw/main/media/can_logo.png" alt="CAN logo"/></p>
 
@@ -35,7 +35,7 @@ This curated list helps a reverse engineering CAN bus devices with lightly speci
 
 <!--lint disable double-link-->
 
-Permanent URL to this list: <https://github.com/iDoka/awesome-canbus> ⭐ 3,384 | 🐛 4 | 📅 2026-08-07
+Permanent URL to this list: <https://github.com/iDoka/awesome-canbus> ⭐ 3,385 | 🐛 4 | 📅 2026-08-07
 
 <!--lint enable double-link-->
 
@@ -90,7 +90,7 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-canbus> ⭐ 3,384 
 
 <!--lint enable double-link-->
 
-* [Scapy](https://github.com/secdev/scapy) ⭐ 12,466 | 🐛 142 | 🌐 Python | 📅 2026-08-10 - Python-based interactive packet manipulation program & library. Supports CAN/ISOTP/UDS/GMLAN plus many other protocols.
+* [Scapy](https://github.com/secdev/scapy) ⭐ 12,467 | 🐛 137 | 🌐 Python | 📅 2026-08-10 - Python-based interactive packet manipulation program & library. Supports CAN/ISOTP/UDS/GMLAN plus many other protocols.
 * [canDrive](https://github.com/adamtheone/canDrive) ⭐ 677 | 🐛 25 | 🌐 C | 📅 2023-05-27 - Tools for hacking your car.
 * [canhack](https://github.com/kentindell/canhack) ⭐ 393 | 🐛 9 | 🌐 C | 📅 2024-04-01 - A low-level CAN protocol hacking library.
 * [uds-server](https://github.com/zombieCraig/uds-server) ⭐ 356 | 🐛 5 | 🌐 C | 📅 2025-10-08 - CAN UDS Simulator and Fuzzer.
@@ -113,7 +113,7 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-canbus> ⭐ 3,384 
 
 ### OBD-II tools
 
-* [DDT4All](https://github.com/cedricp/ddt4all) ⭐ 1,801 | 🐛 1 | 🌐 Python | 📅 2026-07-14 - Tool to create your own ECU parameters screens and connect to a CAN network with a cheap ELM327 interface.
+* [DDT4All](https://github.com/cedricp/ddt4all) ⭐ 1,802 | 🐛 1 | 🌐 Python | 📅 2026-07-14 - Tool to create your own ECU parameters screens and connect to a CAN network with a cheap ELM327 interface.
 * [pyvit](https://github.com/linklayer/pyvit) ⚠️ Archived - Python Vehicle Interface Toolkit *(archived)*.
 * [freediag](https://github.com/fenugrec/freediag) ⭐ 483 | 🐛 14 | 🌐 C | 📅 2024-09-09 - Free diagnostic software for OBD-II compliant motor vehicles.
 * [OBDium](https://github.com/provrb/obdium) ⭐ 320 | 🐛 4 | 🌐 Rust | 📅 2026-07-21 - Vehicle diagnostics app for live OBD-II data, fault code analysis, and offline VIN decoding over ELM327 adapters.
@@ -128,8 +128,8 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-canbus> ⭐ 3,384 
 *ISO 14229 Standard*
 
 * [uds-c](https://github.com/openxc/uds-c) ⭐ 821 | 🐛 6 | 🌐 C | 📅 2021-08-16 - Unified Diagnostics Service (UDS) and OBD-II C Library.
-* [python-UDSonCAN](https://github.com/pylessard/python-udsoncan) ⭐ 718 | 🐛 9 | 🌐 Python | 📅 2026-08-09 - Python implementation of UDS ISO-14229 standard.
-* [iso14229](https://github.com/driftregion/iso14229) ⭐ 352 | 🐛 7 | 🌐 C | 📅 2026-08-04 - C implementation of UDS ISO-14229 server and client for embedded systems.
+* [python-UDSonCAN](https://github.com/pylessard/python-udsoncan) ⭐ 719 | 🐛 9 | 🌐 Python | 📅 2026-08-09 - Python implementation of UDS ISO-14229 standard.
+* [iso14229](https://github.com/driftregion/iso14229) ⭐ 353 | 🐛 7 | 🌐 C | 📅 2026-08-04 - C implementation of UDS ISO-14229 server and client for embedded systems.
 
 ### ISO-TP
 
@@ -255,7 +255,7 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-canbus> ⭐ 3,384 
 
 ### CAN-over-IP
 
-* [cannelloni](https://github.com/mguentner/cannelloni) ⭐ 468 | 🐛 13 | 🌐 C++ | 📅 2026-08-02 - SocketCAN over Ethernet tunnel.
+* [cannelloni](https://github.com/mguentner/cannelloni) ⭐ 469 | 🐛 13 | 🌐 C++ | 📅 2026-08-02 - SocketCAN over Ethernet tunnel.
 * [canny](https://github.com/m10k/canny) ⭐ 35 | 🐛 3 | 🌐 C | 📅 2023-04-08 - Simple CAN-over-IP gateway.
 * [tincan](https://github.com/mwkpe/tincan) ⭐ 18 | 🐛 0 | 🌐 C++ | 📅 2025-06-18 - Visualization of CAN bus traffic via UDP interface.
 * [pican](https://github.com/ovravna/pican) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2017-06-05 - TCP CAN reader.
@@ -318,7 +318,7 @@ DBC - The de facto standard for CAN databases is the DBC file format developed b
 
 <!--lint enable double-link-->
 
-* [dbcc](https://github.com/howerj/dbcc) ⭐ 454 | 🐛 1 | 🌐 C | 📅 2025-10-07 - DBC to C (and CSV, JSON and XML) compiler using the mpc parser combinator library.
+* [dbcc](https://github.com/howerj/dbcc) ⭐ 455 | 🐛 1 | 🌐 C | 📅 2025-10-07 - DBC to C (and CSV, JSON and XML) compiler using the mpc parser combinator library.
 * [convert\_dbc\_to\_cpp\_file](https://github.com/jobgeodev/convert_dbc_to_cpp_file) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2021-05-13 - Util for convert dbc (canbus) to cpp(cplusplus) function.
 
 ### DBC only
@@ -363,7 +363,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [CAN\_OMEGA](https://github.com/zjlywjh001/CAN_OMEGA) ⭐ 52 | 🐛 1 | 📅 2017-02-13 - Ultimate CAN Bus hardware for Car hacking based on STM32F411. Full Featured [firmware](https://github.com/zjlywjh001/CAN_Omega_Firmware) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2017-02-13 & [software](https://github.com/zjlywjh001/CAN_OMEGA_Tools) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2019-04-29.
 * [stm32-CAN-bus-example-HAL-API](https://github.com/timsonater/stm32-CAN-bus-example-HAL-API) ⭐ 47 | 🐛 0 | 🌐 C | 📅 2019-01-11 - A simple example of CAN bus communications between two STM32 microcontrollers using the updated HAL API functions.
 * [CAN-BUS-Man-In-The-Middle](https://github.com/damienmaguire/CAN-BUS-Man-In-The-Middle) ⭐ 41 | 🐛 1 | 🌐 C | 📅 2020-03-21 - Dual CAN MitM-device based on STM32F105.
-* [zubax\_babel](https://github.com/Zubax/zubax_babel) ⭐ 40 | 🐛 4 | 🌐 C++ | 📅 2025-08-29 - High performance CAN-USB/CAN-UART adapter + UAVCAN devboard (STM32F37x).
+* [zubax\_babel](https://github.com/Zubax/zubax_babel) ⭐ 41 | 🐛 4 | 🌐 C++ | 📅 2025-08-29 - High performance CAN-USB/CAN-UART adapter + UAVCAN devboard (STM32F37x).
 * [CAN-USB-dongle-fw](https://github.com/cvra/CAN-USB-dongle-fw) ⭐ 37 | 🐛 0 | 🌐 C | 📅 2021-03-23 - A slcan firmware for the CVRA CAN to USB dongle (STM32F302).
 * [hadoucan-fw on STM32H750](https://github.com/suburbanembedded/hadoucan-fw) ⭐ 27 | 🐛 14 | 🌐 C | 📅 2025-12-12 - Firmware for SM-1301 USB-CAN FD adapter based on.
 * [Ethernet-CAN converter](https://github.com/MikhailBerezhanov/cncu-01) ⭐ 25 | 🐛 0 | 🌐 C | 📅 2022-04-22 - Based on STM32F407.
@@ -430,8 +430,8 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 <!--lint enable double-link-->
 
-* [RejsaCAN-ESP32](https://github.com/MagnusThome/RejsaCAN-ESP32) ⭐ 778 | 🐛 1 | 🌐 C++ | 📅 2026-07-26 - ESP32-S3 board with CAN interface.
-* [RejsaCAN-ESP32-C6](https://github.com/MagnusThome/RejsaCAN-ESP32/tree/main/Code%20Examples/RejsaCAN%20v6.x%20-%20ESP32-C6%20-%20DUAL%20CAN%20self%20test) ⭐ 778 | 🐛 1 | 🌐 C++ | 📅 2026-07-26 - Example code that is tested and runs on the new ESP32-C6 that has TWO built in CAN controllers.
+* [RejsaCAN-ESP32](https://github.com/MagnusThome/RejsaCAN-ESP32) ⭐ 780 | 🐛 1 | 🌐 C++ | 📅 2026-07-26 - ESP32-S3 board with CAN interface.
+* [RejsaCAN-ESP32-C6](https://github.com/MagnusThome/RejsaCAN-ESP32/tree/main/Code%20Examples/RejsaCAN%20v6.x%20-%20ESP32-C6%20-%20DUAL%20CAN%20self%20test) ⭐ 780 | 🐛 1 | 🌐 C++ | 📅 2026-07-26 - Example code that is tested and runs on the new ESP32-C6 that has TWO built in CAN controllers.
 * [esp32-obd2-emulator](https://github.com/limiter121/esp32-obd2-emulator) ⚠️ Archived - Open-source OBD-II emulator based on an ESP32 + CAN transceiver IC, controllable via WiFi through a simple web UI (or via API).
 * [ESP32RET](https://github.com/collin80/ESP32RET) ⭐ 400 | 🐛 46 | 🌐 C++ | 📅 2026-01-15 - CAN Reverse engineering tool for ESP32 based boards (unmaintained).
 * [ESP32-Arduino-CAN](https://github.com/miwagner/ESP32-Arduino-CAN) ⭐ 390 | 🐛 33 | 🌐 C | 📅 2024-07-29 - Arduino CAN-Bus library for ESP32.
@@ -483,8 +483,8 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 <!--lint disable double-link-->
 
-1. Please follow [this](https://github.com/iDoka/awesome-canbus) ⭐ 3,384 | 🐛 4 | 📅 2026-08-07 root-repo for lastest updates.
-2. The another awesome list :arrow\_forward: [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 974 | 🐛 0 | 📅 2026-08-12 :arrow\_backward: also might be useful.
+1. Please follow [this](https://github.com/iDoka/awesome-canbus) ⭐ 3,385 | 🐛 4 | 📅 2026-08-07 root-repo for lastest updates.
+2. The another awesome list :arrow\_forward: [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 975 | 🐛 0 | 📅 2026-08-12 :arrow\_backward: also might be useful.
 3. Also might be useful [this curated list](https://github.com/iDoka/awesome-linbus) ⭐ 245 | 🐛 1 | 📅 2023-09-06 of awesome tools and resources for LIN bus reverse engineering, LIN hardware development and debugging.
 
 <!--lint enable double-link-->

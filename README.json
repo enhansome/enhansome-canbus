@@ -199,7 +199,7 @@
             "last_commit": "2026-07-14T14:42:25Z",
             "owner": "cedricp",
             "repo": "ddt4all",
-            "stars": 1801
+            "stars": 1802
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2026-08-09T14:10:58Z",
             "owner": "pylessard",
             "repo": "python-udsoncan",
-            "stars": 718
+            "stars": 719
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2026-08-04T16:37:28Z",
             "owner": "driftregion",
             "repo": "iso14229",
-            "stars": 352
+            "stars": 353
           }
         }
       ],
@@ -1202,7 +1202,7 @@
             "last_commit": "2026-08-02T13:42:03Z",
             "owner": "mguentner",
             "repo": "cannelloni",
-            "stars": 468
+            "stars": 469
           }
         },
         {
@@ -2007,7 +2007,7 @@
             "last_commit": "2025-08-29T10:45:20Z",
             "owner": "Zubax",
             "repo": "canface_cf1",
-            "stars": 40
+            "stars": 41
           }
         },
         {
@@ -2651,7 +2651,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3384
+            "stars": 3385
           }
         },
         {
@@ -2665,7 +2665,7 @@
             "last_commit": "2026-08-12T13:39:28Z",
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 974
+            "stars": 975
           }
         },
         {
@@ -2687,7 +2687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:06:27.800Z",
+    "last_updated": "2026-08-13T11:24:27.463Z",
     "original_repository": "iDoka/awesome-canbus",
     "original_repository_sha": "77c59133db2fcdd4e4f891a55e440629e0178b8e",
     "enhanced_repository": "enhansome/enhansome-canbus",
