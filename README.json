@@ -56,7 +56,7 @@
             "last_commit": "2024-04-27T22:40:25Z",
             "owner": "brent-stone",
             "repo": "CAN_Reverse_Engineering",
-            "stars": 452
+            "stars": 453
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2026-02-22T06:28:16Z",
             "owner": "Ircama",
             "repo": "ELM327-emulator",
-            "stars": 668
+            "stars": 669
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2026-07-14T14:42:25Z",
             "owner": "cedricp",
             "repo": "ddt4all",
-            "stars": 1802
+            "stars": 1803
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2026-07-21T21:43:53Z",
             "owner": "provrb",
             "repo": "obdium",
-            "stars": 320
+            "stars": 323
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2026-08-09T14:10:58Z",
             "owner": "pylessard",
             "repo": "python-udsoncan",
-            "stars": 719
+            "stars": 720
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2026-08-04T16:37:28Z",
             "owner": "driftregion",
             "repo": "iso14229",
-            "stars": 353
+            "stars": 354
           }
         }
       ],
@@ -784,7 +784,7 @@
             "last_commit": "2026-08-10T11:53:21Z",
             "owner": "PlotJuggler",
             "repo": "PlotJuggler",
-            "stars": 6109
+            "stars": 6111
           }
         },
         {
@@ -837,7 +837,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T10:57:58Z",
+            "last_commit": "2026-08-14T06:17:17Z",
             "owner": "ecubus",
             "repo": "EcuBus-Pro",
             "stars": 840
@@ -966,7 +966,7 @@
             "last_commit": "2019-07-20T14:17:09Z",
             "owner": "tixiv",
             "repo": "CAN-Monitor-qt",
-            "stars": 84
+            "stars": 85
           }
         },
         {
@@ -1151,10 +1151,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T18:37:21Z",
+            "last_commit": "2026-08-14T09:20:58Z",
             "owner": "philipkocanda",
             "repo": "canair",
-            "stars": 16
+            "stars": 18
           }
         },
         {
@@ -1202,7 +1202,7 @@
             "last_commit": "2026-08-02T13:42:03Z",
             "owner": "mguentner",
             "repo": "cannelloni",
-            "stars": 469
+            "stars": 470
           }
         },
         {
@@ -1513,7 +1513,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T06:30:24Z",
+            "last_commit": "2026-08-14T06:25:24Z",
             "owner": "cantools",
             "repo": "cantools",
             "stars": 2266
@@ -1942,20 +1942,6 @@
         },
         {
           "node_type": "item",
-          "title": "BudgetCANv2",
-          "description": "FW for use on STM32 microcontroller to implement FDCAN and USB using the STM32 HAL. Tested on BudgetCANv2-HW.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-06-13T18:18:42Z",
-            "owner": "ryedwards",
-            "repo": "budgetcan-fw",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
           "title": "CAN_OMEGA",
           "description": "Ultimate CAN Bus hardware for Car hacking based on STM32F411. Full Featured firmware & software.",
           "children": [],
@@ -2177,6 +2163,12 @@
             "repo": "CANCAN",
             "stars": 0
           }
+        },
+        {
+          "node_type": "item",
+          "title": "BudgetCANv2",
+          "description": "FW for use on STM32 microcontroller to implement FDCAN and USB using the STM32 HAL. Tested on BudgetCANv2-HW.",
+          "children": []
         }
       ],
       "title": "STM32"
@@ -2651,7 +2643,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3385
+            "stars": 3405
           }
         },
         {
@@ -2687,7 +2679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:24:27.463Z",
+    "last_updated": "2026-08-14T11:23:25.018Z",
     "original_repository": "iDoka/awesome-canbus",
     "original_repository_sha": "77c59133db2fcdd4e4f891a55e440629e0178b8e",
     "enhanced_repository": "enhansome/enhansome-canbus",
