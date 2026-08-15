@@ -331,7 +331,7 @@
             "last_commit": "2026-08-09T14:10:58Z",
             "owner": "pylessard",
             "repo": "python-udsoncan",
-            "stars": 720
+            "stars": 721
           }
         },
         {
@@ -427,7 +427,7 @@
             "last_commit": "2026-06-25T16:24:28Z",
             "owner": "DanielMartensson",
             "repo": "Open-SAE-J1939",
-            "stars": 636
+            "stars": 639
           }
         },
         {
@@ -784,7 +784,7 @@
             "last_commit": "2026-08-10T11:53:21Z",
             "owner": "PlotJuggler",
             "repo": "PlotJuggler",
-            "stars": 6111
+            "stars": 6113
           }
         },
         {
@@ -798,7 +798,7 @@
             "last_commit": "2026-05-15T01:09:49Z",
             "owner": "collin80",
             "repo": "SavvyCAN",
-            "stars": 1763
+            "stars": 1765
           }
         },
         {
@@ -1151,10 +1151,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T09:20:58Z",
+            "last_commit": "2026-08-14T21:04:59Z",
             "owner": "philipkocanda",
             "repo": "canair",
-            "stars": 18
+            "stars": 19
           }
         },
         {
@@ -1516,7 +1516,7 @@
             "last_commit": "2026-08-14T06:25:24Z",
             "owner": "cantools",
             "repo": "cantools",
-            "stars": 2266
+            "stars": 2267
           }
         },
         {
@@ -1867,7 +1867,7 @@
             "last_commit": "2022-03-11T08:58:54Z",
             "owner": "moonglow",
             "repo": "pcan_pro_x",
-            "stars": 344
+            "stars": 345
           }
         },
         {
@@ -2201,7 +2201,7 @@
             "last_commit": "2022-07-28T14:58:27Z",
             "owner": "moonglow",
             "repo": "pcan_cantact",
-            "stars": 432
+            "stars": 434
           }
         },
         {
@@ -2643,7 +2643,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3405
+            "stars": 3413
           }
         },
         {
@@ -2679,7 +2679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:23:25.018Z",
+    "last_updated": "2026-08-15T10:53:53.856Z",
     "original_repository": "iDoka/awesome-canbus",
     "original_repository_sha": "77c59133db2fcdd4e4f891a55e440629e0178b8e",
     "enhanced_repository": "enhansome/enhansome-canbus",
