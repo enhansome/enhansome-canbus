@@ -146,7 +146,7 @@
             "last_commit": "2026-02-22T06:28:16Z",
             "owner": "Ircama",
             "repo": "ELM327-emulator",
-            "stars": 669
+            "stars": 670
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2026-07-14T14:42:25Z",
             "owner": "cedricp",
             "repo": "ddt4all",
-            "stars": 1803
+            "stars": 1806
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2024-09-09T18:33:55Z",
             "owner": "fenugrec",
             "repo": "freediag",
-            "stars": 483
+            "stars": 484
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2026-07-21T21:43:53Z",
             "owner": "provrb",
             "repo": "obdium",
-            "stars": 326
+            "stars": 327
           }
         },
         {
@@ -938,7 +938,7 @@
             "last_commit": "2024-06-03T05:38:36Z",
             "owner": "SeeedDocument",
             "repo": "USB-CAN-Analyzer",
-            "stars": 127
+            "stars": 128
           }
         },
         {
@@ -1199,7 +1199,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-02T13:42:03Z",
+            "last_commit": "2026-08-16T22:23:46Z",
             "owner": "mguentner",
             "repo": "cannelloni",
             "stars": 470
@@ -1513,7 +1513,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T08:26:07Z",
+            "last_commit": "2026-08-17T05:34:14Z",
             "owner": "cantools",
             "repo": "cantools",
             "stars": 2267
@@ -1527,7 +1527,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-29T12:02:52Z",
+            "last_commit": "2026-08-17T07:57:35Z",
             "owner": "ebroecker",
             "repo": "canmatrix",
             "stars": 1086
@@ -2187,7 +2187,7 @@
             "last_commit": "2026-07-17T17:52:55Z",
             "owner": "candle-usb",
             "repo": "candleLight_fw",
-            "stars": 933
+            "stars": 934
           }
         },
         {
@@ -2229,7 +2229,7 @@
             "last_commit": "2022-07-28T16:15:19Z",
             "owner": "HubertD",
             "repo": "candleLight",
-            "stars": 390
+            "stars": 391
           }
         },
         {
@@ -2643,7 +2643,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3415
+            "stars": 3420
           }
         },
         {
@@ -2679,7 +2679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T10:54:25.478Z",
+    "last_updated": "2026-08-17T11:00:06.554Z",
     "original_repository": "iDoka/awesome-canbus",
     "original_repository_sha": "77c59133db2fcdd4e4f891a55e440629e0178b8e",
     "enhanced_repository": "enhansome/enhansome-canbus",
