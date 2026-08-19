@@ -1029,7 +1029,7 @@
                 "last_commit": "2026-05-15T01:09:49Z",
                 "owner": "collin80",
                 "repo": "SavvyCAN",
-                "stars": 1769
+                "stars": 1770
               }
             },
             {
@@ -1149,7 +1149,7 @@
                 "last_commit": "2024-07-05T11:07:55Z",
                 "owner": "amund7",
                 "repo": "CANBUS-Analyzer",
-                "stars": 256
+                "stars": 257
               }
             },
             {
@@ -1408,7 +1408,7 @@
                 "archived": false,
                 "id": 1243250233,
                 "language": "Python",
-                "last_commit": "2026-08-18T08:07:57Z",
+                "last_commit": "2026-08-19T11:55:31Z",
                 "owner": "philipkocanda",
                 "repo": "canair",
                 "stars": 21
@@ -3535,8 +3535,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:58:17.158Z",
+    "last_updated": "2026-08-19T12:25:23.207Z",
     "original_repository": "iDoka/awesome-canbus",
+    "original_repository_id": 313261022,
     "original_repository_sha": "77c59133db2fcdd4e4f891a55e440629e0178b8e",
     "enhanced_repository": "enhansome/enhansome-canbus",
     "enhanced_repository_description": null,
