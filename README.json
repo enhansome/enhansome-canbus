@@ -150,7 +150,7 @@
             "last_commit": "2026-08-18T17:11:17Z",
             "owner": "secdev",
             "repo": "scapy",
-            "stars": 12477
+            "stars": 12481
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2023-05-27T15:45:54Z",
             "owner": "adamtheone",
             "repo": "canDrive",
-            "stars": 677
+            "stars": 679
           }
         },
         {
@@ -389,7 +389,7 @@
                 "last_commit": "2026-07-14T14:42:25Z",
                 "owner": "cedricp",
                 "repo": "ddt4all",
-                "stars": 1810
+                "stars": 1811
               }
             },
             {
@@ -434,7 +434,7 @@
                 "last_commit": "2026-07-21T21:43:53Z",
                 "owner": "provrb",
                 "repo": "obdium",
-                "stars": 332
+                "stars": 333
               }
             },
             {
@@ -531,7 +531,7 @@
                 "last_commit": "2026-08-09T14:10:58Z",
                 "owner": "pylessard",
                 "repo": "python-udsoncan",
-                "stars": 723
+                "stars": 724
               }
             },
             {
@@ -546,7 +546,7 @@
                 "last_commit": "2026-08-18T18:20:11Z",
                 "owner": "driftregion",
                 "repo": "iso14229",
-                "stars": 354
+                "stars": 355
               }
             }
           ],
@@ -583,7 +583,7 @@
                 "last_commit": "2026-06-26T19:08:31Z",
                 "owner": "pylessard",
                 "repo": "python-can-isotp",
-                "stars": 312
+                "stars": 313
               }
             },
             {
@@ -635,7 +635,7 @@
                 "last_commit": "2026-06-25T16:24:28Z",
                 "owner": "DanielMartensson",
                 "repo": "Open-SAE-J1939",
-                "stars": 641
+                "stars": 642
               }
             },
             {
@@ -850,7 +850,7 @@
                 "last_commit": "2023-07-11T01:32:11Z",
                 "owner": "rbei-etas",
                 "repo": "busmaster",
-                "stars": 1071
+                "stars": 1072
               }
             },
             {
@@ -932,7 +932,7 @@
                 "last_commit": "2026-05-12T13:48:35Z",
                 "owner": "linux-can",
                 "repo": "can-utils",
-                "stars": 2905
+                "stars": 2906
               }
             },
             {
@@ -947,7 +947,7 @@
                 "last_commit": "2026-05-12T13:48:35Z",
                 "owner": "linux-can",
                 "repo": "can-utils",
-                "stars": 2905
+                "stars": 2906
               }
             },
             {
@@ -1014,7 +1014,7 @@
                 "last_commit": "2026-08-10T11:53:21Z",
                 "owner": "PlotJuggler",
                 "repo": "PlotJuggler",
-                "stars": 6120
+                "stars": 6122
               }
             },
             {
@@ -1029,7 +1029,7 @@
                 "last_commit": "2026-05-15T01:09:49Z",
                 "owner": "collin80",
                 "repo": "SavvyCAN",
-                "stars": 1770
+                "stars": 1773
               }
             },
             {
@@ -1074,7 +1074,7 @@
                 "last_commit": "2026-08-18T01:19:54Z",
                 "owner": "ecubus",
                 "repo": "EcuBus-Pro",
-                "stars": 842
+                "stars": 844
               }
             },
             {
@@ -1781,7 +1781,7 @@
                 "archived": false,
                 "id": 143218625,
                 "language": "Java",
-                "last_commit": "2026-08-09T16:03:59Z",
+                "last_commit": "2026-08-19T18:05:08Z",
                 "owner": "pschichtel",
                 "repo": "JavaCAN",
                 "stars": 67
@@ -1939,7 +1939,7 @@
                 "last_commit": "2026-08-17T05:34:14Z",
                 "owner": "cantools",
                 "repo": "cantools",
-                "stars": 2269
+                "stars": 2270
               }
             },
             {
@@ -2318,10 +2318,10 @@
                     "archived": false,
                     "id": 87490037,
                     "language": "C",
-                    "last_commit": "2026-08-10T15:42:32Z",
+                    "last_commit": "2026-08-19T20:36:05Z",
                     "owner": "commaai",
                     "repo": "panda",
-                    "stars": 1693
+                    "stars": 1694
                   }
                 },
                 {
@@ -2531,7 +2531,7 @@
                     "last_commit": "2019-06-18T20:13:19Z",
                     "owner": "kolyandex",
                     "repo": "CAN-to-USB-lawicel-for-stm32",
-                    "stars": 23
+                    "stars": 24
                   }
                 },
                 {
@@ -3497,7 +3497,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3420
+            "stars": 3422
           }
         },
         {
@@ -3535,7 +3535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:25:23.207Z",
+    "last_updated": "2026-08-20T11:00:30.995Z",
     "original_repository": "iDoka/awesome-canbus",
     "original_repository_id": 313261022,
     "original_repository_sha": "77c59133db2fcdd4e4f891a55e440629e0178b8e",
