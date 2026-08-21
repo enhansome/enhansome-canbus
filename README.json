@@ -15,7 +15,7 @@
             "last_commit": "2023-05-07T12:35:42Z",
             "owner": "jgamblin",
             "repo": "CarHackingTools",
-            "stars": 970
+            "stars": 969
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-04-27T22:40:25Z",
             "owner": "brent-stone",
             "repo": "CAN_Reverse_Engineering",
-            "stars": 453
+            "stars": 451
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-01-12T19:23:51Z",
             "owner": "daedalus",
             "repo": "carhacking",
-            "stars": 120
+            "stars": 119
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-18T17:11:17Z",
             "owner": "secdev",
             "repo": "scapy",
-            "stars": 12481
+            "stars": 12483
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2021-09-10T18:01:00Z",
             "owner": "souravbaghz",
             "repo": "CANghost",
-            "stars": 141
+            "stars": 140
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-02-22T06:28:16Z",
             "owner": "Ircama",
             "repo": "ELM327-emulator",
-            "stars": 670
+            "stars": 669
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2023-06-02T06:58:16Z",
             "owner": "lbenthins",
             "repo": "ecu-simulator",
-            "stars": 141
+            "stars": 140
           }
         },
         {
@@ -389,7 +389,7 @@
                 "last_commit": "2026-07-14T14:42:25Z",
                 "owner": "cedricp",
                 "repo": "ddt4all",
-                "stars": 1811
+                "stars": 1813
               }
             },
             {
@@ -543,7 +543,7 @@
                 "archived": false,
                 "id": 439538151,
                 "language": "C",
-                "last_commit": "2026-08-18T18:20:11Z",
+                "last_commit": "2026-08-20T15:08:58Z",
                 "owner": "driftregion",
                 "repo": "iso14229",
                 "stars": 355
@@ -725,7 +725,7 @@
                 "last_commit": "2023-09-15T21:18:47Z",
                 "owner": "milhead2",
                 "repo": "python-j1939",
-                "stars": 40
+                "stars": 39
               }
             },
             {
@@ -880,7 +880,7 @@
                 "last_commit": "2026-08-06T11:54:07Z",
                 "owner": "CANopenTerm",
                 "repo": "CANopenTerm",
-                "stars": 75
+                "stars": 76
               }
             },
             {
@@ -932,7 +932,7 @@
                 "last_commit": "2026-05-12T13:48:35Z",
                 "owner": "linux-can",
                 "repo": "can-utils",
-                "stars": 2906
+                "stars": 2905
               }
             },
             {
@@ -947,7 +947,7 @@
                 "last_commit": "2026-05-12T13:48:35Z",
                 "owner": "linux-can",
                 "repo": "can-utils",
-                "stars": 2906
+                "stars": 2905
               }
             },
             {
@@ -1014,7 +1014,7 @@
                 "last_commit": "2026-08-10T11:53:21Z",
                 "owner": "PlotJuggler",
                 "repo": "PlotJuggler",
-                "stars": 6122
+                "stars": 6123
               }
             },
             {
@@ -1044,7 +1044,7 @@
                 "last_commit": "2025-07-21T11:36:50Z",
                 "owner": "GENIVI",
                 "repo": "CANdevStudio",
-                "stars": 1141
+                "stars": 1139
               }
             },
             {
@@ -1059,7 +1059,7 @@
                 "last_commit": "2025-09-18T17:19:35Z",
                 "owner": "zombieCraig",
                 "repo": "ICSim",
-                "stars": 971
+                "stars": 972
               }
             },
             {
@@ -1074,7 +1074,7 @@
                 "last_commit": "2026-08-18T01:19:54Z",
                 "owner": "ecubus",
                 "repo": "EcuBus-Pro",
-                "stars": 844
+                "stars": 843
               }
             },
             {
@@ -1936,7 +1936,7 @@
                 "archived": false,
                 "id": 34604098,
                 "language": "Python",
-                "last_commit": "2026-08-17T05:34:14Z",
+                "last_commit": "2026-08-21T06:35:19Z",
                 "owner": "cantools",
                 "repo": "cantools",
                 "stars": 2270
@@ -2259,7 +2259,7 @@
                 "last_commit": "2026-01-26T00:26:12Z",
                 "owner": "Alia5",
                 "repo": "PiCCANTE",
-                "stars": 92
+                "stars": 91
               }
             },
             {
@@ -2321,7 +2321,7 @@
                     "last_commit": "2026-08-19T20:36:05Z",
                     "owner": "commaai",
                     "repo": "panda",
-                    "stars": 1694
+                    "stars": 1695
                   }
                 },
                 {
@@ -2336,7 +2336,7 @@
                     "last_commit": "2022-03-11T08:58:54Z",
                     "owner": "moonglow",
                     "repo": "pcan_pro_x",
-                    "stars": 345
+                    "stars": 346
                   }
                 },
                 {
@@ -2426,7 +2426,7 @@
                     "last_commit": "2017-02-13T12:29:31Z",
                     "owner": "zjlywjh001",
                     "repo": "CAN_OMEGA",
-                    "stars": 52
+                    "stars": 51
                   }
                 },
                 {
@@ -2673,7 +2673,7 @@
                     "last_commit": "2026-07-17T17:52:55Z",
                     "owner": "candle-usb",
                     "repo": "candleLight_fw",
-                    "stars": 935
+                    "stars": 936
                   }
                 },
                 {
@@ -2880,7 +2880,7 @@
                 "last_commit": "2020-08-07T08:49:33Z",
                 "owner": "rnd-ash",
                 "repo": "W203-canbus",
-                "stars": 168
+                "stars": 167
               }
             },
             {
@@ -3000,7 +3000,7 @@
                 "last_commit": "2022-12-29T22:47:13Z",
                 "owner": "sandeepmistry",
                 "repo": "arduino-OBD2",
-                "stars": 568
+                "stars": 567
               }
             },
             {
@@ -3172,7 +3172,7 @@
                 "last_commit": "2018-04-09T15:29:50Z",
                 "owner": "limiter121",
                 "repo": "esp32-obd2-emulator",
-                "stars": 497
+                "stars": 496
               }
             },
             {
@@ -3497,7 +3497,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3422
+            "stars": 3424
           }
         },
         {
@@ -3535,7 +3535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:00:30.995Z",
+    "last_updated": "2026-08-21T11:00:41.050Z",
     "original_repository": "iDoka/awesome-canbus",
     "original_repository_id": 313261022,
     "original_repository_sha": "77c59133db2fcdd4e4f891a55e440629e0178b8e",
