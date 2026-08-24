@@ -113,7 +113,7 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-canbus> ⭐ 3,430 
 
 ### OBD-II tools
 
-* [DDT4All](https://github.com/cedricp/ddt4all) ⭐ 1,820 | 🐛 0 | 🌐 Python | 📅 2026-08-23 - Tool to create your own ECU parameters screens and connect to a CAN network with a cheap ELM327 interface.
+* [DDT4All](https://github.com/cedricp/ddt4all) ⭐ 1,821 | 🐛 0 | 🌐 Python | 📅 2026-08-23 - Tool to create your own ECU parameters screens and connect to a CAN network with a cheap ELM327 interface.
 * [pyvit](https://github.com/linklayer/pyvit) ⚠️ Archived - Python Vehicle Interface Toolkit *(archived)*.
 * [freediag](https://github.com/fenugrec/freediag) ⭐ 489 | 🐛 14 | 🌐 C | 📅 2024-09-09 - Free diagnostic software for OBD-II compliant motor vehicles.
 * [OBDium](https://github.com/provrb/obdium) ⭐ 339 | 🐛 5 | 🌐 Rust | 📅 2026-07-21 - Vehicle diagnostics app for live OBD-II data, fault code analysis, and offline VIN decoding over ELM327 adapters.
@@ -176,7 +176,7 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-canbus> ⭐ 3,430 
 
 * [BUSMASTER](https://github.com/rbei-etas/busmaster) ⭐ 1,072 | 🐛 670 | 🌐 C++ | 📅 2023-07-11 - An Open Source Software tool to simulate, analyze and test data bus systems such as CAN.
 * [CANiBUS](https://github.com/Hive13/CANiBUS/) ⚠️ Archived - CAN Device Vehicle Research Server (OpenGarages.org).
-* [CANopenTerm](https://github.com/CANopenTerm/CANopenTerm) ⭐ 76 | 🐛 5 | 🌐 C | 📅 2026-08-06 - Tool for developing, testing and analyzing CANopen CC & CAN CC networks and devices.
+* [CANopenTerm](https://github.com/CANopenTerm/CANopenTerm) ⭐ 77 | 🐛 5 | 🌐 C | 📅 2026-08-06 - Tool for developing, testing and analyzing CANopen CC & CAN CC networks and devices.
 * [signalbroker-server](https://github.com/AleksandarFilipov/signalbroker-server) ⭐ 33 | 🐛 1 | 🌐 Elixir | 📅 2020-09-03 - Tool to read and write CAN/LIN/flexray and other buses using gRPC which allows usage of preferred language.
 * 🔝[cantools](https://github.com/mwkpe/cantools) ⭐ 24 | 🐛 0 | 🌐 C++ | 📅 2021-11-23 - Collection of CLI tools for the CAN bus network.
 
@@ -196,7 +196,7 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-canbus> ⭐ 3,430 
 * [SavvyCAN](https://github.com/collin80/SavvyCAN) ⭐ 1,779 | 🐛 283 | 🌐 C++ | 📅 2026-05-15 - Cross-platform Qt based GUI analysis tool. Supports SocketCAN compatible interfaces.
 * [CANdevStudio from GENIVI](https://github.com/GENIVI/CANdevStudio) ⭐ 1,140 | 🐛 37 | 🌐 C++ | 📅 2025-07-21 - CAN simulation software using a drag-and-drop style GUI with interconnected functional blocks.
 * [ICSim](https://github.com/zombieCraig/ICSim) ⭐ 973 | 🐛 21 | 🌐 C | 📅 2025-09-18 - Instrument Cluster Simulator for SocketCAN by OpenGarages.
-* [EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro) ⭐ 846 | 🐛 58 | 🌐 C++ | 📅 2026-08-24 - A powerful automotive ECU development tool. UDS, CAN-TP, DOIP, LIN , Script(TS) like CAPL.
+* [EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro) ⭐ 846 | 🐛 56 | 🌐 C++ | 📅 2026-08-24 - A powerful automotive ECU development tool. UDS, CAN-TP, DOIP, LIN , Script(TS) like CAPL.
 * [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster) ⭐ 424 | 🐛 85 | 📅 2026-07-07 - Powerful open environment for automotive bus monitoring, simulation, testing, diagnostics, calibration and so on *(Closed source)*.
 * [CANgaroo](https://github.com/HubertD/cangaroo) ⭐ 420 | 🐛 22 | 🌐 C++ | 📅 2023-10-27 - Qt-based CAN bus analyzer software.
 * [Kayak](https://github.com/dschanoeh/Kayak) ⚠️ Archived - Java-based CAN traffic GUI analysis tool *(archived)*.
@@ -294,11 +294,11 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-canbus> ⭐ 3,430 
 
 DBC - The de facto standard for CAN databases is the DBC file format developed by Vector Informatik GmbH. It is a proprietary format in that no official public documentation or specification is available.
 
+* 🔝[cabana](https://github.com/commaai/cabana) ⚠️ Archived - CAN visualizer and DBC maker (a tool developed to view raw CAN data; one use for this is creating and editing CAN Dictionaries (DBC files)).
 * [DBC Format Specification v1.0](http://read.pudn.com/downloads766/ebook/3041455/DBC_File_Format_Documentation.pdf) - Leaked DBC file format specification v1.0 (the obsolete specification).
 * [DBC Format](http://socialledge.com/sjsu/index.php/DBC_Format) - Brief explanations about various sections, many examples and explains multiplexed signals well.
 * [DBC File Explained](https://www.csselectronics.com/screen/page/can-dbc-file-database-intro/language/en) - A Simple Intro to DCB file format.
 * [J1939 and DBC introduction](https://www.kvaser.com/developer-blog/an-introduction-j1939-and-dbc-files/) - An Introduction to J1939 and DBC files.
-* 🔝[cabana](https://github.com/commaai/cabana) ⚠️ Archived - CAN visualizer and DBC maker (a tool developed to view raw CAN data; one use for this is creating and editing CAN Dictionaries (DBC files)).
 
 #### KCD
 
@@ -353,7 +353,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 #### STM32
 
 * 🔝[panda](https://github.com/commaai/panda) ⭐ 1,697 | 🐛 65 | 🌐 C | 📅 2026-08-19 - It supports 3x CAN, 2x LIN, and 1x GMLAN (and it has J2534 over USB on host side). It uses an STM32F413 (Using a panda with cabana provides the best RE and development suites for CANBUS).
-* 🔝[pcan\_pro\_x](https://github.com/moonglow/pcan_pro_x) ⭐ 346 | 🐛 13 | 🌐 C | 📅 2022-03-11 - PEAK PCAN PRO/PRO FD firmware for STM32F4 based boards.
+* 🔝[pcan\_pro\_x](https://github.com/moonglow/pcan_pro_x) ⭐ 347 | 🐛 13 | 🌐 C | 📅 2022-03-11 - PEAK PCAN PRO/PRO FD firmware for STM32F4 based boards.
 * [Arduino-STM32-CAN](https://github.com/nopnop2002/Arduino-STM32-CAN) ⭐ 277 | 🐛 5 | 🌐 C++ | 📅 2026-03-10 - Can communication example for Arduino Core STM32.
 * [eXoCAN](https://github.com/exothink/eXoCAN) ⭐ 86 | 🐛 5 | 🌐 C++ | 📅 2023-11-30 - CAN Library for the STM32F103 aka Blue Pill.
 * [stm32-slcan](https://github.com/walmis/stm32-slcan) ⭐ 80 | 🐛 2 | 🌐 C | 📅 2022-03-02 - SLCAN compatible firmware for BluePill based on STM32f103C8T6.
@@ -456,8 +456,8 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 ### IP cores for ASIC and FPGA
 
-* [CAN](https://opencores.org/projects/can) - IP core for classic CAN Protocol Controller (VHDL).
 * [CTU-CAN-FD](https://github.com/Logic-Design-Services/CTU-CAN-FD) ⭐ 71 | 🐛 13 | 🌐 VHDL | 📅 2026-08-17 - CAN FD IP Core, ISO 11898-1:2015 compliant (VHDL).
+* [CAN](https://opencores.org/projects/can) - IP core for classic CAN Protocol Controller (VHDL).
 
 ### Others HW
 
@@ -468,9 +468,9 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 ### Hardware related tools
 
+* [STM8S208 CAN Speed Calculator](https://github.com/iDoka/STM8S208-CAN-Speed-Calculator) ⭐ 6 | 🐛 0 | 🌐 C++ | 📅 2017-02-14 - CAN Speed Calculator for STM8 (perhaps it also works for STM32 family).
 * [CAN Bus Bit Timing Calculator](https://www.kvaser.com/support/calculators/bit-timing-calculator/) - Online tool for obsolete SJA1000 and MCP2510 (probably it works for MCP2515).
 * [Bit Timing Calculator for CAN FD](https://kvaser.com/support/calculators/can-fd-bit-timing-calculator/) - Online tool to calculate detailed bit timing parameters for general CAN FD devices.
-* [STM8S208 CAN Speed Calculator](https://github.com/iDoka/STM8S208-CAN-Speed-Calculator) ⭐ 6 | 🐛 0 | 🌐 C++ | 📅 2017-02-14 - CAN Speed Calculator for STM8 (perhaps it also works for STM32 family).
 * [STMG431 FDCAN SOLVER](https://phryniszak.github.io/stm32g-fdcan/) - Online tool to calculate bit timing parameters for STM32G4 (likely compatible with STM32G0).
 
 ***
