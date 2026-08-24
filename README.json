@@ -30,7 +30,7 @@
             "last_commit": "2026-06-12T23:35:05Z",
             "owner": "CaringCaribou",
             "repo": "caringcaribou",
-            "stars": 943
+            "stars": 944
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-18T17:11:17Z",
             "owner": "secdev",
             "repo": "scapy",
-            "stars": 12492
+            "stars": 12494
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2023-05-27T15:45:54Z",
             "owner": "adamtheone",
             "repo": "canDrive",
-            "stars": 679
+            "stars": 680
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-02-22T06:28:16Z",
             "owner": "Ircama",
             "repo": "ELM327-emulator",
-            "stars": 669
+            "stars": 668
           }
         },
         {
@@ -386,7 +386,7 @@
                 "archived": false,
                 "id": 72764246,
                 "language": "Python",
-                "last_commit": "2026-07-14T14:42:25Z",
+                "last_commit": "2026-08-23T22:09:58Z",
                 "owner": "cedricp",
                 "repo": "ddt4all",
                 "stars": 1820
@@ -419,7 +419,7 @@
                 "last_commit": "2024-09-09T18:33:55Z",
                 "owner": "fenugrec",
                 "repo": "freediag",
-                "stars": 488
+                "stars": 489
               }
             },
             {
@@ -434,7 +434,7 @@
                 "last_commit": "2026-07-21T21:43:53Z",
                 "owner": "provrb",
                 "repo": "obdium",
-                "stars": 338
+                "stars": 339
               }
             },
             {
@@ -546,7 +546,7 @@
                 "last_commit": "2026-08-20T15:08:58Z",
                 "owner": "driftregion",
                 "repo": "iso14229",
-                "stars": 355
+                "stars": 356
               }
             }
           ],
@@ -568,7 +568,7 @@
                 "last_commit": "2021-08-16T20:06:39Z",
                 "owner": "openxc",
                 "repo": "isotp-c",
-                "stars": 356
+                "stars": 357
               }
             },
             {
@@ -932,7 +932,7 @@
                 "last_commit": "2026-05-12T13:48:35Z",
                 "owner": "linux-can",
                 "repo": "can-utils",
-                "stars": 2907
+                "stars": 2908
               }
             },
             {
@@ -947,7 +947,7 @@
                 "last_commit": "2026-05-12T13:48:35Z",
                 "owner": "linux-can",
                 "repo": "can-utils",
-                "stars": 2907
+                "stars": 2908
               }
             },
             {
@@ -1014,7 +1014,7 @@
                 "last_commit": "2026-08-10T11:53:21Z",
                 "owner": "PlotJuggler",
                 "repo": "PlotJuggler",
-                "stars": 6124
+                "stars": 6125
               }
             },
             {
@@ -1071,10 +1071,10 @@
                 "archived": false,
                 "id": 239531393,
                 "language": "C++",
-                "last_commit": "2026-08-18T01:19:54Z",
+                "last_commit": "2026-08-24T05:56:51Z",
                 "owner": "ecubus",
                 "repo": "EcuBus-Pro",
-                "stars": 844
+                "stars": 846
               }
             },
             {
@@ -1769,7 +1769,7 @@
                 "last_commit": "2026-06-22T12:18:36Z",
                 "owner": "devcoons",
                 "repo": "iso15765-canbus",
-                "stars": 194
+                "stars": 195
               }
             },
             {
@@ -1796,10 +1796,10 @@
                 "archived": false,
                 "id": 1046182788,
                 "language": "C#",
-                "last_commit": "2026-08-22T18:44:41Z",
+                "last_commit": "2026-08-24T03:41:48Z",
                 "owner": "pkuyo",
                 "repo": "CanKit",
-                "stars": 39
+                "stars": 41
               }
             },
             {
@@ -2396,7 +2396,7 @@
                     "last_commit": "2020-08-20T19:35:58Z",
                     "owner": "linklayer",
                     "repo": "cantact-pro-hw",
-                    "stars": 79
+                    "stars": 80
                   }
                 },
                 {
@@ -2673,7 +2673,7 @@
                     "last_commit": "2026-07-17T17:52:55Z",
                     "owner": "candle-usb",
                     "repo": "candleLight_fw",
-                    "stars": 936
+                    "stars": 938
                   }
                 },
                 {
@@ -2688,7 +2688,7 @@
                     "last_commit": "2022-07-28T14:58:27Z",
                     "owner": "moonglow",
                     "repo": "pcan_cantact",
-                    "stars": 434
+                    "stars": 435
                   }
                 },
                 {
@@ -2718,7 +2718,7 @@
                     "last_commit": "2022-07-28T16:15:19Z",
                     "owner": "HubertD",
                     "repo": "candleLight",
-                    "stars": 391
+                    "stars": 393
                   }
                 },
                 {
@@ -2748,7 +2748,7 @@
                     "last_commit": "2024-08-26T19:38:35Z",
                     "owner": "linklayer",
                     "repo": "cantact",
-                    "stars": 57
+                    "stars": 58
                   }
                 },
                 {
@@ -2793,7 +2793,7 @@
                     "last_commit": "2019-12-12T20:02:15Z",
                     "owner": "autosportlabs",
                     "repo": "OBD2CAN",
-                    "stars": 46
+                    "stars": 47
                   }
                 },
                 {
@@ -3172,7 +3172,7 @@
                 "last_commit": "2018-04-09T15:29:50Z",
                 "owner": "limiter121",
                 "repo": "esp32-obd2-emulator",
-                "stars": 497
+                "stars": 496
               }
             },
             {
@@ -3187,7 +3187,7 @@
                 "last_commit": "2026-01-15T02:51:55Z",
                 "owner": "collin80",
                 "repo": "ESP32RET",
-                "stars": 403
+                "stars": 404
               }
             },
             {
@@ -3535,7 +3535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:54:54.263Z",
+    "last_updated": "2026-08-24T11:04:41.762Z",
     "original_repository": "iDoka/awesome-canbus",
     "original_repository_id": 313261022,
     "original_repository_sha": "77c59133db2fcdd4e4f891a55e440629e0178b8e",
