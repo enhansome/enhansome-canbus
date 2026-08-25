@@ -196,13 +196,13 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-canbus> ⭐ 3,431 
 * [SavvyCAN](https://github.com/collin80/SavvyCAN) ⭐ 1,781 | 🐛 283 | 🌐 C++ | 📅 2026-05-15 - Cross-platform Qt based GUI analysis tool. Supports SocketCAN compatible interfaces.
 * [CANdevStudio from GENIVI](https://github.com/GENIVI/CANdevStudio) ⭐ 1,140 | 🐛 37 | 🌐 C++ | 📅 2025-07-21 - CAN simulation software using a drag-and-drop style GUI with interconnected functional blocks.
 * [ICSim](https://github.com/zombieCraig/ICSim) ⭐ 973 | 🐛 21 | 🌐 C | 📅 2025-09-18 - Instrument Cluster Simulator for SocketCAN by OpenGarages.
-* [EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro) ⭐ 846 | 🐛 55 | 🌐 C++ | 📅 2026-08-25 - A powerful automotive ECU development tool. UDS, CAN-TP, DOIP, LIN , Script(TS) like CAPL.
+* [EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro) ⭐ 847 | 🐛 55 | 🌐 C++ | 📅 2026-08-25 - A powerful automotive ECU development tool. UDS, CAN-TP, DOIP, LIN , Script(TS) like CAPL.
 * [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster) ⭐ 424 | 🐛 85 | 📅 2026-07-07 - Powerful open environment for automotive bus monitoring, simulation, testing, diagnostics, calibration and so on *(Closed source)*.
 * [CANgaroo](https://github.com/HubertD/cangaroo) ⭐ 420 | 🐛 22 | 🌐 C++ | 📅 2023-10-27 - Qt-based CAN bus analyzer software.
 * [Kayak](https://github.com/dschanoeh/Kayak) ⚠️ Archived - Java-based CAN traffic GUI analysis tool *(archived)*.
 * [CANviz](https://github.com/Chanchaldhiman/CANviz) ⭐ 280 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-08 - Browser-based CAN bus analyzer with J1939 and CANopen CiA 301/402 passive decode. Installs via pip, no native app required. Works with almost any CAN harware including low cost ones.
 * [CANBUS-Analyzer](https://github.com/amund7/CANBUS-Analyzer) ⭐ 257 | 🐛 11 | 🌐 C# | 📅 2024-07-05 - Development tool/companion software for graphs, displays and analyzes both known and unknown CANBUS packets.
-* [CANtact-app](https://github.com/linklayer/cantact-app) ⭐ 230 | 🐛 18 | 🌐 Java | 📅 2020-04-13 - Desktop application for CANtact hardware interface.
+* [CANtact-app](https://github.com/linklayer/cantact-app) ⭐ 231 | 🐛 18 | 🌐 Java | 📅 2020-04-13 - Desktop application for CANtact hardware interface.
 * [Seeed-USB-CAN-Analyzer](https://github.com/SeeedDocument/USB-CAN-Analyzer/) ⭐ 128 | 🐛 9 | 📅 2024-06-03 - Closed source binary for noname Chinese USB-CAN adapter.
 * [CAN++](https://github.com/TDahlmann/canpp) ⭐ 93 | 🐛 1 | 🌐 C | 📅 2026-04-28 - Windows program for receiving and transmitting CAN bus messages. After import of CAN data base files (`*.dbc` or `*.kcd`) CAN signals are shown in symbolic form. In addition they can be shown as graphics (wave forms).
 * [CAN-Monitor-qt](https://github.com/tixiv/CAN-Monitor-qt) ⭐ 85 | 🐛 2 | 🌐 C++ | 📅 2019-07-20 - Universal CAN bus monitoring program.
@@ -307,7 +307,7 @@ DBC - The de facto standard for CAN databases is the DBC file format developed b
 ### Converters and Parsers
 
 * 🔝[cantools by Erik Moqvist](https://github.com/eerimoq/cantools) ⭐ 2,275 | 🐛 130 | 🌐 Python | 📅 2026-08-21 - CAN tools in python for DBC, KCD, SYM, ARXML 4 and CDD file parsing.
-* [canmatrix](https://github.com/ebroecker/canmatrix) ⭐ 1,086 | 🐛 20 | 🌐 Python | 📅 2026-08-17 - Converting CAN Database Formats .arxml .dbc .dbf .kcd.
+* [canmatrix](https://github.com/ebroecker/canmatrix) ⭐ 1,087 | 🐛 20 | 🌐 Python | 📅 2026-08-17 - Converting CAN Database Formats .arxml .dbc .dbf .kcd.
 * [CANBabel](https://github.com/julietkilo/CANBabel) ⭐ 171 | 🐛 2 | 🌐 Java | 📅 2025-04-13 - Translator for several CAN description formats (supports KCD r/w and DBC read).
 * [cantools by Andreas Heitmann](https://github.com/aheit/cantools) ⭐ 68 | 🐛 3 | 🌐 C | 📅 2026-03-14 - A set of libraries and command line tools for handling ASC, BLF, CLG, VSB, MDF, and DBC files.
 * [CanDB](https://github.com/skysky97/Candb) ⭐ 54 | 🐛 2 | 🌐 Python | 📅 2020-03-20 - Generate CAN dbc file with OEM defined CAN matrix (xls).
@@ -379,10 +379,10 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 #### STM32F0x2 based HW
 
-* [candleLight\_fw](https://github.com/candle-usb/candleLight_fw) ⭐ 938 | 🐛 33 | 🌐 C | 📅 2026-07-17 - Compatible firmware for candleLight, cantact, canable, CANAlyze, VulCAN.
+* [candleLight\_fw](https://github.com/candle-usb/candleLight_fw) ⭐ 940 | 🐛 33 | 🌐 C | 📅 2026-07-17 - Compatible firmware for candleLight, cantact, canable, CANAlyze, VulCAN.
 * [pcan\_cantact](https://github.com/moonglow/pcan_cantact) ⭐ 435 | 🐛 3 | 🌐 C | 📅 2022-07-28 - XCAN firmware for CANtact ( CANable ) or any other similar boards based on STM32F042.
 * [cantact-hw](https://github.com/linklayer/cantact-hw) ⭐ 403 | 🐛 6 | 🌐 KiCad | 📅 2021-11-08 - Hardware design files for the CANtact tool, use [cantact-fw](https://github.com/linklayer/cantact-fw) ⭐ 281 | 🐛 16 | 🌐 C | 📅 2023-06-30 as firmware source.
-* [candleLight](https://github.com/HubertD/candleLight) ⭐ 393 | 🐛 1 | 🌐 KiCad | 📅 2022-07-28 - KiCAD project of usb-can adapter based on STM32F0.
+* [candleLight](https://github.com/HubertD/candleLight) ⭐ 394 | 🐛 1 | 🌐 KiCad | 📅 2022-07-28 - KiCAD project of usb-can adapter based on STM32F0.
 * [CANAlyze](https://kkuchera.github.io/canalyze/) - An open source, native CAN interface for Linux that can be built entirely using open source tools, use [canalyze-fw](https://github.com/kkuchera/canalyze-fw) ⭐ 73 | 🐛 9 | 🌐 C | 📅 2023-11-14 as firmware source.
 * [cantact](https://github.com/linklayer/cantact/) ⭐ 58 | 🐛 0 | 🌐 Rust | 📅 2024-08-26 - Drivers and Command Line Interface for CANtact tools.
 * [kvaser\_cantact](https://github.com/moonglow/kvaser_cantact) ⭐ 55 | 🐛 0 | 🌐 C | 📅 2022-03-09 - Xvaser LL v2 firmware for CANtact/CANable or any other similar boards based on STM32F042.

@@ -1089,7 +1089,7 @@
                 "last_commit": "2026-08-25T04:37:58Z",
                 "owner": "ecubus",
                 "repo": "EcuBus-Pro",
-                "stars": 846
+                "stars": 847
               }
             },
             {
@@ -1179,7 +1179,7 @@
                 "last_commit": "2020-04-13T17:12:06Z",
                 "owner": "linklayer",
                 "repo": "cantact-app",
-                "stars": 230
+                "stars": 231
               }
             },
             {
@@ -2065,7 +2065,7 @@
                 "last_commit": "2026-08-17T07:57:35Z",
                 "owner": "ebroecker",
                 "repo": "canmatrix",
-                "stars": 1086
+                "stars": 1087
               }
             },
             {
@@ -2799,7 +2799,7 @@
                     "last_commit": "2026-07-17T17:52:55Z",
                     "owner": "candle-usb",
                     "repo": "candleLight_fw",
-                    "stars": 938
+                    "stars": 940
                   }
                 },
                 {
@@ -2844,7 +2844,7 @@
                     "last_commit": "2022-07-28T16:15:19Z",
                     "owner": "HubertD",
                     "repo": "candleLight",
-                    "stars": 393
+                    "stars": 394
                   }
                 },
                 {
@@ -3720,7 +3720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:55:36.792Z",
+    "last_updated": "2026-08-25T11:02:48.665Z",
     "original_repository": "iDoka/awesome-canbus",
     "original_repository_id": 313261022,
     "original_repository_sha": "77c59133db2fcdd4e4f891a55e440629e0178b8e",
