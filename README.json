@@ -30,7 +30,7 @@
             "last_commit": "2026-06-12T23:35:05Z",
             "owner": "CaringCaribou",
             "repo": "caringcaribou",
-            "stars": 944
+            "stars": 945
           }
         },
         {
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 43509302,
             "language": "Python",
-            "last_commit": "2026-08-18T17:11:17Z",
+            "last_commit": "2026-08-26T07:14:32Z",
             "owner": "secdev",
             "repo": "scapy",
-            "stars": 12498
+            "stars": 12501
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2025-10-08T14:53:49Z",
             "owner": "zombieCraig",
             "repo": "uds-server",
-            "stars": 357
+            "stars": 358
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2022-12-10T07:27:54Z",
             "owner": "zombieCraig",
             "repo": "UDSim",
-            "stars": 333
+            "stars": 334
           }
         },
         {
@@ -404,7 +404,7 @@
                 "last_commit": "2026-08-23T22:09:58Z",
                 "owner": "cedricp",
                 "repo": "ddt4all",
-                "stars": 1821
+                "stars": 1822
               }
             },
             {
@@ -449,7 +449,7 @@
                 "last_commit": "2026-07-21T21:43:53Z",
                 "owner": "provrb",
                 "repo": "obdium",
-                "stars": 340
+                "stars": 341
               }
             },
             {
@@ -892,7 +892,7 @@
                 "archived": false,
                 "id": 491760648,
                 "language": "C",
-                "last_commit": "2026-08-06T11:54:07Z",
+                "last_commit": "2026-08-25T20:15:29Z",
                 "owner": "CANopenTerm",
                 "repo": "CANopenTerm",
                 "stars": 77
@@ -1029,7 +1029,7 @@
                 "last_commit": "2026-08-10T11:53:21Z",
                 "owner": "PlotJuggler",
                 "repo": "PlotJuggler",
-                "stars": 6126
+                "stars": 6127
               }
             },
             {
@@ -1044,7 +1044,7 @@
                 "last_commit": "2026-05-15T01:09:49Z",
                 "owner": "collin80",
                 "repo": "SavvyCAN",
-                "stars": 1781
+                "stars": 1782
               }
             },
             {
@@ -1074,7 +1074,7 @@
                 "last_commit": "2025-09-18T17:19:35Z",
                 "owner": "zombieCraig",
                 "repo": "ICSim",
-                "stars": 973
+                "stars": 974
               }
             },
             {
@@ -1086,10 +1086,10 @@
                 "archived": false,
                 "id": 239531393,
                 "language": "C++",
-                "last_commit": "2026-08-25T04:37:58Z",
+                "last_commit": "2026-08-25T14:39:15Z",
                 "owner": "ecubus",
                 "repo": "EcuBus-Pro",
-                "stars": 847
+                "stars": 851
               }
             },
             {
@@ -1423,10 +1423,10 @@
                 "archived": false,
                 "id": 1243250233,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:55:31Z",
+                "last_commit": "2026-08-25T19:04:52Z",
                 "owner": "philipkocanda",
                 "repo": "canair",
-                "stars": 21
+                "stars": 23
               }
             },
             {
@@ -1841,7 +1841,7 @@
                 "archived": false,
                 "id": 143218625,
                 "language": "Java",
-                "last_commit": "2026-08-24T18:04:26Z",
+                "last_commit": "2026-08-25T17:36:22Z",
                 "owner": "pschichtel",
                 "repo": "JavaCAN",
                 "stars": 67
@@ -2080,7 +2080,7 @@
                 "last_commit": "2025-04-13T12:16:30Z",
                 "owner": "julietkilo",
                 "repo": "CANBabel",
-                "stars": 171
+                "stars": 170
               }
             },
             {
@@ -3283,7 +3283,7 @@
                 "last_commit": "2026-07-26T07:07:23Z",
                 "owner": "MagnusThome",
                 "repo": "RejsaCAN-ESP32",
-                "stars": 783
+                "stars": 784
               }
             },
             {
@@ -3298,7 +3298,7 @@
                 "last_commit": "2026-07-26T07:07:23Z",
                 "owner": "MagnusThome",
                 "repo": "RejsaCAN-ESP32",
-                "stars": 783
+                "stars": 784
               }
             },
             {
@@ -3682,7 +3682,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3431
+            "stars": 3432
           }
         },
         {
@@ -3697,7 +3697,7 @@
             "last_commit": "2026-08-12T13:39:28Z",
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 977
+            "stars": 978
           }
         },
         {
@@ -3720,7 +3720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:02:48.665Z",
+    "last_updated": "2026-08-26T11:04:35.192Z",
     "original_repository": "iDoka/awesome-canbus",
     "original_repository_id": 313261022,
     "original_repository_sha": "77c59133db2fcdd4e4f891a55e440629e0178b8e",
