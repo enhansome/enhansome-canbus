@@ -162,7 +162,7 @@
             "archived": false,
             "id": 43509302,
             "language": "Python",
-            "last_commit": "2026-08-27T08:38:24Z",
+            "last_commit": "2026-08-27T20:34:24Z",
             "owner": "secdev",
             "repo": "scapy",
             "stars": 12501
@@ -449,7 +449,7 @@
                 "last_commit": "2026-07-21T21:43:53Z",
                 "owner": "provrb",
                 "repo": "obdium",
-                "stars": 343
+                "stars": 345
               }
             },
             {
@@ -1029,7 +1029,7 @@
                 "last_commit": "2026-08-10T11:53:21Z",
                 "owner": "PlotJuggler",
                 "repo": "PlotJuggler",
-                "stars": 6128
+                "stars": 6129
               }
             },
             {
@@ -1089,7 +1089,7 @@
                 "last_commit": "2026-08-27T08:43:07Z",
                 "owner": "ecubus",
                 "repo": "EcuBus-Pro",
-                "stars": 851
+                "stars": 852
               }
             },
             {
@@ -1104,7 +1104,7 @@
                 "last_commit": "2026-07-07T09:05:35Z",
                 "owner": "TOSUN-Shanghai",
                 "repo": "TSMaster",
-                "stars": 424
+                "stars": 425
               }
             },
             {
@@ -1856,7 +1856,7 @@
                 "archived": false,
                 "id": 1046182788,
                 "language": "C#",
-                "last_commit": "2026-08-27T11:05:16Z",
+                "last_commit": "2026-08-27T20:22:16Z",
                 "owner": "pkuyo",
                 "repo": "CanKit",
                 "stars": 42
@@ -3006,7 +3006,7 @@
                 "last_commit": "2020-08-07T08:49:33Z",
                 "owner": "rnd-ash",
                 "repo": "W203-canbus",
-                "stars": 167
+                "stars": 168
               }
             },
             {
@@ -3328,7 +3328,7 @@
                 "last_commit": "2026-01-15T02:51:55Z",
                 "owner": "collin80",
                 "repo": "ESP32RET",
-                "stars": 404
+                "stars": 405
               }
             },
             {
@@ -3720,7 +3720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:27:27.046Z",
+    "last_updated": "2026-08-27T20:43:22.322Z",
     "original_repository_info": {
       "archived": false,
       "id": 313261022,
