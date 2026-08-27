@@ -105,7 +105,7 @@
             "last_commit": "2024-06-28T15:11:33Z",
             "owner": "v-ivanyshyn",
             "repo": "parse_can_logs",
-            "stars": 97
+            "stars": 98
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 43509302,
             "language": "Python",
-            "last_commit": "2026-08-26T07:14:32Z",
+            "last_commit": "2026-08-27T08:38:24Z",
             "owner": "secdev",
             "repo": "scapy",
             "stars": 12501
@@ -404,7 +404,7 @@
                 "last_commit": "2026-08-23T22:09:58Z",
                 "owner": "cedricp",
                 "repo": "ddt4all",
-                "stars": 1822
+                "stars": 1821
               }
             },
             {
@@ -434,7 +434,7 @@
                 "last_commit": "2024-09-09T18:33:55Z",
                 "owner": "fenugrec",
                 "repo": "freediag",
-                "stars": 489
+                "stars": 490
               }
             },
             {
@@ -449,7 +449,7 @@
                 "last_commit": "2026-07-21T21:43:53Z",
                 "owner": "provrb",
                 "repo": "obdium",
-                "stars": 341
+                "stars": 343
               }
             },
             {
@@ -583,7 +583,7 @@
                 "last_commit": "2021-08-16T20:06:39Z",
                 "owner": "openxc",
                 "repo": "isotp-c",
-                "stars": 357
+                "stars": 358
               }
             },
             {
@@ -1029,7 +1029,7 @@
                 "last_commit": "2026-08-10T11:53:21Z",
                 "owner": "PlotJuggler",
                 "repo": "PlotJuggler",
-                "stars": 6127
+                "stars": 6128
               }
             },
             {
@@ -1044,7 +1044,7 @@
                 "last_commit": "2026-05-15T01:09:49Z",
                 "owner": "collin80",
                 "repo": "SavvyCAN",
-                "stars": 1782
+                "stars": 1783
               }
             },
             {
@@ -1086,7 +1086,7 @@
                 "archived": false,
                 "id": 239531393,
                 "language": "C++",
-                "last_commit": "2026-08-25T14:39:15Z",
+                "last_commit": "2026-08-27T08:43:07Z",
                 "owner": "ecubus",
                 "repo": "EcuBus-Pro",
                 "stars": 851
@@ -1475,10 +1475,10 @@
                 "archived": false,
                 "id": 34604098,
                 "language": "Python",
-                "last_commit": "2026-08-21T06:35:19Z",
+                "last_commit": "2026-08-27T06:43:21Z",
                 "owner": "cantools",
                 "repo": "cantools",
-                "stars": 2275
+                "stars": 2276
               }
             },
             {
@@ -1493,7 +1493,7 @@
                 "last_commit": "2026-07-01T00:10:31Z",
                 "owner": "hardbyte",
                 "repo": "python-can",
-                "stars": 1585
+                "stars": 1586
               }
             },
             {
@@ -1856,10 +1856,10 @@
                 "archived": false,
                 "id": 1046182788,
                 "language": "C#",
-                "last_commit": "2026-08-24T03:41:48Z",
+                "last_commit": "2026-08-27T11:05:16Z",
                 "owner": "pkuyo",
                 "repo": "CanKit",
-                "stars": 41
+                "stars": 42
               }
             },
             {
@@ -2047,10 +2047,10 @@
                 "archived": false,
                 "id": 34604098,
                 "language": "Python",
-                "last_commit": "2026-08-21T06:35:19Z",
+                "last_commit": "2026-08-27T06:43:21Z",
                 "owner": "cantools",
                 "repo": "cantools",
-                "stars": 2275
+                "stars": 2276
               }
             },
             {
@@ -2444,7 +2444,7 @@
                     "archived": false,
                     "id": 87490037,
                     "language": "C",
-                    "last_commit": "2026-08-19T20:36:05Z",
+                    "last_commit": "2026-08-26T14:03:02Z",
                     "owner": "commaai",
                     "repo": "panda",
                     "stars": 1697
@@ -2799,7 +2799,7 @@
                     "last_commit": "2026-07-17T17:52:55Z",
                     "owner": "candle-usb",
                     "repo": "candleLight_fw",
-                    "stars": 940
+                    "stars": 941
                   }
                 },
                 {
@@ -3400,7 +3400,7 @@
                 "archived": false,
                 "id": 755723139,
                 "language": "C",
-                "last_commit": "2025-11-07T11:19:16Z",
+                "last_commit": "2026-08-26T13:58:41Z",
                 "owner": "okhsunrog",
                 "repo": "can_wizard",
                 "stars": 39
@@ -3567,7 +3567,7 @@
                 "last_commit": "2026-08-17T12:55:55Z",
                 "owner": "Logic-Design-Services",
                 "repo": "CTU-CAN-FD",
-                "stars": 71
+                "stars": 72
               }
             }
           ],
@@ -3682,7 +3682,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3432
+            "stars": 3433
           }
         },
         {
@@ -3720,9 +3720,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:04:35.192Z",
-    "original_repository": "iDoka/awesome-canbus",
-    "original_repository_id": 313261022,
+    "last_updated": "2026-08-27T11:27:27.046Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 313261022,
+      "language": null,
+      "last_commit": "2026-08-07T22:14:43Z",
+      "owner": "iDoka",
+      "repo": "awesome-canbus",
+      "stars": 3433
+    },
     "original_repository_sha": "77c59133db2fcdd4e4f891a55e440629e0178b8e",
     "enhanced_repository": "enhansome/enhansome-canbus",
     "enhanced_repository_description": null,
