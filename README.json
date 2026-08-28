@@ -16,7 +16,8 @@
             "owner": "jgamblin",
             "repo": "CarHackingTools",
             "stars": 969
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "CaringCaribou",
             "repo": "caringcaribou",
             "stars": 945
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "schutzwerk",
             "repo": "CANalyzat0r",
             "stars": 794
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "brent-stone",
             "repo": "CAN_Reverse_Engineering",
             "stars": 452
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "CANToolz",
             "repo": "CANToolz",
             "stars": 305
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "daedalus",
             "repo": "carhacking",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "v-ivanyshyn",
             "repo": "parse_can_logs",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "linklayer",
             "repo": "reversegear",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "Cyberdefence-Lab-Murcia",
             "repo": "ReCAN",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "collin80",
             "repo": "GVRET",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -162,11 +172,12 @@
             "archived": false,
             "id": 43509302,
             "language": "Python",
-            "last_commit": "2026-08-27T20:34:24Z",
+            "last_commit": "2026-08-28T15:14:55Z",
             "owner": "secdev",
             "repo": "scapy",
             "stars": 12501
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "adamtheone",
             "repo": "canDrive",
             "stars": 680
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "kentindell",
             "repo": "canhack",
             "stars": 393
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "zombieCraig",
             "repo": "uds-server",
             "stars": 358
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "zombieCraig",
             "repo": "UDSim",
             "stars": 334
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "souravbaghz",
             "repo": "Carpunk",
             "stars": 329
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "Tbruno25",
             "repo": "can-explorer",
             "stars": 302
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "shipcod3",
             "repo": "canTot",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "souravbaghz",
             "repo": "CANghost",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "KartheekLade",
             "repo": "CANalyse",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "openvehicles",
             "repo": "CAN-RE-Tool",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "renault",
             "repo": "cananalyze",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         }
       ],
       "title": "Hacking and Reverse Engineering tools"
@@ -351,8 +373,9 @@
             "last_commit": "2026-02-22T06:28:16Z",
             "owner": "Ircama",
             "repo": "ELM327-emulator",
-            "stars": 669
-          }
+            "stars": 670
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "lbenthins",
             "repo": "ecu-simulator",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "zeljkoavramovic",
             "repo": "canerrsim",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         }
       ],
       "title": "Test equipment and simulators"
@@ -404,8 +429,9 @@
                 "last_commit": "2026-08-23T22:09:58Z",
                 "owner": "cedricp",
                 "repo": "ddt4all",
-                "stars": 1821
-              }
+                "stars": 1822
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -420,7 +446,8 @@
                 "owner": "linklayer",
                 "repo": "pyvit",
                 "stars": 514
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -435,7 +462,8 @@
                 "owner": "fenugrec",
                 "repo": "freediag",
                 "stars": 490
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -449,8 +477,9 @@
                 "last_commit": "2026-07-21T21:43:53Z",
                 "owner": "provrb",
                 "repo": "obdium",
-                "stars": 345
-              }
+                "stars": 346
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -465,7 +494,8 @@
                 "owner": "AustinMurphy",
                 "repo": "OBD2-Scantool",
                 "stars": 246
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -480,7 +510,8 @@
                 "owner": "qnx425",
                 "repo": "ELM327SLCAN",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -495,7 +526,8 @@
                 "owner": "v-ivanyshyn",
                 "repo": "Arduino-OBD2-Async",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -510,7 +542,8 @@
                 "owner": "quantyle",
                 "repo": "CAN-Shark",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": null,
@@ -532,7 +565,8 @@
                 "owner": "openxc",
                 "repo": "uds-c",
                 "stars": 823
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -547,7 +581,8 @@
                 "owner": "pylessard",
                 "repo": "python-udsoncan",
                 "stars": 725
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -562,7 +597,8 @@
                 "owner": "driftregion",
                 "repo": "iso14229",
                 "stars": 357
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": "ISO 14229 Standard",
@@ -584,7 +620,8 @@
                 "owner": "openxc",
                 "repo": "isotp-c",
                 "stars": 358
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -599,7 +636,8 @@
                 "owner": "pylessard",
                 "repo": "python-can-isotp",
                 "stars": 314
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -614,7 +652,8 @@
                 "owner": "Sauci",
                 "repo": "CanTp",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -629,7 +668,8 @@
                 "owner": "christiansandberg",
                 "repo": "aioisotp",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": "ISO 15765-2 Standard",
@@ -651,7 +691,8 @@
                 "owner": "DanielMartensson",
                 "repo": "Open-SAE-J1939",
                 "stars": 642
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -666,7 +707,8 @@
                 "owner": "famez",
                 "repo": "J1939-Framework",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -681,7 +723,8 @@
                 "owner": "juergenH87",
                 "repo": "python-can-j1939",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -696,7 +739,8 @@
                 "owner": "nmfta-repo",
                 "repo": "pretty_j1939",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -711,7 +755,8 @@
                 "owner": "LittleBlondeDevil",
                 "repo": "TruckDevil",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -726,7 +771,8 @@
                 "owner": "kurt-vd",
                 "repo": "test-can-j1939",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -741,7 +787,8 @@
                 "owner": "milhead2",
                 "repo": "python-j1939",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -756,7 +803,8 @@
                 "owner": "paoloteti",
                 "repo": "libj1939",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -771,7 +819,8 @@
                 "owner": "taha842",
                 "repo": "J1939-CANBUS",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -786,7 +835,8 @@
                 "owner": "kurt-vd",
                 "repo": "can-utils",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -801,7 +851,8 @@
                 "owner": "malachi-iot",
                 "repo": "j1939",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": "SAE J1939 Standard",
@@ -823,7 +874,8 @@
                 "owner": "MEAT-Inc",
                 "repo": "SharpWrap2534",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -838,7 +890,8 @@
                 "owner": "roffe",
                 "repo": "gocanflasher",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": "SAE J2534 Standard",
@@ -865,8 +918,9 @@
                 "last_commit": "2023-07-11T01:32:11Z",
                 "owner": "rbei-etas",
                 "repo": "busmaster",
-                "stars": 1072
-              }
+                "stars": 1074
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -881,7 +935,8 @@
                 "owner": "Hive13",
                 "repo": "CANiBUS",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -896,7 +951,8 @@
                 "owner": "CANopenTerm",
                 "repo": "CANopenTerm",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -911,7 +967,8 @@
                 "owner": "AleksandarFilipov",
                 "repo": "signalbroker-server",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -926,7 +983,8 @@
                 "owner": "mwkpe",
                 "repo": "cantools",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": null,
@@ -947,8 +1005,9 @@
                 "last_commit": "2026-05-12T13:48:35Z",
                 "owner": "linux-can",
                 "repo": "can-utils",
-                "stars": 2908
-              }
+                "stars": 2909
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -962,8 +1021,9 @@
                 "last_commit": "2026-05-12T13:48:35Z",
                 "owner": "linux-can",
                 "repo": "can-utils",
-                "stars": 2908
-              }
+                "stars": 2909
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -978,7 +1038,8 @@
                 "owner": "hartkopp",
                 "repo": "can-isotp",
                 "stars": 288
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -993,7 +1054,8 @@
                 "owner": "norly",
                 "repo": "elmcan",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1008,7 +1070,8 @@
                 "owner": "ryedwards",
                 "repo": "gs_usb",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": null,
@@ -1029,8 +1092,9 @@
                 "last_commit": "2026-08-10T11:53:21Z",
                 "owner": "PlotJuggler",
                 "repo": "PlotJuggler",
-                "stars": 6129
-              }
+                "stars": 6134
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1044,8 +1108,9 @@
                 "last_commit": "2026-05-15T01:09:49Z",
                 "owner": "collin80",
                 "repo": "SavvyCAN",
-                "stars": 1783
-              }
+                "stars": 1787
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1060,7 +1125,8 @@
                 "owner": "GENIVI",
                 "repo": "CANdevStudio",
                 "stars": 1140
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1074,8 +1140,9 @@
                 "last_commit": "2025-09-18T17:19:35Z",
                 "owner": "zombieCraig",
                 "repo": "ICSim",
-                "stars": 974
-              }
+                "stars": 975
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1089,8 +1156,9 @@
                 "last_commit": "2026-08-27T08:43:07Z",
                 "owner": "ecubus",
                 "repo": "EcuBus-Pro",
-                "stars": 852
-              }
+                "stars": 855
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1105,7 +1173,8 @@
                 "owner": "TOSUN-Shanghai",
                 "repo": "TSMaster",
                 "stars": 425
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1120,7 +1189,8 @@
                 "owner": "HubertD",
                 "repo": "cangaroo",
                 "stars": 420
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1135,7 +1205,8 @@
                 "owner": "dschanoeh",
                 "repo": "Kayak",
                 "stars": 339
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1149,8 +1220,9 @@
                 "last_commit": "2026-08-08T19:50:02Z",
                 "owner": "Chanchaldhiman",
                 "repo": "CANviz",
-                "stars": 280
-              }
+                "stars": 281
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1165,7 +1237,8 @@
                 "owner": "amund7",
                 "repo": "CANBUS-Analyzer",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1180,7 +1253,8 @@
                 "owner": "linklayer",
                 "repo": "cantact-app",
                 "stars": 231
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1195,7 +1269,8 @@
                 "owner": "SeeedDocument",
                 "repo": "USB-CAN-Analyzer",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1210,7 +1285,8 @@
                 "owner": "TDahlmann",
                 "repo": "canpp",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1225,7 +1301,8 @@
                 "owner": "tixiv",
                 "repo": "CAN-Monitor-qt",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1240,7 +1317,8 @@
                 "owner": "MHS-Elektronik",
                 "repo": "CANcool",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1255,7 +1333,8 @@
                 "owner": "olegel",
                 "repo": "CANLogger",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1270,7 +1349,8 @@
                 "owner": "PlotJuggler",
                 "repo": "plotjuggler-CAN-dbs",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1285,7 +1365,8 @@
                 "owner": "KruFFT",
                 "repo": "wxCAN-Sniffer",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1299,8 +1380,9 @@
                 "last_commit": "2024-04-28T16:48:39Z",
                 "owner": "smartgauges",
                 "repo": "obd2-bt-stm32",
-                "stars": 42
-              }
+                "stars": 43
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1315,7 +1397,8 @@
                 "owner": "karlyamashita",
                 "repo": "CAN-X",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1330,7 +1413,8 @@
                 "owner": "sebi2k1",
                 "repo": "openCanSuite",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1345,7 +1429,8 @@
                 "owner": "rusoku",
                 "repo": "CANAL-View",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1360,7 +1445,8 @@
                 "owner": "DanielMartensson",
                 "repo": "OpenSourceLogger",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1375,7 +1461,8 @@
                 "owner": "SeppHansen",
                 "repo": "SLSS-CANAnalyser",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1390,7 +1477,8 @@
                 "owner": "reymor",
                 "repo": "novobusanalyzer",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1405,7 +1493,8 @@
                 "owner": "friessssss",
                 "repo": "bootCAN",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": null,
@@ -1427,7 +1516,8 @@
                 "owner": "philipkocanda",
                 "repo": "canair",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1442,7 +1532,8 @@
                 "owner": "miwagner",
                 "repo": "socanui",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1457,7 +1548,8 @@
                 "owner": "OlegShishlyannikov",
                 "repo": "canscope",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": null,
@@ -1475,11 +1567,12 @@
                 "archived": false,
                 "id": 34604098,
                 "language": "Python",
-                "last_commit": "2026-08-27T06:43:21Z",
+                "last_commit": "2026-08-28T07:11:11Z",
                 "owner": "cantools",
                 "repo": "cantools",
-                "stars": 2276
-              }
+                "stars": 2277
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1494,7 +1587,8 @@
                 "owner": "hardbyte",
                 "repo": "python-can",
                 "stars": 1586
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1509,7 +1603,8 @@
                 "owner": "jmscslgroup",
                 "repo": "strym",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1524,7 +1619,8 @@
                 "owner": "tsabelmann",
                 "repo": "canviewer",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1539,7 +1635,8 @@
                 "owner": "caran",
                 "repo": "can4python",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1554,7 +1651,8 @@
                 "owner": "Tbruno25",
                 "repo": "can-explorer",
                 "stars": 302
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1569,7 +1667,8 @@
                 "owner": "atlas0fd00m",
                 "repo": "CanCat",
                 "stars": 217
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1584,7 +1683,8 @@
                 "owner": "hmq2018",
                 "repo": "Python-Vector-CANoe",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1599,7 +1699,8 @@
                 "owner": "nopnop2002",
                 "repo": "Robotell-USB-CAN-Python",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1614,7 +1715,8 @@
                 "owner": "P1kachu",
                 "repo": "python-socketcan-monitor",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1629,7 +1731,8 @@
                 "owner": "bhass1",
                 "repo": "pyfuzz_can",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1644,7 +1747,8 @@
                 "owner": "SikkandarSulaiman",
                 "repo": "py4can",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": null,
@@ -1666,7 +1770,8 @@
                 "owner": "mguentner",
                 "repo": "cannelloni",
                 "stars": 470
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1681,7 +1786,8 @@
                 "owner": "m10k",
                 "repo": "canny",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1696,7 +1802,8 @@
                 "owner": "mwkpe",
                 "repo": "tincan",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1711,7 +1818,8 @@
                 "owner": "ovravna",
                 "repo": "pican",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": null,
@@ -1733,7 +1841,8 @@
                 "owner": "zombieCraig",
                 "repo": "c0f",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1748,7 +1857,8 @@
                 "owner": "alexmohr",
                 "repo": "usb-can",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1763,7 +1873,8 @@
                 "owner": "elliotwoods",
                 "repo": "Candle.NET",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1778,7 +1889,8 @@
                 "owner": "kurt-vd",
                 "repo": "canqv",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1793,7 +1905,8 @@
                 "owner": "zainahm3d",
                 "repo": "canSerializer",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1808,7 +1921,8 @@
                 "owner": "chalmers-revere",
                 "repo": "opendlv-device-can-replay",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": null,
@@ -1830,7 +1944,8 @@
                 "owner": "devcoons",
                 "repo": "iso15765-canbus",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1845,7 +1960,8 @@
                 "owner": "pschichtel",
                 "repo": "JavaCAN",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1856,11 +1972,12 @@
                 "archived": false,
                 "id": 1046182788,
                 "language": "C#",
-                "last_commit": "2026-08-27T20:22:16Z",
+                "last_commit": "2026-08-28T18:01:15Z",
                 "owner": "pkuyo",
                 "repo": "CanKit",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1875,7 +1992,8 @@
                 "owner": "linklayer",
                 "repo": "go-socketcan",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1890,7 +2008,8 @@
                 "owner": "ifupauline",
                 "repo": "libwecan",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1905,7 +2024,8 @@
                 "owner": "TheMatjaz",
                 "repo": "VCAN",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1920,7 +2040,8 @@
                 "owner": "CANopenTerm",
                 "repo": "CANvenient",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1935,7 +2056,8 @@
                 "owner": "tonton81",
                 "repo": "IMCTFD",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": null,
@@ -1957,7 +2079,8 @@
                 "owner": "craigpeacock",
                 "repo": "CAN-Examples",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -1972,7 +2095,8 @@
                 "owner": "zhanglongqi",
                 "repo": "socketcan-demo",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": null,
@@ -2002,7 +2126,8 @@
                     "owner": "commaai",
                     "repo": "cabana",
                     "stars": 204
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 }
               ],
               "description": "DBC - The de facto standard for CAN databases is the DBC file format developed by Vector Informatik GmbH. It is a proprietary format in that no official public documentation or specification is available.",
@@ -2024,7 +2149,8 @@
                     "owner": "julietkilo",
                     "repo": "kcd",
                     "stars": 84
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 }
               ],
               "description": null,
@@ -2047,11 +2173,12 @@
                 "archived": false,
                 "id": 34604098,
                 "language": "Python",
-                "last_commit": "2026-08-27T06:43:21Z",
+                "last_commit": "2026-08-28T07:11:11Z",
                 "owner": "cantools",
                 "repo": "cantools",
-                "stars": 2276
-              }
+                "stars": 2277
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2066,7 +2193,8 @@
                 "owner": "ebroecker",
                 "repo": "canmatrix",
                 "stars": 1087
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2081,7 +2209,8 @@
                 "owner": "julietkilo",
                 "repo": "CANBabel",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2096,7 +2225,8 @@
                 "owner": "aheit",
                 "repo": "cantools",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2111,7 +2241,8 @@
                 "owner": "skysky97",
                 "repo": "Candb",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2126,7 +2257,8 @@
                 "owner": "caran",
                 "repo": "can4python",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2141,7 +2273,8 @@
                 "owner": "howerj",
                 "repo": "dbcc",
                 "stars": 455
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2156,7 +2289,8 @@
                 "owner": "jobgeodev",
                 "repo": "convert_dbc_to_cpp_file",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": null,
@@ -2178,7 +2312,8 @@
                 "owner": "xR3b0rn",
                 "repo": "dbcppp",
                 "stars": 295
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2193,7 +2328,8 @@
                 "owner": "GENIVI",
                 "repo": "CANdb",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2208,7 +2344,8 @@
                 "owner": "CSS-Electronics",
                 "repo": "can_decoder",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2223,7 +2360,8 @@
                 "owner": "christoph2",
                 "repo": "pydbc",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2237,8 +2375,9 @@
                 "last_commit": "2023-08-13T00:27:45Z",
                 "owner": "kdschlosser",
                 "repo": "vector_dbc",
-                "stars": 25
-              }
+                "stars": 26
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2253,7 +2392,8 @@
                 "owner": "msalau",
                 "repo": "dbc-parser",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2268,7 +2408,8 @@
                 "owner": "akshaych92",
                 "repo": "CAN_BUS_DBC_VIEWER",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2283,7 +2424,8 @@
                 "owner": "driftregion",
                 "repo": "dbcview",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2298,7 +2440,8 @@
                 "owner": "golyshkin",
                 "repo": "VectorDbcChecker",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2313,7 +2456,8 @@
                 "owner": "Sauci",
                 "repo": "pydbc",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2328,7 +2472,8 @@
                 "owner": "autti",
                 "repo": "dbc_reader",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": null,
@@ -2356,7 +2501,8 @@
                 "owner": "collin80",
                 "repo": "FlexCAN_Library",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2371,7 +2517,8 @@
                 "owner": "jgressmann",
                 "repo": "supercan",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2386,7 +2533,8 @@
                 "owner": "Alia5",
                 "repo": "PiCCANTE",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2401,7 +2549,8 @@
                 "owner": "RudolphRiedel",
                 "repo": "USB_CAN-FD",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2416,7 +2565,8 @@
                 "owner": "596142041",
                 "repo": "CANBootloader-Qt",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2431,7 +2581,8 @@
                 "owner": "arturlangner",
                 "repo": "Open-OBD2-datalogger",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "children": [
@@ -2448,7 +2599,8 @@
                     "owner": "commaai",
                     "repo": "panda",
                     "stars": 1697
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2463,7 +2615,8 @@
                     "owner": "moonglow",
                     "repo": "pcan_pro_x",
                     "stars": 347
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2478,7 +2631,8 @@
                     "owner": "nopnop2002",
                     "repo": "Arduino-STM32-CAN",
                     "stars": 277
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2493,7 +2647,8 @@
                     "owner": "exothink",
                     "repo": "eXoCAN",
                     "stars": 86
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2508,7 +2663,8 @@
                     "owner": "walmis",
                     "repo": "stm32-slcan",
                     "stars": 80
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2523,7 +2679,8 @@
                     "owner": "linklayer",
                     "repo": "cantact-pro-hw",
                     "stars": 80
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2537,8 +2694,9 @@
                     "last_commit": "2022-07-28T15:00:34Z",
                     "owner": "moonglow",
                     "repo": "vector_can",
-                    "stars": 64
-                  }
+                    "stars": 63
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2553,7 +2711,8 @@
                     "owner": "zjlywjh001",
                     "repo": "CAN_OMEGA",
                     "stars": 51
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2568,7 +2727,8 @@
                     "owner": "timsonater",
                     "repo": "stm32-CAN-bus-example-HAL-API",
                     "stars": 47
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2583,7 +2743,8 @@
                     "owner": "damienmaguire",
                     "repo": "CAN-BUS-Man-In-The-Middle",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2598,7 +2759,8 @@
                     "owner": "Zubax",
                     "repo": "canface_cf1",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2613,7 +2775,8 @@
                     "owner": "cvra",
                     "repo": "CAN-USB-dongle-fw",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2628,7 +2791,8 @@
                     "owner": "suburbanmarine",
                     "repo": "hadoucan-fw",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2643,7 +2807,8 @@
                     "owner": "MikhailBerezhanov",
                     "repo": "CNCU-01",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2658,7 +2823,8 @@
                     "owner": "kolyandex",
                     "repo": "CAN-to-USB-lawicel-for-stm32",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2673,7 +2839,8 @@
                     "owner": "benedekkupper",
                     "repo": "CanDybugFW",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2688,7 +2855,8 @@
                     "owner": "mxcd",
                     "repo": "CANnon",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2703,7 +2871,8 @@
                     "owner": "seeers",
                     "repo": "CAN-Bus-Arduino_Core_STM32",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2718,7 +2887,8 @@
                     "owner": "adamczykpiotr",
                     "repo": "STM32duino_CAN_Library",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2733,7 +2903,8 @@
                     "owner": "IvanDev2018",
                     "repo": "STM32-CAN-Busadapter",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2748,7 +2919,8 @@
                     "owner": "YuriyLogvin",
                     "repo": "CAN-RS485-adapter",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2763,7 +2935,8 @@
                     "owner": "Oktay97",
                     "repo": "Canbus_Uart",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2778,7 +2951,8 @@
                     "owner": "DDolphin",
                     "repo": "CANCAN",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 }
               ],
               "description": null,
@@ -2799,8 +2973,9 @@
                     "last_commit": "2026-07-17T17:52:55Z",
                     "owner": "candle-usb",
                     "repo": "candleLight_fw",
-                    "stars": 941
-                  }
+                    "stars": 942
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2815,7 +2990,8 @@
                     "owner": "moonglow",
                     "repo": "pcan_cantact",
                     "stars": 435
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2830,7 +3006,8 @@
                     "owner": "linklayer",
                     "repo": "cantact-hw",
                     "stars": 403
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2845,7 +3022,8 @@
                     "owner": "HubertD",
                     "repo": "candleLight",
                     "stars": 394
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2860,7 +3038,8 @@
                     "owner": "kkuchera",
                     "repo": "canalyze-fw",
                     "stars": 73
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2875,7 +3054,8 @@
                     "owner": "linklayer",
                     "repo": "cantact",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2890,7 +3070,8 @@
                     "owner": "moonglow",
                     "repo": "kvaser_cantact",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2905,7 +3086,8 @@
                     "owner": "roboterclubaachen",
                     "repo": "usb2can",
                     "stars": 52
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2920,7 +3102,8 @@
                     "owner": "autosportlabs",
                     "repo": "OBD2CAN",
                     "stars": 47
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2935,7 +3118,8 @@
                     "owner": "majbthrd",
                     "repo": "CANsniffer",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 },
                 {
                   "node_type": "item",
@@ -2950,7 +3134,8 @@
                     "owner": "x893",
                     "repo": "cantact-fw",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
                 }
               ],
               "description": null,
@@ -2977,7 +3162,8 @@
                 "owner": "autowp",
                 "repo": "arduino-canhacker",
                 "stars": 477
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -2992,7 +3178,8 @@
                 "owner": "latonita",
                 "repo": "arduino-canbus-monitor",
                 "stars": 336
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3006,8 +3193,9 @@
                 "last_commit": "2020-08-07T08:49:33Z",
                 "owner": "rnd-ash",
                 "repo": "W203-canbus",
-                "stars": 168
-              }
+                "stars": 169
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3022,7 +3210,8 @@
                 "owner": "fabiobaltieri",
                 "repo": "open-usb-can",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3037,7 +3226,8 @@
                 "owner": "ludwig-v",
                 "repo": "arduino-psa-comfort-can-adapter",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3052,7 +3242,8 @@
                 "owner": "CANBus-Triple",
                 "repo": "CANBus-Triple-Hardware",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3067,7 +3258,8 @@
                 "owner": "DieselDuz42",
                 "repo": "Arduino-CAN-bus-SD-logger",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3082,7 +3274,8 @@
                 "owner": "srenner",
                 "repo": "epasuino",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3097,7 +3290,8 @@
                 "owner": "srenner",
                 "repo": "carfuino",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3112,7 +3306,8 @@
                 "owner": "collin80",
                 "repo": "GVRET",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3127,7 +3322,8 @@
                 "owner": "autowp",
                 "repo": "arduino-mcp2515",
                 "stars": 1025
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3142,7 +3338,8 @@
                 "owner": "sandeepmistry",
                 "repo": "arduino-OBD2",
                 "stars": 569
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3157,7 +3354,8 @@
                 "owner": "kahiroka",
                 "repo": "slcanuino",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3172,7 +3370,8 @@
                 "owner": "ihaque",
                 "repo": "arduino-ecu-logger",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3187,7 +3386,8 @@
                 "owner": "BXProject",
                 "repo": "CITM02",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": null,
@@ -3209,7 +3409,8 @@
                 "owner": "nopnop2002",
                 "repo": "esp-idf-CANBus-Monitor",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3224,7 +3425,8 @@
                 "owner": "morcibacsi",
                 "repo": "PSASteeringWheelAdapter",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3239,7 +3441,8 @@
                 "owner": "marmotton",
                 "repo": "connected-car",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3254,7 +3457,8 @@
                 "owner": "mintynet",
                 "repo": "esp32-slcan",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3269,7 +3473,8 @@
                 "owner": "Pacerino",
                 "repo": "TWAI_SLCAN",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3284,7 +3489,8 @@
                 "owner": "MagnusThome",
                 "repo": "RejsaCAN-ESP32",
                 "stars": 784
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3299,7 +3505,8 @@
                 "owner": "MagnusThome",
                 "repo": "RejsaCAN-ESP32",
                 "stars": 784
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3314,7 +3521,8 @@
                 "owner": "limiter121",
                 "repo": "esp32-obd2-emulator",
                 "stars": 496
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3329,7 +3537,8 @@
                 "owner": "collin80",
                 "repo": "ESP32RET",
                 "stars": 405
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3344,7 +3553,8 @@
                 "owner": "miwagner",
                 "repo": "ESP32-Arduino-CAN",
                 "stars": 390
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3359,7 +3569,8 @@
                 "owner": "MagnusThome",
                 "repo": "esp32_obd2",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3374,7 +3585,8 @@
                 "owner": "PhilippFux",
                 "repo": "ESP32_CAN_Interface",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3389,7 +3601,8 @@
                 "owner": "nopnop2002",
                 "repo": "esp-idf-can2http",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3404,7 +3617,8 @@
                 "owner": "okhsunrog",
                 "repo": "can_wizard",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3419,7 +3633,8 @@
                 "owner": "Cellgalvano",
                 "repo": "ESP32_CANViewer",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3434,7 +3649,8 @@
                 "owner": "randomserj",
                 "repo": "esp32_canbus_gateway",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3449,7 +3665,8 @@
                 "owner": "MagnusThome",
                 "repo": "ESP32_OBD2_Emulator",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3464,7 +3681,8 @@
                 "owner": "MagnusThome",
                 "repo": "ESP32S3RET",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3479,7 +3697,8 @@
                 "owner": "neggles",
                 "repo": "esp32-cantroller",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3494,7 +3713,8 @@
                 "owner": "scipioni",
                 "repo": "esp32-canbus-logger",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": null,
@@ -3516,7 +3736,8 @@
                 "owner": "JonnoFTW",
                 "repo": "rpi-can-logger",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3531,7 +3752,8 @@
                 "owner": "SushiBits",
                 "repo": "CANoPi",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3546,7 +3768,8 @@
                 "owner": "BlueAndi",
                 "repo": "beaglebone_black_socketcan",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": "SBC - Single Board Computers.",
@@ -3568,7 +3791,8 @@
                 "owner": "Logic-Design-Services",
                 "repo": "CTU-CAN-FD",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": null,
@@ -3590,7 +3814,8 @@
                 "owner": "rkollataj",
                 "repo": "mcba_usb",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3605,7 +3830,8 @@
                 "owner": "darkspr1te",
                 "repo": "elm327_clone",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3620,7 +3846,8 @@
                 "owner": "rkollataj",
                 "repo": "mcba_firmware",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             },
             {
               "node_type": "item",
@@ -3635,7 +3862,8 @@
                 "owner": "mvollrath",
                 "repo": "canbus_bbone_stm32",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": null,
@@ -3657,7 +3885,8 @@
                 "owner": "iDoka",
                 "repo": "STM8S208-CAN-Speed-Calculator",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
             }
           ],
           "description": null,
@@ -3682,8 +3911,9 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3433
-          }
+            "stars": 3434
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -3698,7 +3928,8 @@
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
             "stars": 978
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         },
         {
           "node_type": "item",
@@ -3713,14 +3944,15 @@
             "owner": "iDoka",
             "repo": "awesome-linbus",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T21:14:48.873Z"
         }
       ],
       "title": "Footnotes"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:43:22.322Z",
+    "last_updated": "2026-08-28T21:14:48.873Z",
     "original_repository_info": {
       "archived": false,
       "id": 313261022,
@@ -3728,7 +3960,7 @@
       "last_commit": "2026-08-07T22:14:43Z",
       "owner": "iDoka",
       "repo": "awesome-canbus",
-      "stars": 3433
+      "stars": 3434
     },
     "original_repository_sha": "77c59133db2fcdd4e4f891a55e440629e0178b8e",
     "enhanced_repository": "enhansome/enhansome-canbus",
