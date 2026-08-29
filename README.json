@@ -578,7 +578,7 @@
             "open_issues": 17,
             "owner": "Ircama",
             "repo": "ELM327-emulator",
-            "stars": 670,
+            "stars": 671,
             "topics": [
               "automotive",
               "can",
@@ -695,7 +695,7 @@
                 "open_issues": 2,
                 "owner": "cedricp",
                 "repo": "ddt4all",
-                "stars": 1822,
+                "stars": 1824,
                 "topics": [
                   "can-bus",
                   "ecu",
@@ -971,7 +971,7 @@
                 "open_issues": 8,
                 "owner": "driftregion",
                 "repo": "iso14229",
-                "stars": 357,
+                "stars": 358,
                 "topics": [
                   "arm",
                   "automotive",
@@ -1730,7 +1730,7 @@
                 "open_issues": 161,
                 "owner": "PlotJuggler",
                 "repo": "PlotJuggler",
-                "stars": 6134,
+                "stars": 6135,
                 "topics": [
                   "chart",
                   "csv",
@@ -1765,7 +1765,7 @@
                 "open_issues": 283,
                 "owner": "collin80",
                 "repo": "SavvyCAN",
-                "stars": 1789,
+                "stars": 1792,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -3071,7 +3071,7 @@
                 "open_issues": 0,
                 "owner": "devcoons",
                 "repo": "iso15765-canbus",
-                "stars": 195,
+                "stars": 196,
                 "topics": [
                   "automotive",
                   "canbus",
@@ -3128,7 +3128,7 @@
                 "id": 1046182788,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T01:33:21Z",
+                "last_commit": "2026-08-29T15:17:00Z",
                 "open_issues": 12,
                 "owner": "pkuyo",
                 "repo": "CanKit",
@@ -4235,7 +4235,7 @@
                     "open_issues": 4,
                     "owner": "moonglow",
                     "repo": "vector_can",
-                    "stars": 63,
+                    "stars": 64,
                     "topics": [
                       "busmaster",
                       "can",
@@ -5401,7 +5401,7 @@
                 "open_issues": 0,
                 "owner": "mintynet",
                 "repo": "esp32-slcan",
-                "stars": 109,
+                "stars": 110,
                 "topics": [
                   "arduino",
                   "bus",
@@ -5453,7 +5453,7 @@
                 "open_issues": 1,
                 "owner": "MagnusThome",
                 "repo": "RejsaCAN-ESP32",
-                "stars": 784,
+                "stars": 785,
                 "topics": [
                   "can-bus",
                   "car",
@@ -5480,7 +5480,7 @@
                 "open_issues": 1,
                 "owner": "MagnusThome",
                 "repo": "RejsaCAN-ESP32",
-                "stars": 784,
+                "stars": 785,
                 "topics": [
                   "can-bus",
                   "car",
@@ -6200,7 +6200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:19:20.892Z",
+    "last_updated": "2026-08-29T15:17:18.433Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
