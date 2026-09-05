@@ -270,11 +270,11 @@
             "id": 43509302,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-03T21:58:19Z",
+            "last_commit": "2026-09-04T20:06:52Z",
             "open_issues": 139,
             "owner": "secdev",
             "repo": "scapy",
-            "stars": 12517,
+            "stars": 12520,
             "topics": [
               "hacktoberfest",
               "network",
@@ -695,7 +695,7 @@
                 "open_issues": 0,
                 "owner": "cedricp",
                 "repo": "ddt4all",
-                "stars": 1829,
+                "stars": 1830,
                 "topics": [
                   "can-bus",
                   "ecu",
@@ -799,7 +799,7 @@
                 "open_issues": 2,
                 "owner": "AustinMurphy",
                 "repo": "OBD2-Scantool",
-                "stars": 246,
+                "stars": 247,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -929,7 +929,7 @@
                 "open_issues": 9,
                 "owner": "pylessard",
                 "repo": "python-udsoncan",
-                "stars": 725,
+                "stars": 726,
                 "topics": [
                   "14229",
                   "15765",
@@ -963,7 +963,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "ISO 14229 (UDS) server and client for embedded systems",
-                "homepage": null,
+                "homepage": "https://driftregion.github.io/iso14229/",
                 "id": 439538151,
                 "language": "C",
                 "license": "MIT",
@@ -1726,7 +1726,7 @@
                 "open_issues": 162,
                 "owner": "PlotJuggler",
                 "repo": "PlotJuggler",
-                "stars": 6146,
+                "stars": 6150,
                 "topics": [
                   "chart",
                   "csv",
@@ -1782,7 +1782,7 @@
                 "open_issues": 37,
                 "owner": "GENIVI",
                 "repo": "CANdevStudio",
-                "stars": 1140,
+                "stars": 1141,
                 "topics": [
                   "automotive",
                   "can",
@@ -1908,7 +1908,7 @@
                 "open_issues": 22,
                 "owner": "HubertD",
                 "repo": "cangaroo",
-                "stars": 420,
+                "stars": 421,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -2503,7 +2503,7 @@
                 "open_issues": 129,
                 "owner": "cantools",
                 "repo": "cantools",
-                "stars": 2280,
+                "stars": 2281,
                 "topics": [
                   "arxml",
                   "can-bus",
@@ -2804,7 +2804,7 @@
                 "open_issues": 8,
                 "owner": "mguentner",
                 "repo": "cannelloni",
-                "stars": 470,
+                "stars": 471,
                 "topics": [
                   "can-bus",
                   "socketcan"
@@ -3430,7 +3430,7 @@
                 "open_issues": 129,
                 "owner": "cantools",
                 "repo": "cantools",
-                "stars": 2280,
+                "stars": 2281,
                 "topics": [
                   "arxml",
                   "can-bus",
@@ -3585,7 +3585,7 @@
                 "open_issues": 1,
                 "owner": "howerj",
                 "repo": "dbcc",
-                "stars": 456,
+                "stars": 457,
                 "topics": [
                   "automotive",
                   "c",
@@ -5192,7 +5192,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-02-27T18:42:36Z",
-                "open_issues": 64,
+                "open_issues": 65,
                 "owner": "autowp",
                 "repo": "arduino-mcp2515",
                 "stars": 1026,
@@ -5221,7 +5221,7 @@
                 "open_issues": 15,
                 "owner": "sandeepmistry",
                 "repo": "arduino-OBD2",
-                "stars": 570,
+                "stars": 571,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -5449,7 +5449,7 @@
                 "open_issues": 1,
                 "owner": "MagnusThome",
                 "repo": "RejsaCAN-ESP32",
-                "stars": 789,
+                "stars": 791,
                 "topics": [
                   "can-bus",
                   "car",
@@ -5476,7 +5476,7 @@
                 "open_issues": 1,
                 "owner": "MagnusThome",
                 "repo": "RejsaCAN-ESP32",
-                "stars": 789,
+                "stars": 791,
                 "topics": [
                   "can-bus",
                   "car",
@@ -5503,7 +5503,7 @@
                 "open_issues": 0,
                 "owner": "limiter121",
                 "repo": "esp32-obd2-emulator",
-                "stars": 497,
+                "stars": 498,
                 "topics": [
                   "can",
                   "car",
@@ -6083,7 +6083,7 @@
             "open_issues": 6,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3444,
+            "stars": 3445,
             "topics": [
               "automotive",
               "automotive-security",
@@ -6196,7 +6196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T14:31:18.077Z",
+    "last_updated": "2026-09-05T13:31:29.942Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -6208,7 +6208,7 @@
       "open_issues": 6,
       "owner": "iDoka",
       "repo": "awesome-canbus",
-      "stars": 3444,
+      "stars": 3445,
       "topics": [
         "automotive",
         "automotive-security",
