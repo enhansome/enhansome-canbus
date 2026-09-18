@@ -152,7 +152,7 @@
             "open_issues": 0,
             "owner": "daedalus",
             "repo": "carhacking",
-            "stars": 119,
+            "stars": 120,
             "topics": [
               "can-bus",
               "carthage",
@@ -270,11 +270,11 @@
             "id": 43509302,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-16T15:32:09Z",
-            "open_issues": 139,
+            "last_commit": "2026-09-18T10:01:14Z",
+            "open_issues": 143,
             "owner": "secdev",
             "repo": "scapy",
-            "stars": 12549,
+            "stars": 12552,
             "topics": [
               "hacktoberfest",
               "network",
@@ -575,7 +575,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-17T11:08:47Z",
-            "open_issues": 16,
+            "open_issues": 9,
             "owner": "Ircama",
             "repo": "ELM327-emulator",
             "stars": 678,
@@ -695,7 +695,7 @@
                 "open_issues": 1,
                 "owner": "cedricp",
                 "repo": "ddt4all",
-                "stars": 1847,
+                "stars": 1850,
                 "topics": [
                   "can-bus",
                   "ecu",
@@ -908,7 +908,7 @@
                 "open_issues": 6,
                 "owner": "openxc",
                 "repo": "uds-c",
-                "stars": 827,
+                "stars": 828,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -929,7 +929,7 @@
                 "open_issues": 9,
                 "owner": "pylessard",
                 "repo": "python-udsoncan",
-                "stars": 728,
+                "stars": 729,
                 "topics": [
                   "14229",
                   "15765",
@@ -1726,7 +1726,7 @@
                 "open_issues": 164,
                 "owner": "PlotJuggler",
                 "repo": "PlotJuggler",
-                "stars": 6186,
+                "stars": 6188,
                 "topics": [
                   "chart",
                   "csv",
@@ -1761,7 +1761,7 @@
                 "open_issues": 285,
                 "owner": "collin80",
                 "repo": "SavvyCAN",
-                "stars": 1840,
+                "stars": 1842,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -1825,8 +1825,8 @@
                 "id": 239531393,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T01:26:43Z",
-                "open_issues": 58,
+                "last_commit": "2026-09-18T09:14:50Z",
+                "open_issues": 57,
                 "owner": "ecubus",
                 "repo": "EcuBus-Pro",
                 "stars": 870,
@@ -2500,10 +2500,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-16T14:25:21Z",
-                "open_issues": 127,
+                "open_issues": 128,
                 "owner": "cantools",
                 "repo": "cantools",
-                "stars": 2285,
+                "stars": 2286,
                 "topics": [
                   "arxml",
                   "can-bus",
@@ -2529,7 +2529,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-07-01T00:10:31Z",
-                "open_issues": 278,
+                "open_issues": 279,
                 "owner": "hardbyte",
                 "repo": "python-can",
                 "stars": 1597,
@@ -2657,7 +2657,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2023-04-07T17:39:32Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "atlas0fd00m",
                 "repo": "CanCat",
                 "stars": 218,
@@ -3124,11 +3124,11 @@
                 "id": 1046182788,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T13:14:22Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-18T09:13:12Z",
+                "open_issues": 9,
                 "owner": "pkuyo",
                 "repo": "CanKit",
-                "stars": 43,
+                "stars": 44,
                 "topics": [
                   "can",
                   "can-bus",
@@ -3427,10 +3427,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-16T14:25:21Z",
-                "open_issues": 127,
+                "open_issues": 128,
                 "owner": "cantools",
                 "repo": "cantools",
-                "stars": 2285,
+                "stars": 2286,
                 "topics": [
                   "arxml",
                   "can-bus",
@@ -3585,7 +3585,7 @@
                 "open_issues": 1,
                 "owner": "howerj",
                 "repo": "dbcc",
-                "stars": 458,
+                "stars": 459,
                 "topics": [
                   "automotive",
                   "c",
@@ -4077,7 +4077,7 @@
                     "open_issues": 58,
                     "owner": "commaai",
                     "repo": "panda",
-                    "stars": 1701,
+                    "stars": 1702,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:14:48.873Z"
@@ -4288,27 +4288,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "CAN-BUS-Man-In-The-Middle",
-                  "description": "Dual CAN MitM-device based on STM32F105.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "CAN BUS Man In The Middle for spying on and modifyling automotive can traffic on the fly.",
-                    "homepage": null,
-                    "id": 242545617,
-                    "language": "C",
-                    "license": "GPL-3.0",
-                    "last_commit": "2020-03-21T19:02:56Z",
-                    "open_issues": 1,
-                    "owner": "damienmaguire",
-                    "repo": "CAN-BUS-Man-In-The-Middle",
-                    "stars": 41,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:14:48.873Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "zubax_babel",
                   "description": "High performance CAN-USB/CAN-UART adapter + UAVCAN devboard (STM32F37x).",
                   "children": [],
@@ -4336,6 +4315,27 @@
                       "usbcan",
                       "zubax"
                     ]
+                  },
+                  "first_seen": "2026-08-28T21:14:48.873Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "CAN-BUS-Man-In-The-Middle",
+                  "description": "Dual CAN MitM-device based on STM32F105.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "CAN BUS Man In The Middle for spying on and modifyling automotive can traffic on the fly.",
+                    "homepage": null,
+                    "id": 242545617,
+                    "language": "C",
+                    "license": "GPL-3.0",
+                    "last_commit": "2020-03-21T19:02:56Z",
+                    "open_issues": 1,
+                    "owner": "damienmaguire",
+                    "repo": "CAN-BUS-Man-In-The-Middle",
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:14:48.873Z"
                 },
@@ -4922,7 +4922,7 @@
                 "open_issues": 12,
                 "owner": "autowp",
                 "repo": "arduino-canhacker",
-                "stars": 478,
+                "stars": 479,
                 "topics": [
                   "arduino",
                   "can",
@@ -5449,7 +5449,7 @@
                 "open_issues": 1,
                 "owner": "MagnusThome",
                 "repo": "RejsaCAN-ESP32",
-                "stars": 798,
+                "stars": 799,
                 "topics": [
                   "can-bus",
                   "car",
@@ -5476,7 +5476,7 @@
                 "open_issues": 1,
                 "owner": "MagnusThome",
                 "repo": "RejsaCAN-ESP32",
-                "stars": 798,
+                "stars": 799,
                 "topics": [
                   "can-bus",
                   "car",
@@ -5555,7 +5555,7 @@
                 "open_issues": 33,
                 "owner": "miwagner",
                 "repo": "ESP32-Arduino-CAN",
-                "stars": 393,
+                "stars": 395,
                 "topics": [
                   "arduino",
                   "driver"
@@ -6083,7 +6083,7 @@
             "open_issues": 7,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3469,
+            "stars": 3470,
             "topics": [
               "automotive",
               "automotive-security",
@@ -6196,7 +6196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T15:17:05.441Z",
+    "last_updated": "2026-09-18T14:37:23.946Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -6208,7 +6208,7 @@
       "open_issues": 7,
       "owner": "iDoka",
       "repo": "awesome-canbus",
-      "stars": 3469,
+      "stars": 3470,
       "topics": [
         "automotive",
         "automotive-security",
