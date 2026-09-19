@@ -271,10 +271,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-18T10:01:14Z",
-            "open_issues": 143,
+            "open_issues": 144,
             "owner": "secdev",
             "repo": "scapy",
-            "stars": 12552,
+            "stars": 12555,
             "topics": [
               "hacktoberfest",
               "network",
@@ -695,7 +695,7 @@
                 "open_issues": 1,
                 "owner": "cedricp",
                 "repo": "ddt4all",
-                "stars": 1850,
+                "stars": 1852,
                 "topics": [
                   "can-bus",
                   "ecu",
@@ -929,7 +929,7 @@
                 "open_issues": 9,
                 "owner": "pylessard",
                 "repo": "python-udsoncan",
-                "stars": 729,
+                "stars": 730,
                 "topics": [
                   "14229",
                   "15765",
@@ -1726,7 +1726,7 @@
                 "open_issues": 164,
                 "owner": "PlotJuggler",
                 "repo": "PlotJuggler",
-                "stars": 6188,
+                "stars": 6189,
                 "topics": [
                   "chart",
                   "csv",
@@ -1761,7 +1761,7 @@
                 "open_issues": 285,
                 "owner": "collin80",
                 "repo": "SavvyCAN",
-                "stars": 1842,
+                "stars": 1843,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -2043,7 +2043,7 @@
                 "id": 365968398,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-04-28T14:40:35Z",
+                "last_commit": "2026-09-18T16:54:48Z",
                 "open_issues": 1,
                 "owner": "TDahlmann",
                 "repo": "canpp",
@@ -2503,7 +2503,7 @@
                 "open_issues": 128,
                 "owner": "cantools",
                 "repo": "cantools",
-                "stars": 2286,
+                "stars": 2287,
                 "topics": [
                   "arxml",
                   "can-bus",
@@ -3430,7 +3430,7 @@
                 "open_issues": 128,
                 "owner": "cantools",
                 "repo": "cantools",
-                "stars": 2286,
+                "stars": 2287,
                 "topics": [
                   "arxml",
                   "can-bus",
@@ -4074,10 +4074,10 @@
                     "language": "C",
                     "license": "MIT",
                     "last_commit": "2026-09-13T02:49:46Z",
-                    "open_issues": 58,
+                    "open_issues": 59,
                     "owner": "commaai",
                     "repo": "panda",
-                    "stars": 1702,
+                    "stars": 1701,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:14:48.873Z"
@@ -5195,7 +5195,7 @@
                 "open_issues": 65,
                 "owner": "autowp",
                 "repo": "arduino-mcp2515",
-                "stars": 1028,
+                "stars": 1027,
                 "topics": [
                   "arduino",
                   "can",
@@ -5338,7 +5338,7 @@
                 "open_issues": 0,
                 "owner": "morcibacsi",
                 "repo": "PSASteeringWheelAdapter",
-                "stars": 38,
+                "stars": 37,
                 "topics": [
                   "adapter",
                   "alpine",
@@ -5449,7 +5449,7 @@
                 "open_issues": 1,
                 "owner": "MagnusThome",
                 "repo": "RejsaCAN-ESP32",
-                "stars": 799,
+                "stars": 800,
                 "topics": [
                   "can-bus",
                   "car",
@@ -5476,7 +5476,7 @@
                 "open_issues": 1,
                 "owner": "MagnusThome",
                 "repo": "RejsaCAN-ESP32",
-                "stars": 799,
+                "stars": 800,
                 "topics": [
                   "can-bus",
                   "car",
@@ -6083,7 +6083,7 @@
             "open_issues": 7,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3470,
+            "stars": 3471,
             "topics": [
               "automotive",
               "automotive-security",
@@ -6196,7 +6196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T14:37:23.946Z",
+    "last_updated": "2026-09-19T13:58:37.764Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -6208,7 +6208,7 @@
       "open_issues": 7,
       "owner": "iDoka",
       "repo": "awesome-canbus",
-      "stars": 3470,
+      "stars": 3471,
       "topics": [
         "automotive",
         "automotive-security",
