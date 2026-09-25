@@ -271,7 +271,7 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-23T22:31:03Z",
-            "open_issues": 136,
+            "open_issues": 138,
             "owner": "secdev",
             "repo": "scapy",
             "stars": 12565,
@@ -695,7 +695,7 @@
                 "open_issues": 2,
                 "owner": "cedricp",
                 "repo": "ddt4all",
-                "stars": 1861,
+                "stars": 1862,
                 "topics": [
                   "can-bus",
                   "ecu",
@@ -770,7 +770,7 @@
                 "open_issues": 4,
                 "owner": "provrb",
                 "repo": "obdium",
-                "stars": 391,
+                "stars": 390,
                 "topics": [
                   "automotive",
                   "car-diagnostics",
@@ -1499,8 +1499,8 @@
                 "id": 491760648,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-24T14:27:43Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-25T07:49:40Z",
+                "open_issues": 7,
                 "owner": "CANopenTerm",
                 "repo": "CANopenTerm",
                 "stars": 79,
@@ -1605,7 +1605,7 @@
                 "open_issues": 61,
                 "owner": "linux-can",
                 "repo": "can-utils",
-                "stars": 2920,
+                "stars": 2922,
                 "topics": [
                   "automotive",
                   "can-bus",
@@ -1631,7 +1631,7 @@
                 "open_issues": 61,
                 "owner": "linux-can",
                 "repo": "can-utils",
-                "stars": 2920,
+                "stars": 2922,
                 "topics": [
                   "automotive",
                   "can-bus",
@@ -1724,10 +1724,10 @@
                 "language": "C++",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-23T11:04:00Z",
-                "open_issues": 101,
+                "open_issues": 102,
                 "owner": "PlotJuggler",
                 "repo": "PlotJuggler",
-                "stars": 6204,
+                "stars": 6209,
                 "topics": [
                   "chart",
                   "csv",
@@ -1762,7 +1762,7 @@
                 "open_issues": 287,
                 "owner": "collin80",
                 "repo": "SavvyCAN",
-                "stars": 1847,
+                "stars": 1848,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -1930,7 +1930,7 @@
                 "open_issues": 16,
                 "owner": "dschanoeh",
                 "repo": "Kayak",
-                "stars": 339,
+                "stars": 338,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -2381,7 +2381,7 @@
                 "id": 1105687052,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-09-23T19:10:10Z",
+                "last_commit": "2026-09-24T16:01:43Z",
                 "open_issues": 0,
                 "owner": "friessssss",
                 "repo": "bootCAN",
@@ -2530,7 +2530,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-07-01T00:10:31Z",
-                "open_issues": 279,
+                "open_issues": 281,
                 "owner": "hardbyte",
                 "repo": "python-can",
                 "stars": 1600,
@@ -2553,7 +2553,7 @@
                 "id": 221139800,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-07T19:20:26Z",
+                "last_commit": "2026-09-24T19:04:34Z",
                 "open_issues": 8,
                 "owner": "jmscslgroup",
                 "repo": "strym",
@@ -5222,7 +5222,7 @@
                 "open_issues": 15,
                 "owner": "sandeepmistry",
                 "repo": "arduino-OBD2",
-                "stars": 572,
+                "stars": 573,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -5618,7 +5618,7 @@
                 "id": 381501754,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-06-08T23:37:52Z",
+                "last_commit": "2026-09-25T04:19:54Z",
                 "open_issues": 1,
                 "owner": "nopnop2002",
                 "repo": "esp-idf-can2http",
@@ -6197,7 +6197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:28:49.388Z",
+    "last_updated": "2026-09-25T15:30:51.151Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
