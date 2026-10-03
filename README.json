@@ -152,7 +152,7 @@
             "open_issues": 0,
             "owner": "daedalus",
             "repo": "carhacking",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "can-bus",
               "carthage",
@@ -274,7 +274,7 @@
             "open_issues": 139,
             "owner": "secdev",
             "repo": "scapy",
-            "stars": 12580,
+            "stars": 12581,
             "topics": [
               "hacktoberfest",
               "network",
@@ -505,7 +505,7 @@
             "open_issues": 1,
             "owner": "KartheekLade",
             "repo": "CANalyse",
-            "stars": 119,
+            "stars": 118,
             "topics": [
               "car-hacking",
               "scripting",
@@ -770,7 +770,7 @@
                 "open_issues": 4,
                 "owner": "provrb",
                 "repo": "obdium",
-                "stars": 401,
+                "stars": 403,
                 "topics": [
                   "automotive",
                   "car-diagnostics",
@@ -971,7 +971,7 @@
                 "open_issues": 3,
                 "owner": "driftregion",
                 "repo": "iso14229",
-                "stars": 368,
+                "stars": 369,
                 "topics": [
                   "arm",
                   "automotive",
@@ -1605,7 +1605,7 @@
                 "open_issues": 61,
                 "owner": "linux-can",
                 "repo": "can-utils",
-                "stars": 2926,
+                "stars": 2927,
                 "topics": [
                   "automotive",
                   "can-bus",
@@ -1631,7 +1631,7 @@
                 "open_issues": 61,
                 "owner": "linux-can",
                 "repo": "can-utils",
-                "stars": 2926,
+                "stars": 2927,
                 "topics": [
                   "automotive",
                   "can-bus",
@@ -1724,10 +1724,10 @@
                 "language": "C++",
                 "license": "MPL-2.0",
                 "last_commit": "2026-10-01T14:08:57Z",
-                "open_issues": 69,
+                "open_issues": 71,
                 "owner": "PlotJuggler",
                 "repo": "PlotJuggler",
-                "stars": 6225,
+                "stars": 6228,
                 "topics": [
                   "chart",
                   "csv",
@@ -1830,7 +1830,7 @@
                 "open_issues": 60,
                 "owner": "ecubus",
                 "repo": "EcuBus-Pro",
-                "stars": 875,
+                "stars": 877,
                 "topics": [
                   "can",
                   "cantp",
@@ -3456,7 +3456,7 @@
                 "id": 9304497,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-02T07:01:04Z",
+                "last_commit": "2026-10-03T11:19:49Z",
                 "open_issues": 21,
                 "owner": "ebroecker",
                 "repo": "canmatrix",
@@ -4946,8 +4946,8 @@
                 "id": 34021257,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2025-10-22T10:47:42Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-03T08:32:50Z",
+                "open_issues": 4,
                 "owner": "latonita",
                 "repo": "arduino-canbus-monitor",
                 "stars": 337,
@@ -5450,7 +5450,7 @@
                 "open_issues": 1,
                 "owner": "MagnusThome",
                 "repo": "RejsaCAN-ESP32",
-                "stars": 807,
+                "stars": 808,
                 "topics": [
                   "can-bus",
                   "car",
@@ -5477,7 +5477,7 @@
                 "open_issues": 1,
                 "owner": "MagnusThome",
                 "repo": "RejsaCAN-ESP32",
-                "stars": 807,
+                "stars": 808,
                 "topics": [
                   "can-bus",
                   "car",
@@ -6155,7 +6155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:37:55.731Z",
+    "last_updated": "2026-10-03T14:51:00.748Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
