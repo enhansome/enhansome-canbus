@@ -49,7 +49,7 @@
             "open_issues": 14,
             "owner": "CaringCaribou",
             "repo": "caringcaribou",
-            "stars": 952,
+            "stars": 953,
             "topics": [
               "can-bus",
               "ecu",
@@ -78,7 +78,7 @@
             "open_issues": 3,
             "owner": "schutzwerk",
             "repo": "CANalyzat0r",
-            "stars": 794,
+            "stars": 795,
             "topics": [
               "automotive-security",
               "carhacking",
@@ -274,7 +274,7 @@
             "open_issues": 139,
             "owner": "secdev",
             "repo": "scapy",
-            "stars": 12578,
+            "stars": 12580,
             "topics": [
               "hacktoberfest",
               "network",
@@ -360,7 +360,7 @@
             "open_issues": 5,
             "owner": "zombieCraig",
             "repo": "uds-server",
-            "stars": 360,
+            "stars": 361,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:48.873Z"
@@ -695,7 +695,7 @@
                 "open_issues": 2,
                 "owner": "cedricp",
                 "repo": "ddt4all",
-                "stars": 1871,
+                "stars": 1872,
                 "topics": [
                   "can-bus",
                   "ecu",
@@ -770,7 +770,7 @@
                 "open_issues": 4,
                 "owner": "provrb",
                 "repo": "obdium",
-                "stars": 400,
+                "stars": 401,
                 "topics": [
                   "automotive",
                   "car-diagnostics",
@@ -1499,7 +1499,7 @@
                 "id": 491760648,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-02T11:54:00Z",
+                "last_commit": "2026-10-02T18:38:06Z",
                 "open_issues": 7,
                 "owner": "CANopenTerm",
                 "repo": "CANopenTerm",
@@ -1727,7 +1727,7 @@
                 "open_issues": 69,
                 "owner": "PlotJuggler",
                 "repo": "PlotJuggler",
-                "stars": 6224,
+                "stars": 6225,
                 "topics": [
                   "chart",
                   "csv",
@@ -1783,7 +1783,7 @@
                 "open_issues": 37,
                 "owner": "GENIVI",
                 "repo": "CANdevStudio",
-                "stars": 1143,
+                "stars": 1142,
                 "topics": [
                   "automotive",
                   "can",
@@ -1809,7 +1809,7 @@
                 "open_issues": 21,
                 "owner": "zombieCraig",
                 "repo": "ICSim",
-                "stars": 983,
+                "stars": 984,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -1864,7 +1864,7 @@
                 "language": null,
                 "license": "LGPL-2.1",
                 "last_commit": "2026-07-07T09:05:35Z",
-                "open_issues": 81,
+                "open_issues": 82,
                 "owner": "TOSUN-Shanghai",
                 "repo": "TSMaster",
                 "stars": 434,
@@ -2381,11 +2381,11 @@
                 "id": 1105687052,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-09-24T16:01:43Z",
+                "last_commit": "2026-10-02T20:40:25Z",
                 "open_issues": 0,
                 "owner": "friessssss",
                 "repo": "bootCAN",
-                "stars": 0,
+                "stars": 1,
                 "topics": [
                   "can",
                   "rust"
@@ -2504,7 +2504,7 @@
                 "open_issues": 119,
                 "owner": "cantools",
                 "repo": "cantools",
-                "stars": 2292,
+                "stars": 2293,
                 "topics": [
                   "arxml",
                   "can-bus",
@@ -3431,7 +3431,7 @@
                 "open_issues": 119,
                 "owner": "cantools",
                 "repo": "cantools",
-                "stars": 2292,
+                "stars": 2293,
                 "topics": [
                   "arxml",
                   "can-bus",
@@ -4651,7 +4651,7 @@
                     "open_issues": 32,
                     "owner": "candle-usb",
                     "repo": "candleLight_fw",
-                    "stars": 954,
+                    "stars": 955,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:14:48.873Z"
@@ -4723,7 +4723,7 @@
                     "open_issues": 1,
                     "owner": "HubertD",
                     "repo": "candleLight",
-                    "stars": 398,
+                    "stars": 399,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:14:48.873Z"
@@ -6070,48 +6070,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Please follow this",
-          "description": "root-repo for lastest updates.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
-            "homepage": null,
-            "id": 313261022,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-08-07T22:14:43Z",
-            "open_issues": 8,
-            "owner": "iDoka",
-            "repo": "awesome-canbus",
-            "stars": 3488,
-            "topics": [
-              "automotive",
-              "automotive-security",
-              "awesome",
-              "awesome-list",
-              "bus-monitoring",
-              "can",
-              "can-bus",
-              "can-fd",
-              "canbus",
-              "canutils",
-              "car-hacking",
-              "elm327",
-              "embedded",
-              "j2534",
-              "lawicel",
-              "logger",
-              "obd2",
-              "slcan",
-              "sniffer",
-              "socketcan"
-            ]
-          },
-          "first_seen": "2026-08-28T21:14:48.873Z"
-        },
-        {
-          "node_type": "item",
           "title": "The another awesome list :arrow_forward: CAN ID collections",
           "description": "arrow_backward: also might be useful.",
           "children": [],
@@ -6197,7 +6155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:21:10.542Z",
+    "last_updated": "2026-10-03T04:37:55.731Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -6209,7 +6167,7 @@
       "open_issues": 8,
       "owner": "iDoka",
       "repo": "awesome-canbus",
-      "stars": 3488,
+      "stars": 3491,
       "topics": [
         "automotive",
         "automotive-security",
