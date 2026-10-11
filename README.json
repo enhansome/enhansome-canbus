@@ -103,7 +103,7 @@
             "open_issues": 5,
             "owner": "brent-stone",
             "repo": "CAN_Reverse_Engineering",
-            "stars": 453,
+            "stars": 454,
             "topics": [
               "can-bus",
               "cyber-physical-systems",
@@ -270,8 +270,8 @@
             "id": 43509302,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-10T15:21:15Z",
-            "open_issues": 146,
+            "last_commit": "2026-10-11T00:35:34Z",
+            "open_issues": 143,
             "owner": "secdev",
             "repo": "scapy",
             "stars": 12599,
@@ -360,7 +360,7 @@
             "open_issues": 5,
             "owner": "zombieCraig",
             "repo": "uds-server",
-            "stars": 361,
+            "stars": 362,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:48.873Z"
@@ -381,7 +381,7 @@
             "open_issues": 4,
             "owner": "zombieCraig",
             "repo": "UDSim",
-            "stars": 338,
+            "stars": 339,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:48.873Z"
@@ -695,7 +695,7 @@
                 "open_issues": 4,
                 "owner": "cedricp",
                 "repo": "ddt4all",
-                "stars": 1882,
+                "stars": 1883,
                 "topics": [
                   "can-bus",
                   "ecu",
@@ -770,7 +770,7 @@
                 "open_issues": 5,
                 "owner": "provrb",
                 "repo": "obdium",
-                "stars": 409,
+                "stars": 411,
                 "topics": [
                   "automotive",
                   "car-diagnostics",
@@ -908,7 +908,7 @@
                 "open_issues": 6,
                 "owner": "openxc",
                 "repo": "uds-c",
-                "stars": 833,
+                "stars": 834,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -1605,7 +1605,7 @@
                 "open_issues": 61,
                 "owner": "linux-can",
                 "repo": "can-utils",
-                "stars": 2933,
+                "stars": 2934,
                 "topics": [
                   "automotive",
                   "can-bus",
@@ -1631,7 +1631,7 @@
                 "open_issues": 61,
                 "owner": "linux-can",
                 "repo": "can-utils",
-                "stars": 2933,
+                "stars": 2934,
                 "topics": [
                   "automotive",
                   "can-bus",
@@ -1723,11 +1723,11 @@
                 "id": 52909975,
                 "language": "C++",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-01T14:08:57Z",
-                "open_issues": 76,
+                "last_commit": "2026-10-11T16:10:02Z",
+                "open_issues": 69,
                 "owner": "PlotJuggler",
                 "repo": "PlotJuggler",
-                "stars": 6238,
+                "stars": 6239,
                 "topics": [
                   "chart",
                   "csv",
@@ -1762,7 +1762,7 @@
                 "open_issues": 301,
                 "owner": "collin80",
                 "repo": "SavvyCAN",
-                "stars": 1867,
+                "stars": 1866,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -1826,7 +1826,7 @@
                 "id": 239531393,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T11:43:08Z",
+                "last_commit": "2026-10-11T14:45:54Z",
                 "open_issues": 54,
                 "owner": "ecubus",
                 "repo": "EcuBus-Pro",
@@ -1951,7 +1951,7 @@
                 "open_issues": 5,
                 "owner": "Chanchaldhiman",
                 "repo": "CANviz",
-                "stars": 292,
+                "stars": 293,
                 "topics": [
                   "automotive",
                   "can",
@@ -2206,7 +2206,7 @@
                 "open_issues": 4,
                 "owner": "smartgauges",
                 "repo": "obd2-bt-stm32",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -2255,6 +2255,34 @@
             },
             {
               "node_type": "item",
+              "title": "OpenSourceLogger",
+              "description": "Data acquisition software that can collect measurement, analyze CAN-messages and send SAE-J1939 messages to other ECUs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Data acquisition software with STM32-PLC. Collect measurement, analyze CAN-messages and send SAE-J1939 messages to other ECUs.",
+                "homepage": null,
+                "id": 571499490,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2023-06-19T22:41:22Z",
+                "open_issues": 0,
+                "owner": "DanielMartensson",
+                "repo": "OpenSourceLogger",
+                "stars": 24,
+                "topics": [
+                  "c",
+                  "cpp",
+                  "data-aquisition",
+                  "imgui",
+                  "opengl",
+                  "stm32"
+                ]
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
+            },
+            {
+              "node_type": "item",
               "title": "CANAL-View",
               "description": "Qt GUI for TouCAN USB to CAN bus converter.",
               "children": [],
@@ -2279,34 +2307,6 @@
                   "qt-gui",
                   "rusoku",
                   "toucan"
-                ]
-              },
-              "first_seen": "2026-08-28T21:14:48.873Z"
-            },
-            {
-              "node_type": "item",
-              "title": "OpenSourceLogger",
-              "description": "Data acquisition software that can collect measurement, analyze CAN-messages and send SAE-J1939 messages to other ECUs.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Data acquisition software with STM32-PLC. Collect measurement, analyze CAN-messages and send SAE-J1939 messages to other ECUs.",
-                "homepage": null,
-                "id": 571499490,
-                "language": "C",
-                "license": "MIT",
-                "last_commit": "2023-06-19T22:41:22Z",
-                "open_issues": 0,
-                "owner": "DanielMartensson",
-                "repo": "OpenSourceLogger",
-                "stars": 23,
-                "topics": [
-                  "c",
-                  "cpp",
-                  "data-aquisition",
-                  "imgui",
-                  "opengl",
-                  "stm32"
                 ]
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -2501,10 +2501,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-07T19:17:21Z",
-                "open_issues": 115,
+                "open_issues": 116,
                 "owner": "cantools",
                 "repo": "cantools",
-                "stars": 2295,
+                "stars": 2296,
                 "topics": [
                   "arxml",
                   "can-bus",
@@ -3125,8 +3125,8 @@
                 "id": 1046182788,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T19:11:05Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-10T17:18:04Z",
+                "open_issues": 17,
                 "owner": "pkuyo",
                 "repo": "CanKit",
                 "stars": 46,
@@ -3428,10 +3428,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-07T19:17:21Z",
-                "open_issues": 115,
+                "open_issues": 116,
                 "owner": "cantools",
                 "repo": "cantools",
-                "stars": 2295,
+                "stars": 2296,
                 "topics": [
                   "arxml",
                   "can-bus",
@@ -4074,8 +4074,8 @@
                     "id": 87490037,
                     "language": "C",
                     "license": "MIT",
-                    "last_commit": "2026-09-26T04:04:19Z",
-                    "open_issues": 60,
+                    "last_commit": "2026-10-10T20:42:45Z",
+                    "open_issues": 61,
                     "owner": "commaai",
                     "repo": "panda",
                     "stars": 1704,
@@ -5196,7 +5196,7 @@
                 "open_issues": 65,
                 "owner": "autowp",
                 "repo": "arduino-mcp2515",
-                "stars": 1033,
+                "stars": 1034,
                 "topics": [
                   "arduino",
                   "can",
@@ -6155,7 +6155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:56:43.262Z",
+    "last_updated": "2026-10-11T16:24:35.369Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -6167,7 +6167,7 @@
       "open_issues": 9,
       "owner": "iDoka",
       "repo": "awesome-canbus",
-      "stars": 3497,
+      "stars": 3498,
       "topics": [
         "automotive",
         "automotive-security",
