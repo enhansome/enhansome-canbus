@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "jgamblin",
             "repo": "CarHackingTools",
-            "stars": 979,
+            "stars": 978,
             "topics": [
               "automotive-security",
               "can-bus",
@@ -271,10 +271,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-11-13T08:34:50Z",
-            "open_issues": 136,
+            "open_issues": 138,
             "owner": "secdev",
             "repo": "scapy",
-            "stars": 12696,
+            "stars": 12699,
             "topics": [
               "network",
               "network-analysis",
@@ -359,7 +359,7 @@
             "open_issues": 5,
             "owner": "zombieCraig",
             "repo": "uds-server",
-            "stars": 366,
+            "stars": 367,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:48.873Z"
@@ -577,7 +577,7 @@
             "open_issues": 11,
             "owner": "Ircama",
             "repo": "ELM327-emulator",
-            "stars": 707,
+            "stars": 708,
             "topics": [
               "automotive",
               "can",
@@ -672,8 +672,50 @@
         },
         {
           "node_type": "item",
+          "title": "CANopen Bench",
+          "description": "Web-based test bench and machine control for CANopen devices: scan, EDS-driven SDO access, YAML test cases, firmware download and a live trace that decodes SDO/PDO/EMCY. IXXAT, PCAN and Vector.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Web-based CANopen test bench and machine control: scan nodes, read/write SDOs from EDS files, run YAML test cases with HTML reports, flash firmware and trace the bus live. Python/python-can with IXXAT, PCAN, Vector, CPC-USB and SocketCAN on Linux; demo mode needs no hardware. pip or Docker.",
+            "homepage": "https://unsix.de/projekte",
+            "id": 1312356978,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-10T15:09:26Z",
+            "open_issues": 0,
+            "owner": "NobseVomBerg",
+            "repo": "CANopen-Bench",
+            "stars": 3,
+            "topics": [
+              "can-bus",
+              "canbus",
+              "canopen",
+              "cia301",
+              "eds",
+              "embedded",
+              "fieldbus",
+              "firmware-update",
+              "hardware-testing",
+              "industrial-automation",
+              "ixxat",
+              "lss",
+              "machine-control",
+              "pcan",
+              "python-can",
+              "sdo",
+              "socketcan",
+              "test-automation",
+              "test-bench",
+              "testing-tools"
+            ]
+          },
+          "first_seen": "2026-11-17T19:20:11.845Z"
+        },
+        {
+          "node_type": "item",
           "title": "elmulator",
-          "description": "Scriptable Bluetooth LE and TCP ELM327 adapter emulator with a CI test harness for OBD2 app developers. MIT-licensed, with an in-process BLE test double so apps can test their Bluetooth stack with no radio.",
+          "description": "Scriptable Bluetooth LE and TCP ELM327 adapter emulator with a CI test harness for OBD2 app developers (with an in-process BLE test double so apps can test their Bluetooth stack with no radio).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -682,8 +724,8 @@
             "id": 1290390718,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-15T03:55:34Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-17T02:38:47Z",
+            "open_issues": 0,
             "owner": "qadanm",
             "repo": "elmulator",
             "stars": 2,
@@ -788,7 +830,7 @@
                 "open_issues": 14,
                 "owner": "fenugrec",
                 "repo": "freediag",
-                "stars": 499,
+                "stars": 500,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -809,7 +851,7 @@
                 "open_issues": 9,
                 "owner": "provrb",
                 "repo": "obdium",
-                "stars": 473,
+                "stars": 475,
                 "topics": [
                   "automotive",
                   "car-diagnostics",
@@ -1542,7 +1584,7 @@
                 "open_issues": 3,
                 "owner": "CANopenTerm",
                 "repo": "CANopenTerm",
-                "stars": 81,
+                "stars": 82,
                 "topics": [
                   "automation-testing",
                   "automotive",
@@ -1641,7 +1683,7 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-10-14T19:27:44Z",
-                "open_issues": 61,
+                "open_issues": 63,
                 "owner": "linux-can",
                 "repo": "can-utils",
                 "stars": 2959,
@@ -1667,7 +1709,7 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-10-14T19:27:44Z",
-                "open_issues": 61,
+                "open_issues": 63,
                 "owner": "linux-can",
                 "repo": "can-utils",
                 "stars": 2959,
@@ -1762,11 +1804,11 @@
                 "id": 52909975,
                 "language": "C++",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-16T19:44:09Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-17T05:55:34Z",
+                "open_issues": 15,
                 "owner": "PlotJuggler",
                 "repo": "PlotJuggler",
-                "stars": 6322,
+                "stars": 6324,
                 "topics": [
                   "chart",
                   "csv",
@@ -1797,11 +1839,11 @@
                 "id": 34701066,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-04T01:05:54Z",
-                "open_issues": 284,
+                "last_commit": "2026-11-17T02:16:13Z",
+                "open_issues": 281,
                 "owner": "collin80",
                 "repo": "SavvyCAN",
-                "stars": 1928,
+                "stars": 1929,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -1822,7 +1864,7 @@
                 "open_issues": 37,
                 "owner": "GENIVI",
                 "repo": "CANdevStudio",
-                "stars": 1152,
+                "stars": 1153,
                 "topics": [
                   "automotive",
                   "can",
@@ -1848,7 +1890,7 @@
                 "open_issues": 21,
                 "owner": "zombieCraig",
                 "repo": "ICSim",
-                "stars": 1009,
+                "stars": 1010,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -2401,6 +2443,47 @@
             },
             {
               "node_type": "item",
+              "title": "BUSMASTER-NG",
+              "description": "Maintained fork of BUSMASTER for Windows 7–11: CAN and LIN monitoring, logging, replay and node simulation, with direct DBC loading.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Abandoned in 2017. Resurrected in 2026 by a madman: bigt92. BUSMASTER-NG, the CAN/LIN analyzer you love, now with a modern build, crisp icons and zero Windows XP. Community fork under LGPL, not affiliated with ETAS/Bosch.",
+                "homepage": "https://teoclmr.github.io/busmaster-ng/",
+                "id": 1433186516,
+                "language": "C++",
+                "license": "LGPL-3.0",
+                "last_commit": "2026-11-14T21:24:55Z",
+                "open_issues": 7,
+                "owner": "teoCLMR",
+                "repo": "busmaster-ng",
+                "stars": 5,
+                "topics": [
+                  "automotive",
+                  "bus-analyzer",
+                  "busmaster",
+                  "can",
+                  "can-analyzer",
+                  "can-bus",
+                  "can-tools",
+                  "canbus",
+                  "cpp",
+                  "dbc",
+                  "j1939",
+                  "kvaser",
+                  "lin",
+                  "lin-bus",
+                  "mfc",
+                  "peak-can",
+                  "uds",
+                  "vector",
+                  "windows"
+                ]
+              },
+              "first_seen": "2026-11-17T19:20:11.845Z"
+            },
+            {
+              "node_type": "item",
               "title": "cantraceviewer",
               "description": "Free, open-source and private web-based CAN log plotter for ASC, BLF, MF4 and TRC with DBC decoding.",
               "children": [],
@@ -2455,6 +2538,35 @@
                 ]
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Canmetry",
+              "description": "Browser-based CAN log viewer for BLF, ASC, CSV, MF4, and DBC, with local decoding and Graph, Trace, and DBC views.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source browser-based CAN log viewer. Load BLF/ASC/CSV/MF4 and DBC, decode locally, then inspect signals on Graph, frames on Trace, and databases on DBC.",
+                "homepage": "https://canmetry.com",
+                "id": 1314729802,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-17T08:11:52Z",
+                "open_issues": 0,
+                "owner": "WanderZil",
+                "repo": "canmetry",
+                "stars": 1,
+                "topics": [
+                  "automotive",
+                  "blf",
+                  "can-bus",
+                  "can-log",
+                  "canbus",
+                  "dbc",
+                  "mf4"
+                ]
+              },
+              "first_seen": "2026-11-17T19:20:11.845Z"
             }
           ],
           "description": null,
@@ -2565,11 +2677,11 @@
                 "id": 34604098,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-16T14:02:20Z",
-                "open_issues": 89,
+                "last_commit": "2026-11-17T16:23:21Z",
+                "open_issues": 87,
                 "owner": "cantools",
                 "repo": "cantools",
-                "stars": 2320,
+                "stars": 2321,
                 "topics": [
                   "arxml",
                   "can-bus",
@@ -2595,7 +2707,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-11-15T18:37:57Z",
-                "open_issues": 275,
+                "open_issues": 276,
                 "owner": "hardbyte",
                 "repo": "python-can",
                 "stars": 1613,
@@ -2870,7 +2982,7 @@
                 "open_issues": 9,
                 "owner": "mguentner",
                 "repo": "cannelloni",
-                "stars": 476,
+                "stars": 477,
                 "topics": [
                   "can-bus",
                   "socketcan"
@@ -2966,11 +3078,11 @@
                 "id": 1262150360,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-12T09:22:01Z",
+                "last_commit": "2026-11-16T23:45:39Z",
                 "open_issues": 47,
                 "owner": "can-hub-io",
                 "repo": "can-hub",
-                "stars": 5,
+                "stars": 6,
                 "topics": [
                   "automotive",
                   "c11",
@@ -3066,7 +3178,7 @@
                 "open_issues": 2,
                 "owner": "elliotwoods",
                 "repo": "Candle.NET",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -3197,7 +3309,7 @@
                 "id": 143218625,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-10T17:04:30Z",
+                "last_commit": "2026-11-17T13:03:58Z",
                 "open_issues": 7,
                 "owner": "pschichtel",
                 "repo": "JavaCAN",
@@ -3225,7 +3337,7 @@
                 "id": 1046182788,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T07:07:39Z",
+                "last_commit": "2026-11-17T07:47:07Z",
                 "open_issues": 17,
                 "owner": "pkuyo",
                 "repo": "CanKit",
@@ -3527,11 +3639,11 @@
                 "id": 34604098,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-16T14:02:20Z",
-                "open_issues": 89,
+                "last_commit": "2026-11-17T16:23:21Z",
+                "open_issues": 87,
                 "owner": "cantools",
                 "repo": "cantools",
-                "stars": 2320,
+                "stars": 2321,
                 "topics": [
                   "arxml",
                   "can-bus",
@@ -3769,7 +3881,7 @@
                 "open_issues": 5,
                 "owner": "GENIVI",
                 "repo": "CANdb",
-                "stars": 149,
+                "stars": 150,
                 "topics": [
                   "automotive",
                   "can",
@@ -3941,6 +4053,37 @@
             },
             {
               "node_type": "item",
+              "title": "dbc-matrix-audit",
+              "description": "Static DBC matrix auditor in pure standard-library Python: bit overlap, out-of-range signals, asymmetry, naming drift, GBK encoding, plus revision diff and frame decoding. Also cross-checks a DBC against AUTOSAR ARXML configuration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Zero-dependency AUTOSAR/CAN communication matrix auditor — DBC linter (11 checks), revision diff, and ARXML×DBC cross-validation (26 checks). Pure Python standard library.",
+                "homepage": "https://me.tech-harry.top/blog/",
+                "id": 1445305183,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-06T02:48:54Z",
+                "open_issues": 0,
+                "owner": "autosar-skills",
+                "repo": "autosar-agent-skills",
+                "stars": 1,
+                "topics": [
+                  "agent-skills",
+                  "automotive",
+                  "autosar",
+                  "can",
+                  "canfd",
+                  "communication-matrix",
+                  "dbc",
+                  "embedded",
+                  "lint"
+                ]
+              },
+              "first_seen": "2026-11-17T19:20:11.845Z"
+            },
+            {
+              "node_type": "item",
               "title": "dbc_reader",
               "description": "Virtual can bus reader from dbc file (python).",
               "children": [],
@@ -4051,7 +4194,7 @@
                 "open_issues": 13,
                 "owner": "Alia5",
                 "repo": "PiCCANTE",
-                "stars": 104,
+                "stars": 105,
                 "topics": [
                   "2040",
                   "2350",
@@ -4153,11 +4296,11 @@
                     "id": 87490037,
                     "language": "C",
                     "license": "MIT",
-                    "last_commit": "2026-11-16T18:41:15Z",
-                    "open_issues": 51,
+                    "last_commit": "2026-11-17T18:10:37Z",
+                    "open_issues": 52,
                     "owner": "commaai",
                     "repo": "panda",
-                    "stars": 1709,
+                    "stars": 1708,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:14:48.873Z"
@@ -4730,7 +4873,7 @@
                     "open_issues": 33,
                     "owner": "candle-usb",
                     "repo": "candleLight_fw",
-                    "stars": 971,
+                    "stars": 973,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:14:48.873Z"
@@ -5002,7 +5145,7 @@
                 "open_issues": 13,
                 "owner": "autowp",
                 "repo": "arduino-canhacker",
-                "stars": 484,
+                "stars": 485,
                 "topics": [
                   "arduino",
                   "can",
@@ -5614,7 +5757,7 @@
                 "open_issues": 47,
                 "owner": "collin80",
                 "repo": "ESP32RET",
-                "stars": 419,
+                "stars": 420,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -6163,7 +6306,7 @@
             "open_issues": 1,
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 1028,
+            "stars": 1029,
             "topics": [
               "automotive",
               "automotive-security",
@@ -6234,7 +6377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T20:39:20.586Z",
+    "last_updated": "2026-11-17T19:20:11.845Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -6242,11 +6385,11 @@
       "id": 313261022,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-16T20:21:09Z",
-      "open_issues": 11,
+      "last_commit": "2026-11-16T21:47:33Z",
+      "open_issues": 3,
       "owner": "iDoka",
       "repo": "awesome-canbus",
-      "stars": 3569,
+      "stars": 3571,
       "topics": [
         "automotive",
         "automotive-security",
@@ -6270,7 +6413,7 @@
         "socketcan"
       ]
     },
-    "original_repository_sha": "3860085dac4146c93edeb4d08f8dedbbeca8f518",
+    "original_repository_sha": "4e53b316681f4bc4efd46b915d93f442198ca55a",
     "enhanced_repository": "enhansome/enhansome-canbus",
     "enhanced_repository_description": null,
     "title": "Awesome CAN Bus with stars"
