@@ -79,7 +79,7 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-canbus>
 * 🔝[CANalyzat0r](https://github.com/schutzwerk/CANalyzat0r) ⭐ 796 | 🐛 3 | 🌐 Python | 📅 2022-02-21 - Security analysis toolkit for proprietary car protocols.
 * 🔝[CAN\_Reverse\_Engineering](https://github.com/brent-stone/CAN_Reverse_Engineering) ⭐ 460 | 🐛 5 | 🌐 Python | 📅 2024-04-27 - Automated Payload Reverse Engineering Pipeline for the Controller Area Network (CAN) protocol.
 * 🔝[CANToolz](https://github.com/CANToolz/CANToolz) ⭐ 305 | 🐛 21 | 🌐 Python | 📅 2023-05-07 - Black-box CAN network analysis framework.
-* 🔝[carhacking](https://github.com/daedalus/carhacking) ⭐ 123 | 🐛 0 | 🌐 Python | 📅 2024-01-12 - Car hacking scripts and docs collection.
+* 🔝[carhacking](https://github.com/daedalus/carhacking) ⭐ 124 | 🐛 0 | 🌐 Python | 📅 2024-01-12 - Car hacking scripts and docs collection.
 * [parse\_can\_logs](https://github.com/v-ivanyshyn/parse_can_logs) ⭐ 103 | 🐛 3 | 🌐 Python | 📅 2024-06-28 - Parse CAN logs and visualize data streams on plot.
 * [reversegear](https://github.com/linklayer/reversegear) ⭐ 54 | 🐛 1 | 🌐 Python | 📅 2023-09-08 - Offline Reverse Engineering Tools for Automotive Networks.
 * [ReCAN](https://github.com/Cyberdefence-Lab-Murcia/ReCAN) ⭐ 51 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-05-03 - Reverse engineering of Controller Area Networks.
@@ -90,15 +90,15 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-canbus>
 
 <!--lint enable double-link-->
 
-* [Scapy](https://github.com/secdev/scapy) ⭐ 12,699 | 🐛 138 | 🌐 Python | 📅 2026-11-13 - Python-based interactive packet manipulation program & library. Supports CAN/ISOTP/UDS/GMLAN plus many other protocols.
-* [canDrive](https://github.com/adamtheone/canDrive) ⭐ 694 | 🐛 25 | 🌐 C | 📅 2023-05-27 - Tools for hacking your car.
+* [Scapy](https://github.com/secdev/scapy) ⭐ 12,702 | 🐛 138 | 🌐 Python | 📅 2026-11-17 - Python-based interactive packet manipulation program & library. Supports CAN/ISOTP/UDS/GMLAN plus many other protocols.
+* [canDrive](https://github.com/adamtheone/canDrive) ⭐ 695 | 🐛 25 | 🌐 C | 📅 2023-05-27 - Tools for hacking your car.
 * [canhack](https://github.com/kentindell/canhack) ⭐ 400 | 🐛 9 | 🌐 C | 📅 2026-11-08 - A low-level CAN protocol hacking library.
 * [uds-server](https://github.com/zombieCraig/uds-server) ⭐ 367 | 🐛 5 | 🌐 C | 📅 2025-10-08 - CAN UDS Simulator and Fuzzer.
 * [UDSim](https://github.com/zombieCraig/UDSim) ⭐ 340 | 🐛 4 | 🌐 C++ | 📅 2022-12-10 - Unified Diagnostic Services Simulator and Fuzzer (successor of uds-server).
 * [Carpunk](https://github.com/souravbaghz/Carpunk) ⭐ 329 | 🐛 0 | 🌐 Shell | 📅 2025-04-20 - CAN injection toolkit and successor of CANghost.
 * 🔝[can-explorer](https://github.com/Tbruno25/can-explorer) ⭐ 303 | 🐛 1 | 🌐 Python | 📅 2026-04-23 - A CAN bus visualization tool to aid in reverse engineering.
 * [canTot](https://github.com/shipcod3/canTot) ⭐ 154 | 🐛 2 | 🌐 Python | 📅 2024-10-15 - Quick and dirty canbus h4xing framework.
-* [CANghost](https://github.com/souravbaghz/CANghost) ⭐ 145 | 🐛 0 | 🌐 Shell | 📅 2021-09-10 - Automated Script For Hacking Into CAN Bus.
+* [CANghost](https://github.com/souravbaghz/CANghost) ⭐ 146 | 🐛 0 | 🌐 Shell | 📅 2021-09-10 - Automated Script For Hacking Into CAN Bus.
 * [CANalyse](https://github.com/KartheekLade/CANalyse) ⭐ 121 | 🐛 1 | 🌐 Python | 📅 2021-07-25 - A vehicle network analysis and attack tool.
 * [CAN-RE-Tool](https://github.com/openvehicles/CAN-RE-Tool) ⭐ 91 | 🐛 0 | 🌐 Perl | 📅 2021-03-30 - Reverse engineering tool for systems based on CAN bus communications.
 * [CANanalyze](https://github.com/renault/cananalyze) ⭐ 89 | 🐛 3 | 🌐 Python | 📅 2024-11-13 - This framework can be used to interact with automotive protocols like CAN/ISOTP/UDS.
@@ -108,17 +108,17 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-canbus>
 * [ELM327-emulator](https://github.com/Ircama/ELM327-emulator) ⭐ 708 | 🐛 11 | 🌐 Python | 📅 2026-09-17 - ELM327 Emulator for testing software interfacing OBDII via ELM327 adapter supporting multi-ECU simulation.
 * [ECU-simulator](https://github.com/lbenthins/ecu-simulator) ⚠️ Archived - Tool that simulates some vehicle diagnostic services. It can be used to test OBD-II dongles or tester tools that support the UDS (ISO 14229) and ISO-TP (ISO 15765-2) protocols.
 * [canerrsim](https://github.com/zeljkoavramovic/canerrsim) ⭐ 7 | 🐛 1 | 🌐 C | 📅 2026-02-02 - CAN bus error frame simulator and monitor for testing error conditions using SocketCAN.
-* [CANopen Bench](https://github.com/NobseVomBerg/CANopen-Bench) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-11-10 - Web-based test bench and machine control for CANopen devices: scan, EDS-driven SDO access, YAML test cases, firmware download and a live trace that decodes SDO/PDO/EMCY. IXXAT, PCAN and Vector.
+* [CANopen Bench](https://github.com/NobseVomBerg/CANopen-Bench) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-11-18 - Web-based test bench and machine control for CANopen devices: scan, EDS-driven SDO access, YAML test cases, firmware download and a live trace that decodes SDO/PDO/EMCY. IXXAT, PCAN and Vector.
 * [elmulator](https://github.com/qadanm/elmulator) ⭐ 2 | 🐛 0 | 🌐 Swift | 📅 2026-11-17 - Scriptable Bluetooth LE and TCP ELM327 adapter emulator with a CI test harness for OBD2 app developers (with an in-process BLE test double so apps can test their Bluetooth stack with no radio).
 
 ## Protocols
 
 ### OBD-II tools
 
-* [DDT4All](https://github.com/cedricp/ddt4all) ⭐ 1,940 | 🐛 2 | 🌐 Python | 📅 2026-11-15 - Tool to create your own ECU parameters screens and connect to a CAN network with a cheap ELM327 interface.
+* [DDT4All](https://github.com/cedricp/ddt4all) ⭐ 1,942 | 🐛 2 | 🌐 Python | 📅 2026-11-15 - Tool to create your own ECU parameters screens and connect to a CAN network with a cheap ELM327 interface.
 * [pyvit](https://github.com/linklayer/pyvit) ⚠️ Archived - Python Vehicle Interface Toolkit *(archived)*.
 * [freediag](https://github.com/fenugrec/freediag) ⭐ 500 | 🐛 14 | 🌐 C | 📅 2024-09-09 - Free diagnostic software for OBD-II compliant motor vehicles.
-* [OBDium](https://github.com/provrb/obdium) ⭐ 475 | 🐛 9 | 🌐 Rust | 📅 2026-09-10 - Vehicle diagnostics app for live OBD-II data, fault code analysis, and offline VIN decoding over ELM327 adapters.
+* [OBDium](https://github.com/provrb/obdium) ⭐ 477 | 🐛 9 | 🌐 Rust | 📅 2026-09-10 - Vehicle diagnostics app for live OBD-II data, fault code analysis, and offline VIN decoding over ELM327 adapters.
 * [OBD2-Scantool](https://github.com/AustinMurphy/OBD2-Scantool) ⭐ 251 | 🐛 2 | 🌐 Python | 📅 2023-03-17 - A python scantool to read OBD2 info from cars.
 * [ELM327SLCAN](https://github.com/qnx425/ELM327SLCAN) ⭐ 78 | 🐛 1 | 🌐 C | 📅 2019-01-26 - ELM327 based vehicle's CAN bus sniffer.
 * [Arduino-OBD2-Async](https://github.com/v-ivanyshyn/Arduino-OBD2-Async) ⭐ 23 | 🐛 0 | 🌐 C++ | 📅 2018-08-09 - Arduino OBD library with asynchronous data requesting.
@@ -130,8 +130,8 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-canbus>
 *ISO 14229 Standard*
 
 * [uds-c](https://github.com/openxc/uds-c) ⭐ 835 | 🐛 6 | 🌐 C | 📅 2021-08-16 - Unified Diagnostics Service (UDS) and OBD-II C Library.
-* [python-UDSonCAN](https://github.com/pylessard/python-udsoncan) ⭐ 745 | 🐛 8 | 🌐 Python | 📅 2026-10-26 - Python implementation of UDS ISO-14229 standard.
-* [iso14229](https://github.com/driftregion/iso14229) ⭐ 377 | 🐛 5 | 🌐 C | 📅 2026-09-29 - C implementation of UDS ISO-14229 server and client for embedded systems.
+* [python-UDSonCAN](https://github.com/pylessard/python-udsoncan) ⭐ 747 | 🐛 8 | 🌐 Python | 📅 2026-10-26 - Python implementation of UDS ISO-14229 standard.
+* [iso14229](https://github.com/driftregion/iso14229) ⭐ 378 | 🐛 5 | 🌐 C | 📅 2026-09-29 - C implementation of UDS ISO-14229 server and client for embedded systems.
 
 ### ISO-TP
 
@@ -194,12 +194,12 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-canbus>
 
 ### GUI Tools
 
-* [PlotJuggler](https://github.com/facontidavide/PlotJuggler) ⭐ 6,324 | 🐛 15 | 🌐 C++ | 📅 2026-11-17 - The Powerful Time Series Visualization Tool (With panda hardware, cabana and plotjuggler, you can quickly RE the entire car in a few days).
-* [SavvyCAN](https://github.com/collin80/SavvyCAN) ⭐ 1,929 | 🐛 281 | 🌐 C++ | 📅 2026-11-17 - Cross-platform Qt based GUI analysis tool. Supports SocketCAN compatible interfaces.
+* [PlotJuggler](https://github.com/facontidavide/PlotJuggler) ⭐ 6,326 | 🐛 14 | 🌐 C++ | 📅 2026-11-18 - The Powerful Time Series Visualization Tool (With panda hardware, cabana and plotjuggler, you can quickly RE the entire car in a few days).
+* [SavvyCAN](https://github.com/collin80/SavvyCAN) ⭐ 1,930 | 🐛 282 | 🌐 C++ | 📅 2026-11-17 - Cross-platform Qt based GUI analysis tool. Supports SocketCAN compatible interfaces.
 * [CANdevStudio from GENIVI](https://github.com/GENIVI/CANdevStudio) ⭐ 1,153 | 🐛 37 | 🌐 C++ | 📅 2025-07-21 - CAN simulation software using a drag-and-drop style GUI with interconnected functional blocks.
 * [ICSim](https://github.com/zombieCraig/ICSim) ⭐ 1,010 | 🐛 21 | 🌐 C | 📅 2025-09-18 - Instrument Cluster Simulator for SocketCAN by OpenGarages.
 * [EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro) ⭐ 910 | 🐛 57 | 🌐 C++ | 📅 2026-11-05 - A powerful automotive ECU development tool. UDS, CAN-TP, DOIP, LIN , Script(TS) like CAPL.
-* [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster) ⭐ 443 | 🐛 82 | 📅 2026-10-28 - Powerful open environment for automotive bus monitoring, simulation, testing, diagnostics, calibration and so on *(Closed source)*.
+* [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster) ⭐ 443 | 🐛 84 | 📅 2026-10-28 - Powerful open environment for automotive bus monitoring, simulation, testing, diagnostics, calibration and so on *(Closed source)*.
 * [CANgaroo](https://github.com/HubertD/cangaroo) ⭐ 433 | 🐛 22 | 🌐 C++ | 📅 2023-10-27 - Qt-based CAN bus analyzer software.
 * [Kayak](https://github.com/dschanoeh/Kayak) ⚠️ Archived - Java-based CAN traffic GUI analysis tool *(archived)*.
 * [CANviz](https://github.com/Chanchaldhiman/CANviz) ⭐ 297 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-08 - Browser-based CAN bus analyzer with J1939 and CANopen CiA 301/402 passive decode. Installs via pip, no native app required. Works with almost any CAN harware including low cost ones.
@@ -226,17 +226,17 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-canbus>
 
 ### TUI Tools
 
-* [canair](https://github.com/philipkocanda/canair) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2026-11-14 - CLI/TUI for reverse engineering CAN/UDS diagnostics over-the-air using a WiCAN or a generic ELM327 dongle.
+* [canair](https://github.com/philipkocanda/canair) ⭐ 36 | 🐛 3 | 🌐 Python | 📅 2026-11-18 - CLI/TUI for reverse engineering CAN/UDS diagnostics over-the-air using a WiCAN or a generic ELM327 dongle.
 * [socanui](https://github.com/miwagner/socanui) ⭐ 15 | 🐛 0 | 🌐 Go | 📅 2025-03-10 - SocketCAN User Interface for the Terminal.
 * [canscope](https://github.com/OlegShishlyannikov/canscope.git) ⭐ 7 | 🐛 0 | 🌐 C++ | 📅 2026-06-25 - CAN bus inspection and reverse-engineering tool.
 
 ### Python Tools
 
-* 🔝[cantools](https://github.com/cantools/cantools) ⭐ 2,321 | 🐛 87 | 🌐 Python | 📅 2026-11-17 - CAN BUS tools in Python.
+* 🔝[cantools](https://github.com/cantools/cantools) ⭐ 2,324 | 🐛 94 | 🌐 Python | 📅 2026-11-17 - CAN BUS tools in Python.
 
 <!--lint disable double-link-->
 
-* 🔝[python-can](https://github.com/hardbyte/python-can) ⭐ 1,613 | 🐛 276 | 🌐 Python | 📅 2026-11-15 - CAN package provides controller area network support for Python developers.
+* 🔝[python-can](https://github.com/hardbyte/python-can) ⭐ 1,614 | 🐛 284 | 🌐 Python | 📅 2026-11-15 - CAN package provides controller area network support for Python developers.
 
 <!--lint enable double-link-->
 
@@ -281,7 +281,7 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-canbus>
 * [JavaCAN](https://github.com/pschichtel/JavaCAN) ⭐ 70 | 🐛 7 | 🌐 Java | 📅 2026-11-17 - A Java binding library for SocketCAN with support for RAW, BCM and ISO-TP sockets using epoll-based event-driven IO.
 * [CanKit](https://github.com/pkuyo/CanKit) ⭐ 46 | 🐛 17 | 🌐 C# | 📅 2026-11-17 - Cross-platform C#/.NET CAN communication library with a unified API across multiple CAN adapters.
 * [go-socketcan](https://github.com/linklayer/go-socketcan) ⭐ 31 | 🐛 2 | 🌐 Go | 📅 2019-04-03 - Golang library for SocketCAN.
-* [libwecan](https://github.com/nisennenmondai/libwecan) ⭐ 23 | 🐛 0 | 🌐 C | 📅 2026-11-10 - Header only lib to encode and decode CAN signal.
+* [libwecan](https://github.com/nisennenmondai/libwecan) ⭐ 23 | 🐛 0 | 🌐 C | 📅 2026-11-18 - Header only lib to encode and decode CAN signal.
 * [VCAN](https://github.com/TheMatjaz/VCAN) ⭐ 20 | 🐛 0 | 🌐 C | 📅 2020-04-28 - A tiny virtual CAN and CAN-FD bus library in C.
 * [CANvenient](https://github.com/CANopenTerm/CANvenient) ⭐ 11 | 🐛 0 | 🌐 C | 📅 2026-09-30 - An abstraction layer for multiple CAN APIs on Windows and Linux.
 * [IMCTFD](https://github.com/tonton81/IMCTFD) ⭐ 4 | 🐛 0 | 🌐 C++ | 📅 2018-11-26 - Improved Microchip CAN Teensy FlexData Library MCP2517FD.
@@ -312,8 +312,8 @@ DBC - The de facto standard for CAN databases is the DBC file format developed b
 
 ### Converters and Parsers
 
-* 🔝[cantools by Erik Moqvist](https://github.com/eerimoq/cantools) ⭐ 2,321 | 🐛 87 | 🌐 Python | 📅 2026-11-17 - CAN tools in python for DBC, KCD, SYM, ARXML 4 and CDD file parsing.
-* [canmatrix](https://github.com/ebroecker/canmatrix) ⭐ 1,093 | 🐛 7 | 🌐 Python | 📅 2026-11-16 - Converting CAN Database Formats .arxml .dbc .dbf .kcd.
+* 🔝[cantools by Erik Moqvist](https://github.com/eerimoq/cantools) ⭐ 2,324 | 🐛 94 | 🌐 Python | 📅 2026-11-17 - CAN tools in python for DBC, KCD, SYM, ARXML 4 and CDD file parsing.
+* [canmatrix](https://github.com/ebroecker/canmatrix) ⭐ 1,093 | 🐛 6 | 🌐 Python | 📅 2026-11-18 - Converting CAN Database Formats .arxml .dbc .dbf .kcd.
 * [CANBabel](https://github.com/julietkilo/CANBabel) ⭐ 171 | 🐛 2 | 🌐 Java | 📅 2025-04-13 - Translator for several CAN description formats (supports KCD r/w and DBC read).
 * [cantools by Andreas Heitmann](https://github.com/aheit/cantools) ⭐ 68 | 🐛 3 | 🌐 C | 📅 2026-03-14 - A set of libraries and command line tools for handling ASC, BLF, CLG, VSB, MDF, and DBC files.
 * [CanDB](https://github.com/skysky97/Candb) ⭐ 54 | 🐛 2 | 🌐 Python | 📅 2020-03-20 - Generate CAN dbc file with OEM defined CAN matrix (xls).
@@ -359,7 +359,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 #### STM32
 
-* 🔝[panda](https://github.com/commaai/panda) ⭐ 1,708 | 🐛 52 | 🌐 C | 📅 2026-11-17 - It supports 3x CAN, 2x LIN, and 1x GMLAN (and it has J2534 over USB on host side). It uses an STM32F413 (Using a panda with cabana provides the best RE and development suites for CANBUS).
+* 🔝[panda](https://github.com/commaai/panda) ⭐ 1,708 | 🐛 53 | 🌐 C | 📅 2026-11-18 - It supports 3x CAN, 2x LIN, and 1x GMLAN (and it has J2534 over USB on host side). It uses an STM32F413 (Using a panda with cabana provides the best RE and development suites for CANBUS).
 * 🔝[pcan\_pro\_x](https://github.com/moonglow/pcan_pro_x) ⭐ 358 | 🐛 13 | 🌐 C | 📅 2022-03-11 - PEAK PCAN PRO/PRO FD firmware for STM32F4 based boards.
 * [Arduino-STM32-CAN](https://github.com/nopnop2002/Arduino-STM32-CAN) ⭐ 282 | 🐛 6 | 🌐 C++ | 📅 2026-10-28 - Can communication example for Arduino Core STM32.
 * [eXoCAN](https://github.com/exothink/eXoCAN) ⭐ 87 | 🐛 5 | 🌐 C++ | 📅 2023-11-30 - CAN Library for the STM32F103 aka Blue Pill.
@@ -386,14 +386,14 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 #### STM32F0x2 based HW
 
-* [candleLight\_fw](https://github.com/candle-usb/candleLight_fw) ⭐ 973 | 🐛 33 | 🌐 C | 📅 2026-10-02 - Compatible firmware for candleLight, cantact, canable, CANAlyze, VulCAN.
+* [candleLight\_fw](https://github.com/candle-usb/candleLight_fw) ⭐ 974 | 🐛 33 | 🌐 C | 📅 2026-10-02 - Compatible firmware for candleLight, cantact, canable, CANAlyze, VulCAN.
 * [pcan\_cantact](https://github.com/moonglow/pcan_cantact) ⭐ 440 | 🐛 3 | 🌐 C | 📅 2022-07-28 - XCAN firmware for CANtact ( CANable ) or any other similar boards based on STM32F042.
 * [cantact-hw](https://github.com/linklayer/cantact-hw) ⭐ 404 | 🐛 6 | 🌐 KiCad | 📅 2021-11-08 - Hardware design files for the CANtact tool, use [cantact-fw](https://github.com/linklayer/cantact-fw) ⭐ 283 | 🐛 16 | 🌐 C | 📅 2023-06-30 as firmware source.
 * [candleLight](https://github.com/HubertD/candleLight) ⭐ 402 | 🐛 1 | 🌐 KiCad | 📅 2022-07-28 - KiCAD project of usb-can adapter based on STM32F0.
 * [CANAlyze](https://kkuchera.github.io/canalyze/) - An open source, native CAN interface for Linux that can be built entirely using open source tools, use [canalyze-fw](https://github.com/kkuchera/canalyze-fw) ⭐ 76 | 🐛 9 | 🌐 C | 📅 2023-11-14 as firmware source.
 * [cantact](https://github.com/linklayer/cantact/) ⭐ 59 | 🐛 0 | 🌐 Rust | 📅 2024-08-26 - Drivers and Command Line Interface for CANtact tools.
+* [USB2CAN](https://github.com/roboterclubaachen/usb2can) ⭐ 55 | 🐛 2 | 🌐 Eagle | 📅 2019-10-29 - Compact and isolated USB-to-CAN Adapter.
 * [kvaser\_cantact](https://github.com/moonglow/kvaser_cantact) ⭐ 55 | 🐛 1 | 🌐 C | 📅 2022-03-09 - Xvaser LL v2 firmware for CANtact/CANable or any other similar boards based on STM32F042.
-* [USB2CAN](https://github.com/roboterclubaachen/usb2can) ⭐ 54 | 🐛 2 | 🌐 Eagle | 📅 2019-10-29 - Compact and isolated USB-to-CAN Adapter.
 * [OBD2CAN](https://github.com/autosportlabs/OBD2CAN) ⭐ 47 | 🐛 0 | 🌐 C | 📅 2019-12-12 - Bridge between any OBD2 compliant vehicle and the CAN bus interface (firmware is targeted for the STM32F072, and uses ChibiOS as a RTOS).
 * [CANsniffer on STM32F042](https://github.com/majbthrd/CANsniffer) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2017-11-09 - CANbus sniffer less complicated than existing commercial products.
 * [Cantact FW](https://github.com/x893/cantact-fw) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2015-11-21 - Cantact FirmWare by x893.
@@ -403,10 +403,10 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 * 🔝[arduino-canhacker](https://github.com/autowp/arduino-canhacker) ⭐ 485 | 🐛 13 | 🌐 C++ | 📅 2024-01-19 - CanHacker (lawicel) CAN adapter on Arduino + MCP2515.
 * [Arduino-canbus-monitor](https://github.com/latonita/arduino-canbus-monitor) ⭐ 337 | 🐛 4 | 🌐 C++ | 📅 2026-10-03 - Can bus monitoring tool based on arduino and can bus shield. Implements CAN ASCII/SLCAN protocol compatible with Lawicel CAN232/CANUSB.
-* [W203-canbus](https://github.com/rnd-ash/W203-canbus) ⭐ 176 | 🐛 3 | 🌐 C++ | 📅 2020-08-07 - Arduino project for W211/W219 W203/W209 Mercedes (bluetooth audio control and more).
+* [W203-canbus](https://github.com/rnd-ash/W203-canbus) ⭐ 177 | 🐛 3 | 🌐 C++ | 📅 2020-08-07 - Arduino project for W211/W219 W203/W209 Mercedes (bluetooth audio control and more).
 * [open-usb-can from Fabio Baltieri](https://github.com/fabiobaltieri/open-usb-can) ⚠️ Archived - CAN-to-USB dongle based on ATMega32U and MCP2515.
 * [Arduino-psa-comfort-can-adapter](https://github.com/ludwig-v/arduino-psa-comfort-can-adapter) ⭐ 74 | 🐛 2 | 🌐 C++ | 📅 2025-07-09 - Arduino sketch to operate new PSA (Peugeot, Citroen, DS, Opel) comfort devices (CAN2010) on old BSI CAN-BUS (CAN2004).
-* [CANBus-Triple](https://github.com/CANBus-Triple/CANBus-Triple-Hardware) ⭐ 59 | 🐛 1 | 🌐 Eagle | 📅 2017-06-21 - The car hacking platform based on AVR and MCP2515 works with [this firmware](https://github.com/CANBus-Triple/CANBus-Triple) ⭐ 358 | 🐛 11 | 🌐 C | 📅 2019-11-11.
+* [CANBus-Triple](https://github.com/CANBus-Triple/CANBus-Triple-Hardware) ⭐ 59 | 🐛 1 | 🌐 Eagle | 📅 2017-06-21 - The car hacking platform based on AVR and MCP2515 works with [this firmware](https://github.com/CANBus-Triple/CANBus-Triple) ⭐ 359 | 🐛 11 | 🌐 C | 📅 2019-11-11.
 * [Arduino-CAN-bus-SD-logger](https://github.com/DieselDuz42/Arduino-CAN-bus-SD-logger) ⚠️ Archived - Arduino script to log CAN bus information to SD card. Mainly focused on J1939.
 * [epasuino](https://github.com/srenner/epasuino) ⭐ 6 | 🐛 0 | 🌐 C++ | 📅 2019-02-19 - Arduino based Speed sensitive electric power steering for automobiles  Speed sensitive electric power steering for automobiles.
 * [carfuino](https://github.com/srenner/carfuino) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2018-08-20 - Arduino based Automotive performance computer with Megasquirt integration.
@@ -440,7 +440,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 * [RejsaCAN-ESP32](https://github.com/MagnusThome/RejsaCAN-ESP32) ⭐ 825 | 🐛 1 | 🌐 C++ | 📅 2026-07-26 - ESP32-S3 board with CAN interface.
 * [RejsaCAN-ESP32-C6](https://github.com/MagnusThome/RejsaCAN-ESP32/tree/main/Code%20Examples/RejsaCAN%20v6.x%20-%20ESP32-C6%20-%20DUAL%20CAN%20self%20test) ⭐ 825 | 🐛 1 | 🌐 C++ | 📅 2026-07-26 - Example code that is tested and runs on the new ESP32-C6 that has TWO built in CAN controllers.
 * [esp32-obd2-emulator](https://github.com/limiter121/esp32-obd2-emulator) ⚠️ Archived - Open-source OBD-II emulator based on an ESP32 + CAN transceiver IC, controllable via WiFi through a simple web UI (or via API).
-* [ESP32RET](https://github.com/collin80/ESP32RET) ⭐ 420 | 🐛 47 | 🌐 C++ | 📅 2026-10-22 - CAN Reverse engineering tool for ESP32 based boards (unmaintained).
+* [ESP32RET](https://github.com/collin80/ESP32RET) ⭐ 421 | 🐛 47 | 🌐 C++ | 📅 2026-10-22 - CAN Reverse engineering tool for ESP32 based boards (unmaintained).
 * [ESP32-Arduino-CAN](https://github.com/miwagner/ESP32-Arduino-CAN) ⭐ 397 | 🐛 33 | 🌐 C | 📅 2024-07-29 - Arduino CAN-Bus library for ESP32.
 * [esp32\_obd2](https://github.com/MagnusThome/esp32_obd2) ⭐ 77 | 🐛 0 | 🌐 C++ | 📅 2023-12-23 - Simplified OBD2 layer to run on top of the esp32\_can library that supports the newer ESP32-S3 (Arduino library).
 * [ESP32\_CAN\_Interface](https://github.com/PhilippFux/ESP32_CAN_Interface) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2021-03-10 - Wireless CAN-Interface for the ESP32 which uses the cannelloni protocol to send CAN-Frames via UDP over an Wi-Fi tunnel.
@@ -490,7 +490,7 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 <!--lint disable double-link-->
 
-1. The another awesome list :arrow\_forward: [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 1,029 | 🐛 1 | 📅 2026-11-16 :arrow\_backward: also might be useful.
+1. The another awesome list :arrow\_forward: [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 1,031 | 🐛 1 | 📅 2026-11-16 :arrow\_backward: also might be useful.
 2. Also might be useful [this curated list](https://github.com/iDoka/awesome-linbus) ⭐ 250 | 🐛 1 | 📅 2023-09-06 of awesome tools and resources for LIN bus reverse engineering, LIN hardware development and debugging.
 3. Please follow [this](https://github.com/iDoka/awesome-canbus) root-repo for lastest updates.
 
@@ -550,4 +550,4 @@ All kind of HW like CAN bus USB2CAN dongles, loggers, sniffers, adapters, etc.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
