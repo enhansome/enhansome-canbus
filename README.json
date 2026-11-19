@@ -270,11 +270,11 @@
             "id": 43509302,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-17T23:46:24Z",
-            "open_issues": 138,
+            "last_commit": "2026-11-19T01:09:08Z",
+            "open_issues": 141,
             "owner": "secdev",
             "repo": "scapy",
-            "stars": 12702,
+            "stars": 12703,
             "topics": [
               "network",
               "network-analysis",
@@ -773,10 +773,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-15T01:43:47Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "cedricp",
                 "repo": "ddt4all",
-                "stars": 1942,
+                "stars": 1943,
                 "topics": [
                   "can-bus",
                   "ecu",
@@ -803,7 +803,7 @@
                 "open_issues": 10,
                 "owner": "linklayer",
                 "repo": "pyvit",
-                "stars": 514,
+                "stars": 513,
                 "topics": [
                   "automotive",
                   "automotive-security",
@@ -1010,7 +1010,7 @@
                 "open_issues": 8,
                 "owner": "pylessard",
                 "repo": "python-udsoncan",
-                "stars": 747,
+                "stars": 748,
                 "topics": [
                   "14229",
                   "15765",
@@ -1052,7 +1052,7 @@
                 "open_issues": 5,
                 "owner": "driftregion",
                 "repo": "iso14229",
-                "stars": 378,
+                "stars": 379,
                 "topics": [
                   "arm",
                   "automotive",
@@ -1179,7 +1179,7 @@
                 "open_issues": 0,
                 "owner": "christiansandberg",
                 "repo": "aioisotp",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -1686,7 +1686,7 @@
                 "open_issues": 63,
                 "owner": "linux-can",
                 "repo": "can-utils",
-                "stars": 2959,
+                "stars": 2961,
                 "topics": [
                   "automotive",
                   "can-bus",
@@ -1712,7 +1712,7 @@
                 "open_issues": 63,
                 "owner": "linux-can",
                 "repo": "can-utils",
-                "stars": 2959,
+                "stars": 2961,
                 "topics": [
                   "automotive",
                   "can-bus",
@@ -1804,11 +1804,11 @@
                 "id": 52909975,
                 "language": "C++",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-18T18:41:03Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-19T16:10:22Z",
+                "open_issues": 19,
                 "owner": "PlotJuggler",
                 "repo": "PlotJuggler",
-                "stars": 6326,
+                "stars": 6329,
                 "topics": [
                   "chart",
                   "csv",
@@ -1843,7 +1843,7 @@
                 "open_issues": 282,
                 "owner": "collin80",
                 "repo": "SavvyCAN",
-                "stars": 1930,
+                "stars": 1932,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -1908,10 +1908,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-05T14:43:55Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "ecubus",
                 "repo": "EcuBus-Pro",
-                "stars": 910,
+                "stars": 912,
                 "topics": [
                   "can",
                   "cantp",
@@ -2032,7 +2032,7 @@
                 "open_issues": 5,
                 "owner": "Chanchaldhiman",
                 "repo": "CANviz",
-                "stars": 297,
+                "stars": 298,
                 "topics": [
                   "automotive",
                   "can",
@@ -2587,7 +2587,7 @@
                 "id": 1243250233,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-18T15:27:00Z",
+                "last_commit": "2026-11-19T13:35:07Z",
                 "open_issues": 3,
                 "owner": "philipkocanda",
                 "repo": "canair",
@@ -2678,10 +2678,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-17T16:23:21Z",
-                "open_issues": 94,
+                "open_issues": 95,
                 "owner": "cantools",
                 "repo": "cantools",
-                "stars": 2324,
+                "stars": 2325,
                 "topics": [
                   "arxml",
                   "can-bus",
@@ -2707,10 +2707,10 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-11-15T18:37:57Z",
-                "open_issues": 284,
+                "open_issues": 287,
                 "owner": "hardbyte",
                 "repo": "python-can",
-                "stars": 1614,
+                "stars": 1616,
                 "topics": [
                   "can-bus",
                   "python"
@@ -2978,8 +2978,8 @@
                 "id": 30972974,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-08-21T13:36:16Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-19T13:51:23Z",
+                "open_issues": 10,
                 "owner": "mguentner",
                 "repo": "cannelloni",
                 "stars": 477,
@@ -3309,7 +3309,7 @@
                 "id": 143218625,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-17T13:03:58Z",
+                "last_commit": "2026-11-19T07:03:59Z",
                 "open_issues": 7,
                 "owner": "pschichtel",
                 "repo": "JavaCAN",
@@ -3640,10 +3640,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-17T16:23:21Z",
-                "open_issues": 94,
+                "open_issues": 95,
                 "owner": "cantools",
                 "repo": "cantools",
-                "stars": 2324,
+                "stars": 2325,
                 "topics": [
                   "arxml",
                   "can-bus",
@@ -3669,7 +3669,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-18T13:21:18Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "ebroecker",
                 "repo": "canmatrix",
                 "stars": 1093,
@@ -4139,6 +4139,36 @@
             },
             {
               "node_type": "item",
+              "title": "PiCCANTE",
+              "description": "Open-source CAN hacking tool based on Raspberry Pi Pico (1|2|W) - Up to 3x CAN interfaces, includes ELM327 emulator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "PiCCANTE is a powerful tool for exploring and reversing CAN busses of vehicles, based on Raspberry Pi Pico (any model)",
+                "homepage": null,
+                "id": 957214701,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-01-26T00:26:12Z",
+                "open_issues": 13,
+                "owner": "Alia5",
+                "repo": "PiCCANTE",
+                "stars": 106,
+                "topics": [
+                  "2040",
+                  "2350",
+                  "can",
+                  "canbus",
+                  "car",
+                  "car-hacking",
+                  "reverse-engineering",
+                  "vehicle"
+                ]
+              },
+              "first_seen": "2026-08-28T21:14:48.873Z"
+            },
+            {
+              "node_type": "item",
               "title": "SuperCAN",
               "description": "An open source USB to CAN-FD protocol firmware (ATSAME51).",
               "children": [],
@@ -4174,36 +4204,6 @@
                   "teensy40",
                   "teensy41",
                   "usb"
-                ]
-              },
-              "first_seen": "2026-08-28T21:14:48.873Z"
-            },
-            {
-              "node_type": "item",
-              "title": "PiCCANTE",
-              "description": "Open-source CAN hacking tool based on Raspberry Pi Pico (1|2|W) - Up to 3x CAN interfaces, includes ELM327 emulator.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "PiCCANTE is a powerful tool for exploring and reversing CAN busses of vehicles, based on Raspberry Pi Pico (any model)",
-                "homepage": null,
-                "id": 957214701,
-                "language": "C++",
-                "license": "GPL-3.0",
-                "last_commit": "2026-01-26T00:26:12Z",
-                "open_issues": 13,
-                "owner": "Alia5",
-                "repo": "PiCCANTE",
-                "stars": 105,
-                "topics": [
-                  "2040",
-                  "2350",
-                  "can",
-                  "canbus",
-                  "car",
-                  "car-hacking",
-                  "reverse-engineering",
-                  "vehicle"
                 ]
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -4296,11 +4296,11 @@
                     "id": 87490037,
                     "language": "C",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T03:41:26Z",
+                    "last_commit": "2026-11-19T06:15:10Z",
                     "open_issues": 53,
                     "owner": "commaai",
                     "repo": "panda",
-                    "stars": 1708,
+                    "stars": 1709,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:14:48.873Z"
@@ -4321,7 +4321,7 @@
                     "open_issues": 13,
                     "owner": "moonglow",
                     "repo": "pcan_pro_x",
-                    "stars": 358,
+                    "stars": 359,
                     "topics": [
                       "busmaster",
                       "canutils",
@@ -4346,7 +4346,7 @@
                     "id": 243243193,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-10-28T23:47:28Z",
+                    "last_commit": "2026-11-19T00:34:02Z",
                     "open_issues": 6,
                     "owner": "nopnop2002",
                     "repo": "Arduino-STM32-CAN",
@@ -6130,8 +6130,8 @@
                 "id": 160974479,
                 "language": "VHDL",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T15:17:56Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-19T14:24:14Z",
+                "open_issues": 15,
                 "owner": "Logic-Design-Services",
                 "repo": "CTU-CAN-FD",
                 "stars": 81,
@@ -6377,7 +6377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T19:00:17.889Z",
+    "last_updated": "2026-11-19T19:07:59.057Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -6389,7 +6389,7 @@
       "open_issues": 3,
       "owner": "iDoka",
       "repo": "awesome-canbus",
-      "stars": 3573,
+      "stars": 3572,
       "topics": [
         "automotive",
         "automotive-security",
