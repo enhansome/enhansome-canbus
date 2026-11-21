@@ -206,7 +206,7 @@
             "open_issues": 1,
             "owner": "linklayer",
             "repo": "reversegear",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:48.873Z"
@@ -270,11 +270,11 @@
             "id": 43509302,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-19T01:09:08Z",
-            "open_issues": 141,
+            "last_commit": "2026-11-21T14:46:04Z",
+            "open_issues": 140,
             "owner": "secdev",
             "repo": "scapy",
-            "stars": 12705,
+            "stars": 12707,
             "topics": [
               "network",
               "network-analysis",
@@ -401,7 +401,7 @@
             "open_issues": 0,
             "owner": "souravbaghz",
             "repo": "Carpunk",
-            "stars": 329,
+            "stars": 330,
             "topics": [
               "automotive-hacking",
               "automotive-security",
@@ -550,7 +550,7 @@
             "open_issues": 3,
             "owner": "renault",
             "repo": "cananalyze",
-            "stars": 89,
+            "stars": 90,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:48.873Z"
@@ -773,10 +773,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-15T01:43:47Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "cedricp",
                 "repo": "ddt4all",
-                "stars": 1946,
+                "stars": 1947,
                 "topics": [
                   "can-bus",
                   "ecu",
@@ -803,7 +803,7 @@
                 "open_issues": 10,
                 "owner": "linklayer",
                 "repo": "pyvit",
-                "stars": 513,
+                "stars": 514,
                 "topics": [
                   "automotive",
                   "automotive-security",
@@ -851,7 +851,7 @@
                 "open_issues": 9,
                 "owner": "provrb",
                 "repo": "obdium",
-                "stars": 482,
+                "stars": 483,
                 "topics": [
                   "automotive",
                   "car-diagnostics",
@@ -1294,7 +1294,7 @@
                 "open_issues": 11,
                 "owner": "nmfta-repo",
                 "repo": "pretty_j1939",
-                "stars": 82,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -1804,11 +1804,11 @@
                 "id": 52909975,
                 "language": "C++",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-20T18:20:21Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-21T17:39:44Z",
+                "open_issues": 12,
                 "owner": "PlotJuggler",
                 "repo": "PlotJuggler",
-                "stars": 6333,
+                "stars": 6334,
                 "topics": [
                   "chart",
                   "csv",
@@ -1843,7 +1843,7 @@
                 "open_issues": 282,
                 "owner": "collin80",
                 "repo": "SavvyCAN",
-                "stars": 1934,
+                "stars": 1938,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:14:48.873Z"
@@ -1911,7 +1911,7 @@
                 "open_issues": 58,
                 "owner": "ecubus",
                 "repo": "EcuBus-Pro",
-                "stars": 912,
+                "stars": 913,
                 "topics": [
                   "can",
                   "cantp",
@@ -2453,7 +2453,7 @@
                 "id": 1433186516,
                 "language": "C++",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-19T22:37:55Z",
+                "last_commit": "2026-11-21T00:07:50Z",
                 "open_issues": 7,
                 "owner": "teoCLMR",
                 "repo": "busmaster-ng",
@@ -2498,7 +2498,7 @@
                 "open_issues": 3,
                 "owner": "tomrford",
                 "repo": "cantraceviewer",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "automotive",
                   "blf",
@@ -2587,7 +2587,7 @@
                 "id": 1243250233,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-19T13:35:07Z",
+                "last_commit": "2026-11-21T14:05:11Z",
                 "open_issues": 3,
                 "owner": "philipkocanda",
                 "repo": "canair",
@@ -2678,7 +2678,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-20T11:27:22Z",
-                "open_issues": 87,
+                "open_issues": 89,
                 "owner": "cantools",
                 "repo": "cantools",
                 "stars": 2323,
@@ -2706,11 +2706,11 @@
                 "id": 69090889,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-15T18:37:57Z",
-                "open_issues": 287,
+                "last_commit": "2026-11-21T16:10:22Z",
+                "open_issues": 283,
                 "owner": "hardbyte",
                 "repo": "python-can",
-                "stars": 1614,
+                "stars": 1616,
                 "topics": [
                   "can-bus",
                   "python"
@@ -2982,7 +2982,7 @@
                 "open_issues": 9,
                 "owner": "mguentner",
                 "repo": "cannelloni",
-                "stars": 476,
+                "stars": 475,
                 "topics": [
                   "can-bus",
                   "socketcan"
@@ -3309,7 +3309,7 @@
                 "id": 143218625,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-19T21:04:13Z",
+                "last_commit": "2026-11-20T23:03:55Z",
                 "open_issues": 7,
                 "owner": "pschichtel",
                 "repo": "JavaCAN",
@@ -3640,7 +3640,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-20T11:27:22Z",
-                "open_issues": 87,
+                "open_issues": 89,
                 "owner": "cantools",
                 "repo": "cantools",
                 "stars": 2323,
@@ -3881,7 +3881,7 @@
                 "open_issues": 5,
                 "owner": "GENIVI",
                 "repo": "CANdb",
-                "stars": 150,
+                "stars": 151,
                 "topics": [
                   "automotive",
                   "can",
@@ -4346,7 +4346,7 @@
                     "id": 243243193,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-11-20T13:02:20Z",
+                    "last_commit": "2026-11-21T00:46:25Z",
                     "open_issues": 6,
                     "owner": "nopnop2002",
                     "repo": "Arduino-STM32-CAN",
@@ -6130,7 +6130,7 @@
                 "id": 160974479,
                 "language": "VHDL",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T16:10:51Z",
+                "last_commit": "2026-11-21T13:03:37Z",
                 "open_issues": 13,
                 "owner": "Logic-Design-Services",
                 "repo": "CTU-CAN-FD",
@@ -6306,7 +6306,7 @@
             "open_issues": 1,
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 1031,
+            "stars": 1033,
             "topics": [
               "automotive",
               "automotive-security",
@@ -6377,7 +6377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T18:46:32.781Z",
+    "last_updated": "2026-11-21T17:45:06.651Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
@@ -6386,10 +6386,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-11-16T21:47:33Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "iDoka",
       "repo": "awesome-canbus",
-      "stars": 3572,
+      "stars": 3576,
       "topics": [
         "automotive",
         "automotive-security",
